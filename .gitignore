@@ -1,4 +1,5 @@
 *.zip
+config/Chikachi
 mods
 logs
 .mixin.out
