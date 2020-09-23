@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 25.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "154d338b",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:quicksilver_essence"
+		}]
+	}]
+}

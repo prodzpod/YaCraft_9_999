@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"46c84616"
+	],
+	tasks: [{
+		uid: "da544f45",
+		type: "advancement",
+		advancement: "immersiveengineering:main/multiblock_arcfurnace",
+		criterion: ""
+	}]
+}

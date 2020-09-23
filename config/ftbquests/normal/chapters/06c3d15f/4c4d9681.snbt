@@ -1,0 +1,13 @@
+{
+	title: "&5Macaw's Doors",
+	disable_toast: true,
+	x: 2.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "a1e1e96b",
+		type: "item",
+		items: [{
+			item: "mcwdoors:print_oak"
+		}]
+	}]
+}

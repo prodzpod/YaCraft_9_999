@@ -1,0 +1,14 @@
+{
+	x: -10.5d,
+	y: 4.5d,
+	dependencies: [
+		"48a2bee6"
+	],
+	tasks: [{
+		uid: "a388b03d",
+		type: "item",
+		items: [{
+			item: "embers:diffraction_barrel"
+		}]
+	}]
+}

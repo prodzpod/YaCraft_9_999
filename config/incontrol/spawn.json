@@ -1,0 +1,22 @@
+[
+    {
+        "dimension": 0,
+        "mob": "minecraft:skeleton",
+        "mincount": {
+            "amount": 50,
+            "hostile": true,
+            "perplayer": true
+        },
+        "result": "deny"
+    },
+    {
+        "dimension": 0,
+        "mob": "minecraft:skeleton",
+        "mincount": {
+            "amount": 50,
+            "hostile": true,
+            "perplayer": true
+        },
+        "result": "deny"
+    }
+]

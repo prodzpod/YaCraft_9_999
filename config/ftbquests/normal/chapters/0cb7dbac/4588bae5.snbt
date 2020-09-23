@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "9fd28c27",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_misc 1 7"
+		}]
+	}]
+}

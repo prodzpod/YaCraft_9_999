@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "ac46379c",
+		type: "item",
+		items: [{
+			item: "minecraft:string"
+		}]
+	}]
+}

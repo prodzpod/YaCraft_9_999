@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"cf0e38b3"
+	],
+	tasks: [{
+		uid: "19d09bfa",
+		type: "item",
+		items: [{
+			item: "mekanism:substrate"
+		}]
+	}]
+}

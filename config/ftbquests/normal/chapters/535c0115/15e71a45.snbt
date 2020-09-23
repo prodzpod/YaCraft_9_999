@@ -1,0 +1,16 @@
+{
+	x: 1.25d,
+	y: 12.75d,
+	shape: "rsquare",
+	dependencies: [
+		"7f3a1e32",
+		"60ae19f5"
+	],
+	tasks: [{
+		uid: "5d19a964",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 12"
+		}]
+	}]
+}

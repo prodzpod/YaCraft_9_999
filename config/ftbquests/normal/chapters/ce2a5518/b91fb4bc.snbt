@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 9.0d,
+	dependencies: [
+		"75351d84"
+	],
+	tasks: [{
+		uid: "5bcbf9a9",
+		type: "item",
+		items: [{
+			item: "thaumadditions:aura_disperser"
+		}]
+	}]
+}

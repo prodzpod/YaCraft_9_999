@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 15.0d,
+	shape: "rsquare",
+	dependencies: [
+		"a733c40d",
+		"1adf5fdd"
+	],
+	tasks: [{
+		uid: "386b8e78",
+		type: "item",
+		items: [{
+			item: "tconevo:metal 1 20"
+		}]
+	}]
+}

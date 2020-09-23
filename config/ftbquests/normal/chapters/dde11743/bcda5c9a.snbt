@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.75d,
+	dependencies: [
+		"4efbaf0e"
+	],
+	tasks: [{
+		uid: "b6e880e5",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rad_shielding"
+		}]
+	}]
+}

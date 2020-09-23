@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: -4.5d,
+	dependencies: [
+		"ad22027c"
+	],
+	tasks: [{
+		uid: "cb522ece",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_xp_solidifier"
+		}]
+	}]
+}

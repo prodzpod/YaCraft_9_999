@@ -1,0 +1,13 @@
+{
+	title: "&dQuark",
+	disable_toast: true,
+	x: 1.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "f6f18ffa",
+		type: "item",
+		items: [{
+			item: "quark:paper_wall_sakura"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "&6Charm",
+	disable_toast: true,
+	x: 1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "7931bd2e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "charm:crate"
+		}],
+		ignore_nbt: 1b
+	}]
+}

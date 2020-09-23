@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 3.5d,
+	shape: "gear",
+	dependencies: [
+		"4908b894"
+	],
+	tasks: [{
+		uid: "9abeae89",
+		type: "item",
+		items: [{
+			item: "contenttweaker:reddest_dust"
+		}]
+	}]
+}

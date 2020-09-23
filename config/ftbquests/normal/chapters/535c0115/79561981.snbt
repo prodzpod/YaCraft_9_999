@@ -1,0 +1,15 @@
+{
+	x: 13.5d,
+	y: 7.5d,
+	shape: "gear",
+	dependencies: [
+		"4cffd8dc"
+	],
+	tasks: [{
+		uid: "0c42c3a6",
+		type: "item",
+		items: [{
+			item: "extrabotany:material 1 1"
+		}]
+	}]
+}

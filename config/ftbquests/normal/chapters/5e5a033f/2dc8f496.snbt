@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: 2.5d,
+	dependencies: [
+		"6a08532d"
+	],
+	tasks: [{
+		uid: "a4b2b079",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 4"
+		}]
+	}]
+}

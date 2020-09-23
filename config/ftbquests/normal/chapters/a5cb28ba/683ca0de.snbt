@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	dependencies: [
+		"9aad767a"
+	],
+	tasks: [{
+		uid: "5f91b59c",
+		type: "item",
+		items: [{
+			item: "soot:insulation"
+		}]
+	}]
+}

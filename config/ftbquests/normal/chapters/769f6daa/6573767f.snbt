@@ -1,0 +1,14 @@
+{
+	x: -9.0d,
+	y: -11.0d,
+	dependencies: [
+		"c89bab6c"
+	],
+	tasks: [{
+		uid: "cfcb7284",
+		type: "item",
+		items: [{
+			item: "ftbquests:barrier"
+		}]
+	}]
+}

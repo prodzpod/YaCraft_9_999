@@ -1,0 +1,24 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	dependencies: [
+		"ad9e2073",
+		"6a73df78"
+	],
+	tasks: [{
+		uid: "67c71436",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

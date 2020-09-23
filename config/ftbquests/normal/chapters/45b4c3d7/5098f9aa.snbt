@@ -1,0 +1,13 @@
+{
+	title: "&dNatural Nether Portals",
+	disable_toast: true,
+	x: 0.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "917bdded",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 10.5d,
+	shape: "rsquare",
+	dependencies: [
+		"826c2105"
+	],
+	tasks: [{
+		uid: "7335a54f",
+		type: "item",
+		items: [{
+			item: "embers:alchemy_tablet"
+		}]
+	}]
+}

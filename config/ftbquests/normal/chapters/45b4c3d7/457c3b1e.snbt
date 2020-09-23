@@ -1,0 +1,13 @@
+{
+	title: "&cSpice of Life",
+	disable_toast: true,
+	x: -3.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "a9166014",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}]
+	}]
+}

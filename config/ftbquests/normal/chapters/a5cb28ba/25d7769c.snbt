@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"97e380c5"
+	],
+	tasks: [{
+		uid: "3b1edb64",
+		type: "item",
+		items: [{
+			item: "embers:ingot_dawnstone"
+		}]
+	}]
+}

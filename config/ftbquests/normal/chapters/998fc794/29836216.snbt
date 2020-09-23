@@ -1,0 +1,19 @@
+{
+	x: 13.5d,
+	y: 13.5d,
+	dependencies: [
+		"cc8e23b2"
+	],
+	tasks: [{
+		uid: "ea50451e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_trainer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

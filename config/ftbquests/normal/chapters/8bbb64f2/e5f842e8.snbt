@@ -1,0 +1,19 @@
+{
+	x: 8.0d,
+	y: -3.5d,
+	dependencies: [
+		"c8bcac68"
+	],
+	tasks: [{
+		uid: "8f5c1629",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:watering_can_insanium"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

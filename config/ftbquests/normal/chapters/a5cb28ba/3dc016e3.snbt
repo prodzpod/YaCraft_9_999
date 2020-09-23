@@ -1,0 +1,14 @@
+{
+	x: -7.5d,
+	y: 1.5d,
+	dependencies: [
+		"74773980"
+	],
+	tasks: [{
+		uid: "da2de2bb",
+		type: "item",
+		items: [{
+			item: "embers:anti_tinker_lens"
+		}]
+	}]
+}

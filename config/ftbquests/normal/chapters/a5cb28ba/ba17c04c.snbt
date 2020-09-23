@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 13.5d,
+	dependencies: [
+		"7e59ac6d"
+	],
+	tasks: [{
+		uid: "b55bb374",
+		type: "item",
+		items: [{
+			item: "embers:adhesive"
+		}]
+	}]
+}

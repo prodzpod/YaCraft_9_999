@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 16.5d,
+	dependencies: [
+		"ffd0474a"
+	],
+	tasks: [{
+		uid: "a29dffb5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "planarartifice:mirrored_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

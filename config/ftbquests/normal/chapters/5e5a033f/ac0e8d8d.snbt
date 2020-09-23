@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: 10.0d,
+	dependencies: [
+		"1f233aaa"
+	],
+	tasks: [{
+		uid: "7b58a75e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:hungry_chest"
+		}]
+	}]
+}

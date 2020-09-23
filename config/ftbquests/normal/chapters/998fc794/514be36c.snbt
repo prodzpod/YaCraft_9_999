@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"fead2685"
+	],
+	tasks: [{
+		uid: "5fca32f8",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	}]
+}

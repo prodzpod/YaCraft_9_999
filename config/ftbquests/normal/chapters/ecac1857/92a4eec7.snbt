@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"95de1df5"
+	],
+	tasks: [{
+		uid: "a7e04ca3",
+		type: "item",
+		items: [{
+			item: "rustic:apiary"
+		}]
+	}]
+}

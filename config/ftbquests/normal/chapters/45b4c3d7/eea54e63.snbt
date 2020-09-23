@@ -1,0 +1,13 @@
+{
+	title: "&aASMC",
+	disable_toast: true,
+	x: 1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "66469a80",
+		type: "item",
+		items: [{
+			item: "minecraft:noteblock"
+		}]
+	}]
+}

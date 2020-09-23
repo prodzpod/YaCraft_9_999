@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 12.0d,
+	shape: "rsquare",
+	dependencies: [
+		"d67d0785",
+		"9157eee7"
+	],
+	tasks: [{
+		uid: "78802616",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:compound"
+		}]
+	}]
+}

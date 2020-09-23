@@ -1,0 +1,15 @@
+{
+	x: -5.5d,
+	y: -5.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"de528c53"
+	],
+	tasks: [{
+		uid: "dc7675bd",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:fertilizer"
+		}]
+	}]
+}

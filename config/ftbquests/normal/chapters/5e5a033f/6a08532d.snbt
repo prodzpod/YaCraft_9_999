@@ -1,0 +1,12 @@
+{
+	x: 10.0d,
+	y: 2.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "0b611fe7",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 7"
+		}]
+	}]
+}

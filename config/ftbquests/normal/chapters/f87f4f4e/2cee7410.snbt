@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -7.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"de528c53"
+	],
+	tasks: [{
+		uid: "28c7fdd3",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:filter"
+		}]
+	}]
+}

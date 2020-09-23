@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	dependencies: [
+		"4816eb5a"
+	],
+	tasks: [{
+		uid: "68bb0f87",
+		type: "item",
+		items: [{
+			item: "bewitchment:bottle_of_blood"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "28935064",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:inferium_apple"
+		}]
+	}]
+}

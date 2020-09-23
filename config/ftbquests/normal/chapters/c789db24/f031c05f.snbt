@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "7c3418b2",
+		type: "item",
+		items: [{
+			item: "tconstruct:fancy_frame 1 6"
+		}]
+	}]
+}

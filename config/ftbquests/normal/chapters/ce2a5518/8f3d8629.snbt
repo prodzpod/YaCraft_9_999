@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b3a7da67",
+		"3930bea8",
+		"b9127ddd"
+	],
+	tasks: [{
+		uid: "efd39384",
+		type: "item",
+		items: [{
+			item: "planarartifice:bismuth_ingot"
+		}]
+	}]
+}

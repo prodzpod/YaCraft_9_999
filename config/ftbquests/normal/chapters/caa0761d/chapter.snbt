@@ -1,0 +1,7 @@
+{
+	title: "&2[5]&r티어: 초기 마공학",
+	icon: "thaumcraft:mechanism_simple",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

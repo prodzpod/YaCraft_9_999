@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: 2.5d,
+	dependencies: [
+		"3b9a8484"
+	],
+	tasks: [{
+		uid: "c6757ef3",
+		type: "item",
+		items: [{
+			item: "bloodarsenal:blood_capacitor"
+		}]
+	}]
+}

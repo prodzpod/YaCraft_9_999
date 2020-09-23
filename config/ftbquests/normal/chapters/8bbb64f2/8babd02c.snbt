@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.5d,
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "5fd0fade",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ice_essence"
+		}]
+	}]
+}

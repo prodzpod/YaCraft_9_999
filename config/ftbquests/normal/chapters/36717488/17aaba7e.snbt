@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"dc9437e4",
+		"e738dedd"
+	],
+	tasks: [{
+		uid: "492a140e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:reactor_core"
+		}]
+	}]
+}

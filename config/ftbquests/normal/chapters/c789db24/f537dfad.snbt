@@ -1,0 +1,69 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"7fc0a4f1"
+	],
+	tasks: [{
+		uid: "fa859758",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 78,
+					HarvestLevel: 0,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 6,
+					Durability: 78,
+					HarvestLevel: 0,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"harvest",
+						"tool",
+						"aoe"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"xu_magical_wood",
+						"xu_magical_wood",
+						"xu_magical_wood",
+						"xu_magical_wood"
+					],
+					Modifiers: []
+				},
+				Modifiers: [{
+					identifier: "magical_modifier",
+					color: -131160,
+					level: 1,
+					magical_modifier: 1b
+				},
+				{
+					identifier: "brittle",
+					color: -131160,
+					level: 1
+				}],
+				Traits: [
+					"magical_modifier",
+					"brittle"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

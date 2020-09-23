@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"fead7441"
+	],
+	tasks: [{
+		uid: "2759e84c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:fiery_chalk"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

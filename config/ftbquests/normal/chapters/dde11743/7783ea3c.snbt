@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 2.25d,
+	dependencies: [
+		"4efbaf0e"
+	],
+	tasks: [{
+		uid: "d6d00630",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:radaway"
+		}]
+	}]
+}

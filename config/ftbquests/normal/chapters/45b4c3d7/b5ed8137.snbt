@@ -1,0 +1,13 @@
+{
+	title: "&aTree Growing Simulator",
+	disable_toast: true,
+	x: 2.5d,
+	y: 8.5d,
+	tasks: [{
+		uid: "bcaee4ce",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling 1 3"
+		}]
+	}]
+}

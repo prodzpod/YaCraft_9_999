@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "d041a3c2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:boline"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

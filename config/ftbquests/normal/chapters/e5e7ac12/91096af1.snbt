@@ -1,0 +1,22 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	dependencies: [
+		"0127b873",
+		"253e724a"
+	],
+	tasks: [{
+		uid: "97a90ce7",
+		type: "item",
+		items: [{
+			id: "agricraft:agri_seed",
+			tag: {
+				agri_analyzed: 0b,
+				agri_strength: 1b,
+				agri_gain: 1b,
+				agri_seed: "vanilla:brown_mushroom_plant",
+				agri_growth: 1b
+			}
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 8.0d,
+	dependencies: [
+		"02ef1683"
+	],
+	tasks: [{
+		uid: "76e9a966",
+		type: "item",
+		items: [{
+			item: "botanicadds:pool_dreaming"
+		}]
+	}]
+}

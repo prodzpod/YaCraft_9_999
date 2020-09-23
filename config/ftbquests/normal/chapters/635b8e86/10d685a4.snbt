@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "a7c33c6e",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}]
+}

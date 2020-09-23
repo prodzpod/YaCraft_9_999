@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"2e3d4abd"
+	],
+	tasks: [{
+		uid: "1173ad86",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_pylon"
+		}]
+	}]
+}

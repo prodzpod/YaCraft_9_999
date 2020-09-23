@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 5.5d,
+	dependencies: [
+		"a5917baf"
+	],
+	tasks: [{
+		uid: "7cfab976",
+		type: "item",
+		items: [{
+			item: "cfm:crate"
+		}]
+	}]
+}

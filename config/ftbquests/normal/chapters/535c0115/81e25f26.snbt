@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 10.0d,
+	dependencies: [
+		"e615cd1a"
+	],
+	tasks: [{
+		uid: "155a9753",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "gourmaryllis"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	dependencies: [
+		"be187b2d",
+		"8aed7646"
+	],
+	tasks: [{
+		uid: "60e7f3e6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "bewitchment:book_of_shadows"
+			}
+		}]
+	}]
+}

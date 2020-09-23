@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 2.25d,
+	dependencies: [
+		"7783ea3c"
+	],
+	tasks: [{
+		uid: "7cf7cf70",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:radaway_slow"
+		}]
+	}]
+}

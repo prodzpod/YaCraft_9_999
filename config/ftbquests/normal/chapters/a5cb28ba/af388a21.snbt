@@ -1,0 +1,16 @@
+{
+	x: -10.0d,
+	y: 1.0d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"33f55e76"
+	],
+	tasks: [{
+		uid: "e1330dcc",
+		type: "item",
+		items: [{
+			item: "soot:mundane_stone"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 3.0d,
+	y: 15.0d,
+	dependencies: [
+		"00a53099"
+	],
+	tasks: [{
+		uid: "294ddc5e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:cutting_fluid",
+			tag: {},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

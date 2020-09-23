@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"19c51cb0"
+	],
+	tasks: [{
+		uid: "cdf67167",
+		type: "dimension",
+		title: "지옥 입성",
+		icon: "minecraft:netherrack",
+		dim: 0
+	}]
+}

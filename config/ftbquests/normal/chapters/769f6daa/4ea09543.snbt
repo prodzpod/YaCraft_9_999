@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: -1.0d,
+	dependencies: [
+		"c22f2477"
+	],
+	tasks: [{
+		uid: "7f96a04b",
+		type: "item",
+		items: [{
+			item: "extrautils2:creativeenergy"
+		}]
+	}]
+}

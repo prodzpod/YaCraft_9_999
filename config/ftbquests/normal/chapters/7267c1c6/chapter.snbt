@@ -1,0 +1,12 @@
+{
+	title: "&2[5]&r: 이머시브 엔지니어링",
+	icon: {
+		id: "immersiveengineering:conveyor",
+		tag: {
+			conveyorType: "immersiveengineering:covered"
+		}
+	},
+	always_invisible: false,
+	group: -895453667,
+	default_quest_shape: ""
+}

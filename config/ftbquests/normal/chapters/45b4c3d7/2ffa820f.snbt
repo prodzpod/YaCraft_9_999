@@ -1,0 +1,13 @@
+{
+	title: "&6RandomPatches",
+	disable_toast: true,
+	x: 2.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "16f0f761",
+		type: "item",
+		items: [{
+			item: "minecraft:wool 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 2.5d,
+	shape: "gear",
+	dependencies: [
+		"c08f02c6"
+	],
+	tasks: [{
+		uid: "6ad2e544",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:gem 1 1"
+		}]
+	}]
+}

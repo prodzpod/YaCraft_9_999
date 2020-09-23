@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"b57baf56"
+	],
+	tasks: [{
+		uid: "f3843b75",
+		type: "item",
+		items: [{
+			item: "tconstruct:clear_glass"
+		}]
+	}]
+}

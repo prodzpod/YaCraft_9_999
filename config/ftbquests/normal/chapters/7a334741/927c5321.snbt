@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: 7.5d,
+	shape: "gear",
+	dependencies: [
+		"c11f86ae"
+	],
+	tasks: [{
+		uid: "108575a0",
+		type: "item",
+		items: [{
+			item: "minecraft:command_block"
+		}]
+	}]
+}

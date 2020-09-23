@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 22.5d,
+	shape: "gear",
+	dependencies: [
+		"54b737df",
+		"0bf5a67d",
+		"68f7d3c4"
+	],
+	tasks: [{
+		uid: "20a0e5bf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fabric_of_the_cosmos"
+		}]
+	}]
+}

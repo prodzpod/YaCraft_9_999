@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 6.0d,
+	dependencies: [
+		"50031812"
+	],
+	tasks: [{
+		uid: "219ac337",
+		type: "item",
+		items: [{
+			item: "thaumicrestoration:block_adv_recharge_pedestal"
+		}]
+	}]
+}

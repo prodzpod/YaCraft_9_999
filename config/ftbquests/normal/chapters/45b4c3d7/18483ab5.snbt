@@ -1,0 +1,18 @@
+{
+	title: "&6Dirt to Path",
+	disable_toast: true,
+	x: 2.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "6f15c982",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

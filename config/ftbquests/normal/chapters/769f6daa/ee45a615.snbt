@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 2.0d,
+	dependencies: [
+		"a87ceed4"
+	],
+	tasks: [{
+		uid: "60deb483",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:stuff 1 69"
+		}]
+	}]
+}

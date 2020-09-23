@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: -6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"19247cfa"
+	],
+	tasks: [{
+		uid: "90aec253",
+		type: "item",
+		items: [{
+			item: "extrautils2:klein"
+		}]
+	}]
+}

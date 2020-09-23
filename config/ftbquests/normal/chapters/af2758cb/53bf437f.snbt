@@ -1,0 +1,14 @@
+{
+	x: 12.0d,
+	y: -2.5d,
+	dependencies: [
+		"54b74fac"
+	],
+	tasks: [{
+		uid: "1f291593",
+		type: "item",
+		items: [{
+			item: "mekanismgenerators:turbineblade"
+		}]
+	}]
+}

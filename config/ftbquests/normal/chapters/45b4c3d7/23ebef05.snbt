@@ -1,0 +1,13 @@
+{
+	title: "&eRecurrent Complex",
+	disable_toast: true,
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "c18b9c16",
+		type: "item",
+		items: [{
+			item: "minecraft:brown_mushroom"
+		}]
+	}]
+}

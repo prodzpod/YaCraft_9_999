@@ -1,0 +1,20 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"b874b969"
+	],
+	tasks: [{
+		uid: "82a84a99",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:arcane_tome",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,89 @@
+{
+  "discord": {
+    "token": "NjI2OTQ4OTU1OTkyNzUyMTQ4.XvkhMA.GgiUTh8N107Ycw4Cb_4M-8t8ttw",
+    "ignoresBots": true,
+    "allowLinking": true,
+    "ignoresUsers": [],
+    "channels": {
+      "generic": {
+        "commandPrefix": "!",
+        "canExecuteCommands": false,
+        "stripMinecraftCodes": true,
+        "allowDMCommands": false,
+        "relayChat": true,
+        "messages": {
+          "chatMessage": "<\u00A79{USER}\u00A7r> {MESSAGE}"
+        },
+        "commands": []
+      },
+      "channels": {
+        "726927311550808116": {}
+      }
+    }
+  },
+  "minecraft": {
+    "dimensions": {
+      "generic": {
+        "ignoreFakePlayerChat": true,
+        "relaySayCommand": true,
+        "relayMeCommand": true,
+        "canMentionEveryone": false,
+        "canMentionHere": false,
+        "messageIgnoreRegex": [],
+        "relayServerStart": true,
+        "relayServerStop": true,
+        "relayServerCrash": true,
+        "chatPrefix": "",
+        "canMentionUsers": true,
+        "canMentionRoles": true,
+        "discordChannel": [
+          726927311550808116
+        ],
+        "relayAchievements": true,
+        "relayChat": true,
+        "relayCommands": true,
+        "relayPlayerJoin": true,
+        "relayPlayerLeave": true,
+        "relayPlayerDeath": true,
+        "messages": {
+          "chatMessage": {
+            "normal": "**<{USER}>** {MESSAGE}",
+            "webhook": "{MESSAGE}"
+          },
+          "command": {
+            "normal": "*{USER} executed command {COMMAND} {ARGUMENTS}*",
+            "webhook": "*executed **{COMMAND} {ARGUMENTS}***"
+          },
+          "playerJoin": {
+            "normal": "<:sprouthappy:713172533771501578> **{USER}** just joined the server!",
+            "webhook": "*Joined the server!*"
+          },
+          "playerLeave": {
+            "normal": "<:sproutcry:725524212391084032> **{USER}** just left the server!",
+            "webhook": "*Left the server!*"
+          },
+          "playerDeath": {
+            "normal": "💀 **{USER}** just died due to {REASON}!",
+            "webhook": "*{REASON}*"
+          },
+          "achievement": {
+            "normal": "🌠 **{USER}** just gained the achievement **{ACHIEVEMENT}**!\n> *{DESCRIPTION}*",
+            "webhook": "*Gained the achievement **{ACHIEVEMENT}**!\n{DESCRIPTION}*"
+          },
+          "serverStart": "🌝 **Server started!**",
+          "serverStop": "👋 **Server stopped!**",
+          "serverCrash": "⚠️ **Server crash detected!**"
+        }
+      },
+      "dimensions": {}
+    },
+    "integrations": {
+      "dynmapEnabled": true
+    }
+  },
+  "imc": {
+    "enabled": true,
+    "mode": "whitelist",
+    "list": []
+  }
+}

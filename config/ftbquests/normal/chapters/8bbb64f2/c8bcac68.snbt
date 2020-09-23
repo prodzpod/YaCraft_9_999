@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: -3.0d,
+	dependencies: [
+		"9e5a272f",
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "3658a810",
+		type: "item",
+		items: [{
+			item: "mysticaladaptations:insanium_fertilization_core"
+		}]
+	}]
+}

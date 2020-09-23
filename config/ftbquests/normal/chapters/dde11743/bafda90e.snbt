@@ -1,0 +1,15 @@
+{
+	x: 18.0d,
+	y: 7.5d,
+	dependencies: [
+		"5ba9d7b3",
+		"71676fa9"
+	],
+	tasks: [{
+		uid: "0672206b",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_curium 1 3"
+		}]
+	}]
+}

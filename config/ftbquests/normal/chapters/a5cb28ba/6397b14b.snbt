@@ -1,0 +1,15 @@
+{
+	x: -3.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"25d7769c"
+	],
+	tasks: [{
+		uid: "10559420",
+		type: "item",
+		items: [{
+			item: "embers:dawnstone_anvil"
+		}]
+	}]
+}

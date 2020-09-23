@@ -1,0 +1,16 @@
+{
+	x: 6.75d,
+	y: -5.25d,
+	shape: "gear",
+	dependencies: [
+		"efaf375b"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "67b9a452",
+		type: "item",
+		items: [{
+			item: "extrautils2:compressedcobblestone 1 7"
+		}]
+	}]
+}

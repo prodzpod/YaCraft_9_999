@@ -1,0 +1,62 @@
+{
+	title: "&5[8&f+&5]&r: 메카니즘",
+	icon: "mekanism:reinforcedalloy",
+	always_invisible: false,
+	group: 2053191479,
+	default_quest_shape: "",
+	images: [{
+		x: -4.0d,
+		y: -11.5d,
+		width: 12.0d,
+		height: 8.0d,
+		rotation: 0.0d,
+		image: "prod:meka1.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 12.0d,
+		y: -9.0d,
+		width: 12.0d,
+		height: 10.0d,
+		rotation: 0.0d,
+		image: "prod:meka2.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: -9.0d,
+		y: -2.5d,
+		width: 12.0d,
+		height: 8.0d,
+		rotation: 0.0d,
+		image: "prod:meka5.jpg",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 12.0d,
+		y: 4.5d,
+		width: 6.0d,
+		height: 16.0d,
+		rotation: 0.0d,
+		image: "prod:meka3.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 12.0d,
+		y: 18.5d,
+		width: 6.0d,
+		height: 16.0d,
+		rotation: 0.0d,
+		image: "prod:meka4.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

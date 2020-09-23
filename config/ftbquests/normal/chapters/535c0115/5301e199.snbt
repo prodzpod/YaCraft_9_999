@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 11.5d,
+	dependencies: [
+		"714edaef"
+	],
+	tasks: [{
+		uid: "f7793918",
+		type: "item",
+		items: [{
+			item: "minecraft:poisonous_potato"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	title: "&6Hwyla",
+	disable_toast: true,
+	x: -1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "684824a7",
+		type: "item",
+		items: [{
+			item: "minecraft:glass"
+		}]
+	}]
+}

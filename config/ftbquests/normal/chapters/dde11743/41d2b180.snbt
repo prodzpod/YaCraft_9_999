@@ -1,0 +1,15 @@
+{
+	x: 28.5d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"72498221"
+	],
+	tasks: [{
+		uid: "620ef4d3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:duranium_281_oxide"
+		}]
+	}]
+}

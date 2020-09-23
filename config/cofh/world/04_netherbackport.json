@@ -1,0 +1,248 @@
+{
+    "dependencies": "netherbackport",
+	"populate": {
+		"basalt": {
+			"distribution": "sequential",
+			"features": [{
+				"distribution": "cave",
+				"generator": [{
+					"type": "plate",
+					"block": "netherbackport:basalt",
+					"radius": 10,
+					"height": 4,
+					"material": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 5
+				}, {
+					"type": "sparse-cluster",
+					"block": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 100
+				}],
+				"cluster-count": 12,
+				"ground-level": 128
+			}, {
+				"distribution": "uniform",
+				"generator": {
+					"type": "cluster",
+					"block": "netherbackport:blackstone",
+					"cluster-size": 33,
+					"material": "minecraft:netherrack"
+				},
+				"cluster-count": 16,
+				"min-height": 90,
+				"max-height": 128
+			}, {
+				"distribution": "uniform",
+				"generator": [{
+					"type": "stalagmite",
+					"block": "netherbackport:polishedbasalt",
+					"gen-body": ["netherbackport:basalt", "minecraft:netherrack", "minecraft:air"],
+					"material": ["minecraft:netherrack", "minecraft:air"],
+					"size-variance": 1,
+					"height-variance": 16,
+					"min-height": 16,
+					"weight": 10
+				}, {
+					"type": "sparse-cluster",
+					"block": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 100
+				}],
+				"cluster-count": 3,
+				"min-height": 64,
+				"max-height": 128
+			}],
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [-1]
+			}
+		},
+		"soulsoil": {
+			"distribution": "sequential",
+			"features": [{
+				"distribution": "cave",
+				"generator": [{
+					"type": "plate",
+					"block": "netherbackport:soulsoil",
+					"radius": 10,
+					"height": 4,
+					"material": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 5
+				}, {
+					"type": "sparse-cluster",
+					"block": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 100
+				}],
+				"cluster-count": 12,
+				"ground-level": 128
+			}, {
+				"distribution": "uniform",
+				"generator": {
+					"type": "cluster",
+					"block": "minecraft:soul_sand",
+					"cluster-size": 33,
+					"material": "netherbackport:soulsoil"
+				},
+				"cluster-count": 16,
+				"min-height": 0,
+				"max-height": 128
+			}, {
+				"distribution": "cave",
+				"generator": {
+					"type": "decoration",
+					"block": "netherbackport:soulfire",
+					"see-sky": false,
+					"check-stay": false,
+					"surface": ["netherbackport:soulsoil"],
+					"material": ["minecraft:air", "netherbackport:soulsoil", "minecraft:soul_sand"],
+					"cluster-size": 1
+				},
+				"cluster-count": 5,
+				"ground-level": 128
+			}],
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [-1]
+			}
+		},
+		"nylium": {
+			"distribution": "sequential",
+			"features": [{
+				"distribution": "cave",
+				"generator": [{
+					"type": "plate",
+					"block": "netherbackport:crimsonnylium",
+					"radius": 10,
+					"height": 1,
+					"material": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 10
+				}, {
+					"type": "sparse-cluster",
+					"block": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 100
+				}],
+				"cluster-count": 5,
+				"ground-level": 128
+			}, {
+				"distribution": "cave",
+				"generator": {
+					"type": "small-tree",
+					"block": "netherbackport:crimsonstem",
+					"leaves": "minecraft:nether_wart_block",
+					"tree-checks": false,
+					"surface": "netherbackport:crimsonnylium",
+					"material": ["minecraft:air", "minecraft:netherrack", "netherbackport:crimsonnylium"]
+				},
+				"cluster-count": 5,
+				"ground-level": 128
+			}, {
+				"distribution": "cave",
+				"generator": {
+					"type": "decoration",
+					"block": ["netherbackport:crimsonfungi", "netherbackport:crimsonroots", "netherbackport:weepingvines"],
+					"see-sky": false,
+					"check-stay": false,
+					"surface": "netherbackport:crimsonnylium",
+					"material": ["minecraft:air", "minecraft:netherrack", "netherbackport:crimsonnylium"],
+					"cluster-size": 32
+				},
+				"cluster-count": 10,
+				"ground-level": 128
+			}, {
+				"distribution": "cave",
+				"generator": {
+					"type": "decoration",
+					"block": "netherbackport:shroomlight",
+					"see-sky": false,
+					"check-stay": false,
+					"surface": ["minecraft:nether_wart_block", "netherbackport:crimsonnylium"],
+					"material": ["minecraft:air", "minecraft:netherrack", "netherbackport:crimsonnylium", "minecraft:nether_wart_block"],
+					"cluster-size": 1
+				},
+				"cluster-count": 5,
+				"ground-level": 128
+			}],
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [-1]
+			}
+		},
+		"nylium2": {
+			"distribution": "sequential",
+			"features": [{
+				"distribution": "cave",
+				"generator": [{
+					"type": "plate",
+					"block": "netherbackport:warpednylium",
+					"radius": 10,
+					"height": 1,
+					"material": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 10
+				}, {
+					"type": "sparse-cluster",
+					"block": "minecraft:netherrack",
+					"cluster-size": 1,
+					"weight": 100
+				}],
+				"cluster-count": 5,
+				"ground-level": 128
+			}, {
+				"distribution": "cave",
+				"generator": {
+					"type": "small-tree",
+					"block": "netherbackport:warpedstem",
+					"leaves": "netherbackport:warpedwartblock",
+					"tree-checks": false,
+					"surface": "netherbackport:warpednylium",
+					"material": ["minecraft:air", "minecraft:netherrack", "netherbackport:warpednylium"]
+				},
+				"cluster-count": 5,
+				"ground-level": 128
+			}, {
+				"distribution": "cave",
+				"generator": {
+					"type": "decoration",
+					"block": ["netherbackport:warpedfungi", "netherbackport:warpedroots", "netherbackport:twistingvines", "netherbackport:nethersprouts"],
+					"see-sky": false,
+					"check-stay": false,
+					"surface": "netherbackport:warpednylium",
+					"material": ["minecraft:air", "minecraft:netherrack", "netherbackport:warpednylium"],
+					"cluster-size": 32
+				},
+				"cluster-count": 10,
+				"ground-level": 128
+			}, {
+				"distribution": "cave",
+				"generator": {
+					"type": "decoration",
+					"block": "netherbackport:shroomlight",
+					"see-sky": false,
+					"check-stay": false,
+					"surface": ["minecraft:nether_wart_block", "netherbackport:warpednylium"],
+					"material": ["minecraft:air", "minecraft:netherrack", "netherbackport:warpednylium", "netherbackport:warpedwartblock"],
+					"cluster-size": 1
+				},
+				"cluster-count": 5,
+				"ground-level": 128
+			}],
+			"retrogen": "false",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [-1]
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"a396b3af"
+	],
+	tasks: [{
+		uid: "c3aa0a32",
+		type: "item",
+		items: [{
+			item: "tcomplement:melter"
+		}]
+	},
+	{
+		uid: "ab01b91c",
+		type: "item",
+		items: [{
+			item: "tcomplement:melter 1 8"
+		}]
+	}]
+}

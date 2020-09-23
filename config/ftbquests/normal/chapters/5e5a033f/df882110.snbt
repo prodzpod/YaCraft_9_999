@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 7.0d,
+	dependencies: [
+		"a5917baf"
+	],
+	tasks: [{
+		uid: "c92556de",
+		type: "item",
+		items: [{
+			item: "extrautils2:minichest"
+		}]
+	}]
+}

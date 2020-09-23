@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "e2affa9f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:glowstone_essence"
+		}]
+	}]
+}

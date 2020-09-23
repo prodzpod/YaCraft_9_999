@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 1.5d,
+	dependencies: [
+		"a6b41026",
+		"78166f89"
+	],
+	tasks: [{
+		uid: "da6bb7a4",
+		type: "item",
+		items: [{
+			item: "bewitchment:pure_filament"
+		}]
+	}]
+}

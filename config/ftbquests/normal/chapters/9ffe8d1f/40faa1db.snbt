@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"4816eb5a"
+	],
+	tasks: [{
+		uid: "6a0a5dd9",
+		type: "item",
+		items: [{
+			item: "bewitchment:bottled_hellfire"
+		}]
+	}]
+}

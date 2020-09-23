@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -9.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"de528c53"
+	],
+	tasks: [{
+		uid: "bf987029",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:servo"
+		}]
+	}]
+}

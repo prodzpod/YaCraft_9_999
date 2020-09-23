@@ -1,0 +1,7 @@
+{
+	title: "&9[7]&r: 블러드 매직",
+	icon: "bloodarsenal:blood_diamond 1 3",
+	always_invisible: false,
+	group: 819590780,
+	default_quest_shape: ""
+}

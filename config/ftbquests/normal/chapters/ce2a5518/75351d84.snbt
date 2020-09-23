@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 7.5d,
+	dependencies: [
+		"3930bea8"
+	],
+	tasks: [{
+		uid: "293dc37b",
+		type: "item",
+		items: [{
+			item: "thaumadditions:crystal_crusher"
+		}]
+	}]
+}

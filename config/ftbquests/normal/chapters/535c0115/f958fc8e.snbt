@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"cb40cc45"
+	],
+	tasks: [{
+		uid: "e02dce03",
+		type: "item",
+		items: [{
+			item: "botania:conjurationcatalyst"
+		}]
+	}]
+}

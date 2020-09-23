@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 9.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"39009dd7"
+	],
+	tasks: [{
+		uid: "0dabcb6d",
+		type: "item",
+		items: [{
+			item: "thaumicwands:item_wand_cap_pa"
+		}]
+	}]
+}

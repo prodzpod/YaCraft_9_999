@@ -1,0 +1,30 @@
+{
+	title: "&7광산&r에 대해 알아보자",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thermalfoundation:tool.pickaxe_platinum"
+	},
+	x: -2.30969883127d,
+	y: 1.04329141908d,
+	text: [
+		"&6YUNG's Mods&7: 광산 바이옴이나 폐광이 추가되었다, 이제 y11은 거의 다 광산임. 또한, 지하에 스포너 6개짜리 던전들이 추가되었다.",
+		"",
+		"&bQuark&7: 빛나는 버섯 동굴 바이옴과 수정 동굴 바이옴이 추가되었다. 수정 동굴에는 다이아, 에메랄드와 금이 많다.",
+		"",
+		"&eEarthworks&7: 화강암과 같은 돌 종류가 많아졌다.",
+		"",
+		"&aAdlods&7: 가끔가다 &a거대 광맥&7을 찾을 수 있다. 한 종류의 광석이 수백수천 개 달려 있다.",
+		"",
+		"&dCharm&7: 동굴에 가끔씩 상자가 있는데, 부수면 랜덤한 보상을 준다."
+	],
+	dependencies: [
+		"a6862fcc"
+	],
+	tasks: [{
+		uid: "d64ac306",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

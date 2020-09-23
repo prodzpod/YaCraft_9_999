@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7b65e0cf",
+		"a650a47f"
+	],
+	tasks: [{
+		uid: "7bda1b18",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:enchanter"
+			}
+		}]
+	}]
+}

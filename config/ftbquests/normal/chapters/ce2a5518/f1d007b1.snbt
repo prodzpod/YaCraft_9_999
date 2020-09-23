@@ -1,0 +1,55 @@
+{
+	x: 4.5d,
+	y: 13.5d,
+	shape: "rsquare",
+	dependencies: [
+		"0a74dee5"
+	],
+	tasks: [{
+		uid: "b4a4ad92",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "98841983",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "658b8ce1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6a980aa3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicaugmentation:eldritch_lock_key",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

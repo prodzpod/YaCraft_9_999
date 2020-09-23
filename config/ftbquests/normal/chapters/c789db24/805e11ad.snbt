@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"b57baf56"
+	],
+	tasks: [{
+		uid: "bf8e1da0",
+		type: "item",
+		items: [{
+			item: "tcomplement:materials 1 1"
+		}]
+	}]
+}

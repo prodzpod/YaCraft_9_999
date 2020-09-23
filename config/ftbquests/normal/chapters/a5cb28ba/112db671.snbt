@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"bb547ab7",
+		"33661d19"
+	],
+	tasks: [{
+		uid: "7e7fa5f8",
+		type: "item",
+		items: [{
+			item: "embers:ember_bore"
+		}]
+	}]
+}

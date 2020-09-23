@@ -1,0 +1,15 @@
+{
+	x: -9.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"33f55e76"
+	],
+	tasks: [{
+		uid: "af552372",
+		type: "item",
+		items: [{
+			item: "embers:jet_augment"
+		}]
+	}]
+}

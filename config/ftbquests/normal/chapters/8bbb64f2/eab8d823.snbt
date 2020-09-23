@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 27.0d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "b5060acb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:osmium_essence"
+		}]
+	}]
+}

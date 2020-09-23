@@ -1,0 +1,12 @@
+{
+	title: "&d[9&f+&d]&r: 컴팩트 머신",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "compactmachines3:psd"
+	},
+	always_invisible: false,
+	group: -779981558,
+	default_quest_shape: ""
+}

@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"4a8e1515"
+	],
+	tasks: [{
+		uid: "747be1f1",
+		type: "item",
+		items: [{
+			item: "embers:ember_emitter"
+		}]
+	},
+	{
+		uid: "eb72bcab",
+		type: "item",
+		items: [{
+			item: "embers:ember_receiver"
+		}]
+	}]
+}

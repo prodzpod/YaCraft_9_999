@@ -1,0 +1,7 @@
+{
+	title: "&4[X]&r티어: 포스트게임",
+	icon: "minecraft:bedrock",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

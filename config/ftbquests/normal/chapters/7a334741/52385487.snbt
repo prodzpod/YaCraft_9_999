@@ -1,0 +1,12 @@
+{
+	x: 3.0d,
+	y: 3.5d,
+	shape: "gear",
+	tasks: [{
+		uid: "56d81241",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}]
+	}]
+}

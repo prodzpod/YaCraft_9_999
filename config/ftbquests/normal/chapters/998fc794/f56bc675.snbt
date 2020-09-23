@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: 9.0d,
+	dependencies: [
+		"9c9c9514"
+	],
+	tasks: [{
+		uid: "077143ec",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:demon_will_gauge"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

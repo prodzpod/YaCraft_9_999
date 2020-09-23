@@ -1,0 +1,20 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "be0e4168",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "matc:inferiumcrystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

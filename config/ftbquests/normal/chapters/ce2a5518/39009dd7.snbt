@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 9.0d,
+	shape: "rsquare",
+	dependencies: [
+		"8f3d8629",
+		"b3a7da67"
+	],
+	tasks: [{
+		uid: "cce38bf6",
+		type: "item",
+		items: [{
+			item: "planarartifice:alkimium_ingot"
+		}]
+	}]
+}

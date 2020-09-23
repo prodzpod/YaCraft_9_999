@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	dependencies: [
+		"5aded4b5"
+	],
+	tasks: [{
+		uid: "f5fb18ca",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_phantomface"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "38957b71",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:fire_essence"
+		}]
+	}]
+}

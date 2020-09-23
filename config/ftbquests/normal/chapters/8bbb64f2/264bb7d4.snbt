@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 32.0d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "6d553a84",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:magnesium_essence"
+		}]
+	}]
+}

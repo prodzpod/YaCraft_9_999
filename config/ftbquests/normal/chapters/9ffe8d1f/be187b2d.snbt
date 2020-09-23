@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "336e44ea",
+		type: "item",
+		items: [{
+			item: "bewitchment:hellebore"
+		}]
+	},
+	{
+		uid: "c64e00c2",
+		type: "item",
+		items: [{
+			item: "bewitchment:mandrake_root"
+		}]
+	}]
+}

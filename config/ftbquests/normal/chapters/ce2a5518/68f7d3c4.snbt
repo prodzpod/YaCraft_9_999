@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 22.5d,
+	shape: "gear",
+	dependencies: [
+		"8eab5a36"
+	],
+	tasks: [{
+		uid: "3b8d209a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:astralite"
+		}]
+	}]
+}

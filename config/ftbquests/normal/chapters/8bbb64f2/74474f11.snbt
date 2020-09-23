@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -3.5d,
+	dependencies: [
+		"cae91e32"
+	],
+	tasks: [{
+		uid: "75f79b83",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:watering_can",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

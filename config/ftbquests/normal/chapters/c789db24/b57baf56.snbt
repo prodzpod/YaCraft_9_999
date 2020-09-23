@@ -1,0 +1,36 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"802c214b"
+	],
+	tasks: [{
+		uid: "ebe835df",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "871c457e",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}]
+	},
+	{
+		uid: "27589e0c",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}]
+	},
+	{
+		uid: "e8c88624",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	}]
+}

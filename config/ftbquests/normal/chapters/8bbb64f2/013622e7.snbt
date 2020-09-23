@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "88279e2c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:blaze_essence"
+		}]
+	}]
+}

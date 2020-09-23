@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"c4adc412"
+	],
+	tasks: [{
+		uid: "a8ce9979",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:inscriber"
+		}]
+	}]
+}

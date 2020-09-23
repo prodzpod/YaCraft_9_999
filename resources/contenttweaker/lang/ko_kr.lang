@@ -1,0 +1,62 @@
+item.contenttweaker.aethoria.name=에이소리움 주괴
+item.contenttweaker.aethoria_dust.name=에이소리움 가루
+item.contenttweaker.aethoria_plate.name=에이소리움 판
+item.contenttweaker.aethoria_gear.name=에이소리움 톱니바퀴
+tile.contenttweaker.block_of_aethoria.name=에이소리움 블록
+item.contenttweaker.aethoria_rod.name=에이소리움 막대
+item.contenttweaker.aethoria_nugget.name=에이소리움 조각
+
+item.contenttweaker.inert_aethoria.name=잠재된 에이소리움 주괴
+item.contenttweaker.inert_aethoria_dust.name=잠재된 에이소리움 가루
+item.contenttweaker.inert_aethoria_plate.name=잠재된 에이소리움 판
+item.contenttweaker.inert_aethoria_gear.name=잠재된 에이소리움 톱니바퀴
+tile.contenttweaker.block_of_inert_aethoria.name=잠재된 에이소리움 블록
+item.contenttweaker.inert_aethoria_rod.name=잠재된 에이소리움 막대
+item.contenttweaker.inert_aethoria_nugget.name=잠재된 에이소리움 조각
+
+item.contenttweaker.charged_aethoria.name=깨어난 에이소리움 주괴
+item.contenttweaker.charged_aethoria_dust.name=깨어난 에이소리움 가루
+item.contenttweaker.charged_aethoria_plate.name=깨어난 에이소리움 판
+item.contenttweaker.charged_aethoria_gear.name=깨어난 에이소리움 톱니바퀴
+tile.contenttweaker.block_of_charged_aethoria.name=깨어난 에이소리움 블록
+item.contenttweaker.charged_aethoria_rod.name=깨어난 에이소리움 막대
+item.contenttweaker.charged_aethoria_nugget.name=깨어난 에이소리움 조각
+
+item.contenttweaker.astralite.name=천성합금 주괴
+item.contenttweaker.astralite_dust.name=천성합금 가루
+item.contenttweaker.astralite_plate.name=천성합금 판
+item.contenttweaker.astralite_gear.name=천성합금 톱니바퀴
+tile.contenttweaker.block_of_astralite.name=천성합금 블록
+item.contenttweaker.astralite_rod.name=천성합금 막대
+item.contenttweaker.astralite_nugget.name=천성합금 조각
+
+item.contenttweaker.clay_cast.name=빈 점토 주형틀
+item.contenttweaker.clay_cast_ingot.name=주괴 점토 주형틀
+item.contenttweaker.clay_cast_gem.name=Gem 점토 주형틀
+item.contenttweaker.clay_cast_nugget.name=조각 점토 주형틀
+item.contenttweaker.clay_cast_plate.name=판 점토 주형틀
+item.contenttweaker.clay_cast_gear.name=톱니바퀴 점토 주형틀
+
+item.contenttweaker.netherite_nugget.name=네더라이트 조각
+item.contenttweaker.netherite_dust.name=네더라이트 가루
+item.contenttweaker.netherite_plate.name=네더라이트 판
+item.contenttweaker.netherite_gear.name=네더라이트 톱니바퀴
+item.contenttweaker.netherite_rod.name=네더라이트 막대
+
+item.contenttweaker.photonium_nugget.name=포토니움 조각
+item.contenttweaker.shadowium_nugget.name=쉐도우니움 조각
+item.contenttweaker.orichalcos_nugget.name=오리칼코스 조각
+
+fluid.red_essence=붉은 에센스
+fluid.redder_essence=더 붉은 에센스
+fluid.even_redder_essence=더욱 더 붉은 에센스
+fluid.reddest_essence=가장 붉은 에센스
+item.contenttweaker.red_dust.name=붉은 가루
+item.contenttweaker.redder_dust.name=더 붉은 가루
+item.contenttweaker.even_redder_dust.name=더욱 더 붉은 가루
+item.contenttweaker.reddest_dust.name=가장 붉은 가루
+tile.contenttweaker.reddest_stone.name=가장 붉은 돌
+tile.contenttweaker.compressed_bone_block.name=압축된 뼈 블록
+tile.contenttweaker.compressed_amber1.name=압축된 호박
+tile.contenttweaker.compressed_amber2.name=압축된 호박²
+tile.contenttweaker.compressed_amber3.name=압축된 호박³

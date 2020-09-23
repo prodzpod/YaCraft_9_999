@@ -1,0 +1,15 @@
+{
+	x: 22.5d,
+	y: 7.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7f175c79"
+	],
+	tasks: [{
+		uid: "dbdf817c",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:californium 1 5"
+		}]
+	}]
+}

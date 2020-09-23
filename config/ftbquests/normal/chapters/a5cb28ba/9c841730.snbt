@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 10.5d,
+	dependencies: [
+		"13cb7f15"
+	],
+	tasks: [{
+		uid: "c1ab9735",
+		type: "item",
+		items: [{
+			item: "soot:decanter"
+		}]
+	}]
+}

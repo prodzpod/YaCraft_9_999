@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 21.0d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "4cc009b1",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:basalt_essence"
+		}]
+	}]
+}

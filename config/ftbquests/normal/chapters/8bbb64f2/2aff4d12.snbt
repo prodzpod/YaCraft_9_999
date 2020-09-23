@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 37.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "0e68e926",
+		type: "item",
+		items: [{
+			item: "jaopca:item_essenceopal"
+		}]
+	}]
+}

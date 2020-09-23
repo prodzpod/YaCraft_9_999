@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"3660152d"
+	],
+	tasks: [{
+		uid: "5ab73ec6",
+		type: "item",
+		items: [{
+			item: "futuremc:netherite_ingot"
+		}]
+	}]
+}

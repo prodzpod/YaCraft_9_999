@@ -1,0 +1,17 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"67c4ec24",
+		"e738dedd",
+		"b3d00ef3"
+	],
+	tasks: [{
+		uid: "ca947ced",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}]
+	}]
+}

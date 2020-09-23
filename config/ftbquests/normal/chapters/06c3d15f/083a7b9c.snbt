@@ -1,0 +1,13 @@
+{
+	title: "&aArmor Stand GUI",
+	disable_toast: true,
+	x: 1.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "76eb2806",
+		type: "item",
+		items: [{
+			item: "minecraft:armor_stand"
+		}]
+	}]
+}

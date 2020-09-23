@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 13.0d,
+	dependencies: [
+		"714edaef"
+	],
+	tasks: [{
+		uid: "14547a6f",
+		type: "item",
+		items: [{
+			item: "minecraft:baked_potato"
+		}]
+	}]
+}

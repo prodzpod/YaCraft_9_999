@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 20.0d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "36b554a1",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:limestone_essence"
+		}]
+	}]
+}

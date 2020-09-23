@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 11.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "de4e7d89",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:guardian_essence"
+		}]
+	}]
+}

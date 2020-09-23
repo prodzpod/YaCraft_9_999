@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: 12.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7e59ac6d"
+	],
+	tasks: [{
+		uid: "02184177",
+		type: "item",
+		items: [{
+			item: "embers:ember_cluster"
+		}]
+	}]
+}

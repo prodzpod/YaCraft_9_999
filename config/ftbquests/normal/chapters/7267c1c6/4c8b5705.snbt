@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"cf334ea9"
+	],
+	tasks: [{
+		uid: "dcde7149",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:treated_wood"
+		}]
+	}]
+}

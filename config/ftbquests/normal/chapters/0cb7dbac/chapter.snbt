@@ -1,0 +1,7 @@
+{
+	title: "&5[8]&r: 액츄얼리 어디션스",
+	icon: "actuallyadditions:item_crystal_empowered 1 5",
+	always_invisible: false,
+	group: 2053191479,
+	default_quest_shape: ""
+}

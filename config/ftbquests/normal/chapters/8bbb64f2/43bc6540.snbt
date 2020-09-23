@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 21.5d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "600f78cb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:cobalt_essence"
+		}]
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "&d[9]&r: 드라코닉 에볼루션",
+	icon: "draconicevolution:draconium_dust",
+	always_invisible: false,
+	group: -779981558,
+	default_quest_shape: ""
+}

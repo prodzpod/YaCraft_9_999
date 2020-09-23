@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 7.0d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "c1cdf054",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:chicken_essence"
+		}]
+	}]
+}

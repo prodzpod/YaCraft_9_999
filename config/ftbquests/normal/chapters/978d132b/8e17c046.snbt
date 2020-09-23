@@ -1,0 +1,22 @@
+{
+	x: 7.5d,
+	y: 10.5d,
+	dependencies: [
+		"280e2483"
+	],
+	tasks: [{
+		uid: "86383f86",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumicenergistics:essentia_cell_1k",
+			tag: {
+				filter: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

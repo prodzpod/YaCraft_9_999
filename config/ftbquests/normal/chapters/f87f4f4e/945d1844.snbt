@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"68c213a3"
+	],
+	tasks: [{
+		uid: "805775dc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalfoundation:diagram_redprint"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

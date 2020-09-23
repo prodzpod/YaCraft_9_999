@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"11272326"
+	],
+	tasks: [{
+		uid: "fcd049fa",
+		type: "item",
+		items: [{
+			item: "bewitchment:hellhound_horn"
+		}]
+	}]
+}

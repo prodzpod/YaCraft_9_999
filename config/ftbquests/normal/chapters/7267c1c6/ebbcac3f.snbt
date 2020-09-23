@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"ad8adf37"
+	],
+	tasks: [{
+		uid: "a7295af7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "crude_oil",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 6.0d,
+	dependencies: [
+		"b7e8a746"
+	],
+	tasks: [{
+		uid: "0844812f",
+		type: "item",
+		items: [{
+			item: "embers:stirling"
+		}]
+	}]
+}

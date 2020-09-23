@@ -1,0 +1,23 @@
+{
+	x: 12.0d,
+	y: 13.5d,
+	dependencies: [
+		"9881cea3"
+	],
+	tasks: [{
+		uid: "d759a597",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:upgrade_tome",
+			tag: {
+				level: 0,
+				key: "bloodmagic.upgrade.health"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 26.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "801cae97",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:thaumium_essence"
+		}]
+	}]
+}

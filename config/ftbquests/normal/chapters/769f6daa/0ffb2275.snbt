@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: 5.0d,
+	dependencies: [
+		"7d42aa0d"
+	],
+	tasks: [{
+		uid: "0c94f92c",
+		type: "item",
+		items: [{
+			item: "charm:rune_portal"
+		}]
+	}]
+}

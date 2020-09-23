@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 31.0d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "15660648",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:boron_essence"
+		}]
+	}]
+}

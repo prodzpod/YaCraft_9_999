@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "fee0fc2d",
+		type: "item",
+		items: [{
+			item: "rustic:crushing_tub"
+		}]
+	}]
+}

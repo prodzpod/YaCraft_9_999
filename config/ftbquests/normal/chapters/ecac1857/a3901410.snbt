@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"537c6c55"
+	],
+	tasks: [{
+		uid: "7cc71050",
+		type: "item",
+		items: [{
+			item: "rustic:evaporating_basin"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 10.0d,
+	dependencies: [
+		"bc0d3938"
+	],
+	tasks: [{
+		uid: "d8c4b82b",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:smooth_sky_stone_chest"
+		}]
+	}]
+}

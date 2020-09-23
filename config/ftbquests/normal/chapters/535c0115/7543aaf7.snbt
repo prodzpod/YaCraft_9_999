@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"66080760"
+	],
+	tasks: [{
+		uid: "5f93467e",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}]
+	}]
+}

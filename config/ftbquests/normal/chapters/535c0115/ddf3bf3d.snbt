@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 8.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"e737740e",
+		"48d66358"
+	],
+	tasks: [{
+		uid: "a3dfc268",
+		type: "item",
+		items: [{
+			item: "botania:spreader 1 3"
+		}]
+	}]
+}

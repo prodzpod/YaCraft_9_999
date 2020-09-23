@@ -1,0 +1,17 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+        "top": "blocks/pumpkin_top",
+        "front": "contenttweaker:blocks/carved_pumpkin",
+        "side": "blocks/pumpkin_side"
+    },
+    "model": "block/orientable",
+    "uvlock": true,
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}]
+  }
+}

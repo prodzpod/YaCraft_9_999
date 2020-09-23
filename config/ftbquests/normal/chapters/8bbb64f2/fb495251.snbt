@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 12.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "eaa958d8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:saltpeter_essence"
+		}]
+	}]
+}

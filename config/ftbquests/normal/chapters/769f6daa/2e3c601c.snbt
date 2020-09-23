@@ -1,0 +1,18 @@
+{
+	x: -7.0d,
+	y: -12.0d,
+	dependencies: [
+		"9a190009",
+		"6573767f",
+		"05f83606",
+		"c89bab6c",
+		"0758a257"
+	],
+	tasks: [{
+		uid: "8bf665fa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:jigsaw"
+		}]
+	}]
+}

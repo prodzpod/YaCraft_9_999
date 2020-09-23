@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: 19.5d,
+	shape: "rsquare",
+	dependencies: [
+		"87be0c77",
+		"db44aeeb"
+	],
+	tasks: [{
+		uid: "2d5be719",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:spellcloth"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

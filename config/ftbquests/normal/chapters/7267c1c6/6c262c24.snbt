@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	dependencies: [
+		"53bf0341"
+	],
+	tasks: [{
+		uid: "388485ca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 2,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:skyhook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

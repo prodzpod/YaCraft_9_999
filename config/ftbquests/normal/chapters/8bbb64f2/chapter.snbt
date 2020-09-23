@@ -1,0 +1,7 @@
+{
+	title: "&9[7]&r: 미스티컬 아그리컬쳐",
+	icon: "jaopca:block_mysticalcropssalt",
+	always_invisible: false,
+	group: 819590780,
+	default_quest_shape: ""
+}

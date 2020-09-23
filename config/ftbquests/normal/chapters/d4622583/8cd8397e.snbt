@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"60a6c3e5"
+	],
+	tasks: [{
+		uid: "0e08c925",
+		type: "item",
+		items: [{
+			item: "extrautils2:angelblock"
+		}]
+	}]
+}

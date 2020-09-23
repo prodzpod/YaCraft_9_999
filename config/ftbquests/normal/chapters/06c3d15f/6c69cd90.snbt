@@ -1,0 +1,13 @@
+{
+	title: "&3Online Picture Frame",
+	disable_toast: true,
+	x: 4.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "f7a7baaf",
+		type: "item",
+		items: [{
+			item: "opframe:opframe"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"5dbea5bb",
+		"ce1323fc"
+	],
+	tasks: [{
+		uid: "b111e813",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:graham_cracker"
+		}]
+	}]
+}

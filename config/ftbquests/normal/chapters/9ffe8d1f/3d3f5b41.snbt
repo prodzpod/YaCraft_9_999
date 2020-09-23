@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: -3.0d,
+	dependencies: [
+		"66a19cfe"
+	],
+	tasks: [{
+		uid: "d3dba81b",
+		type: "item",
+		items: [{
+			item: "bewitchment:poppet"
+		}]
+	}]
+}

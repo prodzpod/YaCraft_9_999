@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"3930bea8"
+	],
+	tasks: [{
+		uid: "d42a25fd",
+		type: "item",
+		items: [{
+			item: "thaumcraft:causality_collapser"
+		}]
+	}]
+}

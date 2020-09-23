@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 8.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "7ecb1508",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:creeper_essence"
+		}]
+	}]
+}

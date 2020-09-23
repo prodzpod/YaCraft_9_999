@@ -1,0 +1,20 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9b8285bb"
+	],
+	tasks: [{
+		uid: "9e891786",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:lava_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: 5.5d,
+	dependencies: [
+		"a80171e4"
+	],
+	tasks: [{
+		uid: "4128b441",
+		type: "item",
+		items: [{
+			item: "thaumicwonders:creative_essentia_jar"
+		}]
+	}]
+}

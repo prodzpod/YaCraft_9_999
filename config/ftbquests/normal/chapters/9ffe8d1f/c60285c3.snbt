@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	dependencies: [
+		"75803d6a"
+	],
+	tasks: [{
+		uid: "7b360127",
+		type: "item",
+		items: [{
+			item: "bewitchment:pentacle"
+		}]
+	}]
+}

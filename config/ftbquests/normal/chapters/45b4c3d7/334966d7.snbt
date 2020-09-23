@@ -1,0 +1,13 @@
+{
+	title: "&9Conduit Mod",
+	disable_toast: true,
+	x: -1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "aa16dc63",
+		type: "item",
+		items: [{
+			item: "conduit:conduit"
+		}]
+	}]
+}

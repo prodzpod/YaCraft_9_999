@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: -3.0d,
+	shape: "gear",
+	dependencies: [
+		"de320f06"
+	],
+	tasks: [{
+		uid: "dfe15647",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 2"
+		}]
+	}]
+}

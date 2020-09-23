@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "517491cf",
+		type: "item",
+		items: [{
+			item: "bewitchment:elder_wood"
+		}]
+	}]
+}

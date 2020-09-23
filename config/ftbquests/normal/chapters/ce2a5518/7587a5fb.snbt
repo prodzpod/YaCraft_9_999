@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 19.5d,
+	shape: "rsquare",
+	dependencies: [
+		"8dd9e8fe"
+	],
+	tasks: [{
+		uid: "6a0bb923",
+		type: "item",
+		items: [{
+			item: "thaumadditions:adaminite_ingot"
+		}]
+	}]
+}

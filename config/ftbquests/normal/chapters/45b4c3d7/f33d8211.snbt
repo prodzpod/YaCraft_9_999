@@ -1,0 +1,13 @@
+{
+	title: "&6Toast Control",
+	disable_toast: true,
+	x: -1.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "dbd2b633",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_food 1 10"
+		}]
+	}]
+}

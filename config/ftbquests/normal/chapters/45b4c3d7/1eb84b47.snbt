@@ -1,0 +1,12 @@
+{
+	title: "&cSpecial AI",
+	x: -2.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "f56a8a26",
+		type: "item",
+		items: [{
+			item: "minecraft:dispenser"
+		}]
+	}]
+}

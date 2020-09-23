@@ -1,0 +1,21 @@
+{
+	x: 12.0d,
+	y: 4.5d,
+	dependencies: [
+		"59ceeacc",
+		"9950202b"
+	],
+	tasks: [{
+		uid: "347a76f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:combatmaidchestdarkened",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

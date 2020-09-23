@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	dependencies: [
+		"1f42f7ef",
+		"3e91fd2c"
+	],
+	tasks: [{
+		uid: "96089336",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_apple"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	dependencies: [
+		"565947ee"
+	],
+	tasks: [{
+		uid: "89775728",
+		type: "item",
+		items: [{
+			item: "rustic:candle"
+		}]
+	}]
+}

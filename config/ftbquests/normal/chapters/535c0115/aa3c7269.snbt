@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 5.5d,
+	shape: "rsquare",
+	dependencies: [
+		"f7c8599f"
+	],
+	tasks: [{
+		uid: "fb4175fe",
+		type: "item",
+		items: [{
+			item: "botania:pylon"
+		}]
+	}]
+}

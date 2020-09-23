@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 9.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "f5bb1c0e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:spider_essence"
+		}]
+	}]
+}

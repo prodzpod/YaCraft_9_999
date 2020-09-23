@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"e7a25816"
+	],
+	tasks: [{
+		uid: "9a8dda71",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:compoundbow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

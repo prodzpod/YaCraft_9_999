@@ -1,0 +1,16 @@
+{
+	x: -12.0d,
+	y: -3.0d,
+	shape: "gear",
+	dependencies: [
+		"3cbdec21"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "443b3b46",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativesolid 1 8"
+		}]
+	}]
+}

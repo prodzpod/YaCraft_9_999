@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"b06bec86"
+	],
+	tasks: [{
+		uid: "66e5a923",
+		type: "item",
+		items: [{
+			item: "draconicevolution:magnet"
+		}],
+		ignore_nbt: 1b
+	}]
+}

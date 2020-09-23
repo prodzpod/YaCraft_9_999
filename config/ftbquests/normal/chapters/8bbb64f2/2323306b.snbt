@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 23.0d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "9bb92456",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:elementium_essence"
+		}]
+	}]
+}

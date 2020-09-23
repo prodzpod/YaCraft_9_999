@@ -1,0 +1,13 @@
+{
+	title: "&dPam's Harvestcraft",
+	disable_toast: true,
+	x: -3.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "b804b22a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:raspberryjellysandwichitem"
+		}]
+	}]
+}

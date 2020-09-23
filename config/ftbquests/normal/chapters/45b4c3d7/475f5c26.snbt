@@ -1,0 +1,21 @@
+{
+	title: "&cChampions",
+	disable_toast: true,
+	x: -2.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "5bcd7f73",
+		type: "item",
+		items: [{
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 0
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

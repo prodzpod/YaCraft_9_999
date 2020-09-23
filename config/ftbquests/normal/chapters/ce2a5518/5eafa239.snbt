@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 19.5d,
+	shape: "rsquare",
+	dependencies: [
+		"e72a00e1"
+	],
+	tasks: [{
+		uid: "c1e6a7a5",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 16"
+		}]
+	}]
+}

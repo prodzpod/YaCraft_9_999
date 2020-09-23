@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 22.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "e2decd62",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ardite_essence"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: -6.0d,
+	dependencies: [
+		"4a2a3b3e",
+		"2738c372"
+	],
+	tasks: [{
+		uid: "3f99113a",
+		type: "item",
+		items: [{
+			item: "mysticaladaptations:gear"
+		}]
+	}]
+}

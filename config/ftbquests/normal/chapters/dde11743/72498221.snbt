@@ -1,0 +1,15 @@
+{
+	x: 27.0d,
+	y: 7.5d,
+	dependencies: [
+		"6e9a3922",
+		"fefba650"
+	],
+	tasks: [{
+		uid: "a5c2729f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fuel_tbnq_oxide"
+		}]
+	}]
+}

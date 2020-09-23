@@ -1,0 +1,23 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"e8b2e8c7"
+	],
+	tasks: [{
+		uid: "e21530a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:battery_bauble",
+			tag: {
+				Energy: 200000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

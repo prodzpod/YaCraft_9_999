@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 10.5d,
+	shape: "gear",
+	dependencies: [
+		"8f0227da",
+		"2ea3e479"
+	],
+	tasks: [{
+		uid: "f243088f",
+		type: "item",
+		items: [{
+			item: "t3s4ebw:magic_seed"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 3.0d,
+	dependencies: [
+		"97e380c5"
+	],
+	tasks: [{
+		uid: "5f141ce1",
+		type: "item",
+		items: [{
+			item: "embers:heat_coil"
+		}]
+	}]
+}

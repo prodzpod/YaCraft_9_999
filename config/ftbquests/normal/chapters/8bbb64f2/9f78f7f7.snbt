@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 36.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "dc5c3bd7",
+		type: "item",
+		items: [{
+			item: "jaopca:item_essencegarnet"
+		}]
+	}]
+}

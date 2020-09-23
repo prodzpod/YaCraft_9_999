@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: -3.0d,
+	shape: "gear",
+	dependencies: [
+		"ff5b5466",
+		"50424455"
+	],
+	tasks: [{
+		uid: "beb3f160",
+		type: "item",
+		items: [{
+			item: "contenttweaker:inert_aethoria"
+		}]
+	}]
+}

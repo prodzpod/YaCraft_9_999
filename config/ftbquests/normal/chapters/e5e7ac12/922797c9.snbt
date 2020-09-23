@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"8c9b47e9",
+		"d632b599"
+	],
+	tasks: [{
+		uid: "bf80e08e",
+		type: "item",
+		items: [{
+			item: "minecraft:melon_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"b57baf56"
+	],
+	tasks: [{
+		uid: "72c189c2",
+		type: "item",
+		items: [{
+			item: "tconstruct:firewood 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: -3.5d,
+	dependencies: [
+		"ab2755b3"
+	],
+	tasks: [{
+		uid: "a59ced7d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:wateringcan",
+			Damage: 1000s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

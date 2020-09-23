@@ -1,0 +1,13 @@
+{
+	title: "&ePlacable Items",
+	disable_toast: true,
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "6e8177af",
+		type: "item",
+		items: [{
+			item: "minecraft:bucket"
+		}]
+	}]
+}

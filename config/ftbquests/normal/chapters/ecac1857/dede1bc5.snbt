@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"9d01e57e"
+	],
+	tasks: [{
+		uid: "b5b72740",
+		type: "item",
+		items: [{
+			item: "rustic:ironberries"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 12.75d,
+	shape: "rsquare",
+	dependencies: [
+		"d67d0785"
+	],
+	tasks: [{
+		uid: "aed3d2ed",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:chemical_reactor_idle"
+		}]
+	}]
+}

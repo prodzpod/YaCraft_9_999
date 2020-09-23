@@ -1,0 +1,15 @@
+{
+	x: 12.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"bdb9e13d"
+	],
+	tasks: [{
+		uid: "12bd761f",
+		type: "item",
+		items: [{
+			item: "bloodarsenal:blood_diamond"
+		}]
+	}]
+}

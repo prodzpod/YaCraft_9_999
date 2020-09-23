@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"a6b41026",
+		"78166f89"
+	],
+	tasks: [{
+		uid: "3845d006",
+		type: "item",
+		items: [{
+			item: "bewitchment:diabolical_vein"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 6.0d,
+	y: 10.5d,
+	tasks: [{
+		uid: "06da60b7",
+		type: "item",
+		items: [{
+			item: "thaumcraft:curio 1 6"
+		}]
+	}]
+}

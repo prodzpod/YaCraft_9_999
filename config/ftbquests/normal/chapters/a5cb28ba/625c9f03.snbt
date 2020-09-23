@@ -1,0 +1,15 @@
+{
+	x: -6.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"e058c7c0"
+	],
+	tasks: [{
+		uid: "3a3f28e5",
+		type: "item",
+		items: [{
+			item: "embers:eldritch_insignia"
+		}]
+	}]
+}

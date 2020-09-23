@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"fe6c781c"
+	],
+	tasks: [{
+		uid: "79ff4b7e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:moms_spaghetti"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

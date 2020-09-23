@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"2e3d4abd"
+	],
+	tasks: [{
+		uid: "721fc50a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 12.0d,
+	dependencies: [
+		"07a8412b"
+	],
+	tasks: [{
+		uid: "d214d59a",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:electrolyser_idle"
+		}]
+	}]
+}

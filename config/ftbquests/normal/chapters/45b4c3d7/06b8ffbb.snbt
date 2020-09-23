@@ -1,0 +1,13 @@
+{
+	title: "&5Arcanum Core",
+	disable_toast: true,
+	x: 2.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "6a7d9623",
+		type: "item",
+		items: [{
+			item: "minecraft:book"
+		}]
+	}]
+}

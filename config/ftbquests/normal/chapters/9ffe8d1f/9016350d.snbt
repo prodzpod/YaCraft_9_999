@@ -1,0 +1,23 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	dependencies: [
+		"fead7441"
+	],
+	tasks: [{
+		uid: "ac968616",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:grimoire_magia",
+			tag: {
+				amount: 0,
+				maxAmount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

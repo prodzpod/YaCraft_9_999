@@ -1,0 +1,27 @@
+{
+	title: "&cY&6a&eC&ar&ba&9f&5t &7- &dD&5efinitive &eE&6dition &7-",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumcraft:enchanted_placeholder"
+	},
+	x: 0.0d,
+	y: 2.0d,
+	shape: "gear",
+	description: "Season 9.999, Version 2",
+	text: [
+		"&7Created By &ap&2ro&ad&2z&ap&2o&ad",
+		"&7Special Thanks to the &fH&balcyo&9n &fT&bea&9m",
+		"&8(and people who used to be there)"
+	],
+	dependencies: [
+		"22893fef"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "1664c603",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

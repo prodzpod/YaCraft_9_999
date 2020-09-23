@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 15.0d,
+	shape: "rsquare",
+	dependencies: [
+		"0fef2c0a",
+		"a2816067"
+	],
+	tasks: [{
+		uid: "63c14ec4",
+		type: "item",
+		items: [{
+			item: "bloodmagic:points_upgrade"
+		}]
+	}]
+}

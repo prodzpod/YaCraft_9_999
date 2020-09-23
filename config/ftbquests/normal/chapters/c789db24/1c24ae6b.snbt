@@ -1,0 +1,76 @@
+{
+	x: 10.0d,
+	y: 4.5d,
+	dependencies: [
+		"8fa77ed4",
+		"86ee2ea9"
+	],
+	tasks: [{
+		uid: "08f0a152",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:arrow",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 3,
+					Durability: 18,
+					HarvestLevel: 0,
+					Attack: 3.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 2.0f,
+					FreeModifiers: 6,
+					Durability: 18,
+					HarvestLevel: 0,
+					Attack: 3.5f
+				},
+				Special: {
+					Categories: [
+						"no_melee",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"xu_magical_wood",
+						"feather"
+					],
+					Modifiers: []
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "magical_modifier",
+					color: -131160,
+					level: 1,
+					magical_modifier: 1b
+				},
+				{
+					identifier: "brittle",
+					color: -131160,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"magical_modifier",
+					"brittle"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

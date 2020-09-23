@@ -1,0 +1,19 @@
+{
+	x: -9.0d,
+	y: 15.0d,
+	dependencies: [
+		"49d48976"
+	],
+	tasks: [{
+		uid: "4a2f1d40",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:dawnstone_mail"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

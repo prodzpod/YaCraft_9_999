@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 7.5d,
+	dependencies: [
+		"829e68ab",
+		"a4f0181b"
+	],
+	tasks: [{
+		uid: "e8c99bee",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:depleted_fuel_thorium 1 1"
+		}]
+	}]
+}

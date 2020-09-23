@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 14.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b751a4a1",
+		"ae940345",
+		"bc6f806d",
+		"4f10dab5",
+		"e64466c2",
+		"95268c0a",
+		"e615cd1a"
+	],
+	tasks: [{
+		uid: "fc9ed943",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_time"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: -4.5d,
+	dependencies: [
+		"ad22027c"
+	],
+	tasks: [{
+		uid: "eceec3ae",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_item_repairer"
+		}]
+	}]
+}

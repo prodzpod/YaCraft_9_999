@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	shape: "gear",
+	dependencies: [
+		"ad9e2073",
+		"7feff7fe"
+	],
+	tasks: [{
+		uid: "f2aa903e",
+		type: "item",
+		title: "Any ingotSteel",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotSteel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -2.5d,
+	y: -5.5d,
+	dependencies: [
+		"55809f9d"
+	],
+	tasks: [{
+		uid: "7878c02c",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:augment 1 448"
+		}]
+	}]
+}

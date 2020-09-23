@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 21.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7587a5fb"
+	],
+	tasks: [{
+		uid: "811de861",
+		type: "item",
+		items: [{
+			item: "thaumadditions:mithminite_ingot"
+		}]
+	}]
+}

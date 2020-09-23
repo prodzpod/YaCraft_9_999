@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"19bcb624"
+	],
+	tasks: [{
+		uid: "993618bf",
+		type: "item",
+		items: [{
+			item: "mekanism:atomicalloy"
+		}]
+	}]
+}

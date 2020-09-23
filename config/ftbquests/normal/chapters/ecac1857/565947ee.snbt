@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	dependencies: [
+		"75ea7370"
+	],
+	tasks: [{
+		uid: "7405db60",
+		type: "item",
+		items: [{
+			item: "rustic:beeswax"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 2.25d,
+	dependencies: [
+		"aa644f9c"
+	],
+	tasks: [{
+		uid: "017037e2",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:rad_x"
+		}]
+	}]
+}

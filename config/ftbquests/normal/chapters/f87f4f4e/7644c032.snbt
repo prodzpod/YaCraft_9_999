@@ -1,0 +1,14 @@
+{
+	x: -6.5d,
+	y: -7.0d,
+	dependencies: [
+		"418d9ab8"
+	],
+	tasks: [{
+		uid: "13e081f7",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:bait 1 1"
+		}]
+	}]
+}

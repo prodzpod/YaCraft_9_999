@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"23999e55"
+	],
+	tasks: [{
+		uid: "870b3470",
+		type: "item",
+		items: [{
+			item: "threng:material 1 4"
+		}]
+	}]
+}

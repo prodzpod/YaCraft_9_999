@@ -1,0 +1,13 @@
+{
+	x: 2.0d,
+	y: 7.0d,
+	dependencies: [
+		"faa912ab"
+	],
+	tasks: [{
+		uid: "9f8f9e9c",
+		type: "advancement",
+		advancement: "immersiveengineering:main/multiblock_excavator",
+		criterion: ""
+	}]
+}

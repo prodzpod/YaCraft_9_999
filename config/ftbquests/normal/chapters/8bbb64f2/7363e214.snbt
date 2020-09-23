@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: -11.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"7ca82974",
+		"2738c372"
+	],
+	tasks: [{
+		uid: "8197ae83",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:charm 1 20"
+		}]
+	}]
+}

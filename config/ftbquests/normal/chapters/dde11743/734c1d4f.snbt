@@ -1,0 +1,15 @@
+{
+	x: 29.5d,
+	y: 15.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c137f106"
+	],
+	tasks: [{
+		uid: "afef0361",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:accelerator_electromagnet_idle"
+		}]
+	}]
+}

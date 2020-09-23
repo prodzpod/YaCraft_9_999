@@ -1,0 +1,110 @@
+[
+    {
+        "mode": "ADD",
+        "result": "environmentaltech:litherite_crystal,64",
+        "catalyst": "draconicevolution:energy_crystal,1,8",
+        "energy": 71428571,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:chaos_shard",
+            "draconicevolution:dragon_heart",
+            "draconicevolution:chaotic_core",
+            "minecraft:quartz",
+            "appliedenergistics2:material",
+            "actuallyadditions:item_misc,1,5",
+            "extrautils2:decorativesolid,1,8",
+            "botania:quartz",
+            "botania:quartz,1,1",
+            "botania:quartz,1,2",
+            "botania:quartz,1,3",
+            "botania:quartz,1,4",
+            "botania:quartz,1,5",
+            "botania:quartz,1,6"
+        ]
+    }, 
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconium_chest",
+        "catalyst": "minecraft:chest"
+    }, 
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconium_chest",
+        "catalyst": "draconicevolution:draconium_block",
+        "energy": 1428571,
+        "tier": 0,
+        "ingredients": [
+            "thermalexpansion:strongbox,1,0,{Level:4b}",
+            "ironchest:iron_chest",
+            "ironchest:iron_chest,1,1",
+            "ironchest:iron_chest,1,6",
+            "ironchest:iron_chest,1,5",
+            "rftools:remote_storage",
+            "minecraft:ender_chest",
+            "thermalexpansion:cache",
+            "thermalexpansion:satchel,1,4",
+            "extrautils2:bagofholding",
+            "ironchest:iron_shulker_box_purple,1,4",
+            "marblecraftingtable:marble_crafting_table",
+            "tconstruct:seared_furnace_controller",
+            "mysticalagriculture:ultimate_furnace"
+        ]
+    }, 
+    {
+        "mode": "ADD",
+        "result": "extrautils2:teleporter,1,1",
+        "catalyst": "environmentaltech:aethium,64",
+        "energy": 214748364.7,
+        "tier": 3,
+        "ingredients": [
+            "flintmod:axe_flint,64",
+            "minecraft:cobblestone,64",
+            "thermalfoundation:material,64,163",
+            "minecraft:iron_ingot,64",
+            "minecraft:glowstone_dust,64",
+            "contenttweaker:aethoria,64",
+            "contenttweaker:reddest_stone,64",
+            "mysticalagriculture:soulstone,64",
+            "draconicevolution:draconium_dust,64",
+            "appliedenergistics2:drive,64"
+        ]
+    }, 
+    {
+        "mode": "ADD",
+        "result": "extrautils2:creativeenergy",
+        "catalyst": "extrautils2:teleporter",
+        "energy": 5000000000,
+        "tier": 3,
+        "ingredients": [
+            "draconicevolution:energy_storage_core,64",
+            "environmentaltech:solar_cont_6,64",
+            "appliedenergistics2:dense_energy_cell,64",
+            "botania:rune,64,8",
+            "botanicadds:rune_energy,64",
+            "draconicadditions:chaotic_energy_core,64",
+            "draconicevolution:draconic_energy_core,64",
+            "draconicadditions:chaos_stabilizer_core,64",
+            "draconicadditions:reactor_core,64",
+            "extrautils2:rainbowgenerator,64,0"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "contenttweaker:aethoria",
+        "catalyst": "mysticalagriculture:manasteel_essence",
+        "energy": 6000,
+        "tier": 0,
+        "ingredients": [
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"ordo\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"metallum\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"metallum\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"ordo\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"ordo\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"metallum\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"metallum\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"ordo\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"ordo\"}]}",
+            "thaumadditions:salt_essence,1,0,{Aspects:[{amount:1,key:\"metallum\"}]}"
+        ]
+    }
+]

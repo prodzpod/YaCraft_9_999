@@ -1,0 +1,13 @@
+{
+	title: "&bIdo",
+	disable_toast: true,
+	x: 1.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "49defeca",
+		type: "item",
+		items: [{
+			item: "minecraft:trapdoor"
+		}]
+	}]
+}

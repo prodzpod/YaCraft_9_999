@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"46060c07"
+	],
+	tasks: [{
+		uid: "7e969cf5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "agricraft:trowel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

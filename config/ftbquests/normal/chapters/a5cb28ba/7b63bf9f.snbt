@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	dependencies: [
+		"4a8e1515"
+	],
+	tasks: [{
+		uid: "8961f026",
+		type: "item",
+		items: [{
+			item: "embers:mini_boiler"
+		}]
+	}]
+}

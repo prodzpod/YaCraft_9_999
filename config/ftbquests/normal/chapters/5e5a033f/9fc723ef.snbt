@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: 26.5d,
+	shape: "gear",
+	dependencies: [
+		"9ef5784a"
+	],
+	tasks: [{
+		uid: "8328e40d",
+		type: "item",
+		items: [{
+			item: "extrautils2:creativechest"
+		}]
+	}]
+}

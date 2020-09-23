@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 6.75d,
+	shape: "rsquare",
+	dependencies: [
+		"7622b2a2"
+	],
+	tasks: [{
+		uid: "fefee13e",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:isotope_separator_idle"
+		}]
+	}]
+}

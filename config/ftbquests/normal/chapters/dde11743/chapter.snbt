@@ -1,0 +1,7 @@
+{
+	title: "&b[6&f+&b]&r: 뉴클리어크래프트",
+	icon: "nuclearcraft:rtg_plutonium",
+	always_invisible: false,
+	group: 1830522384,
+	default_quest_shape: ""
+}

@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	dependencies: [
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "40fbf88f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:draconium_essence"
+		}]
+	}]
+}

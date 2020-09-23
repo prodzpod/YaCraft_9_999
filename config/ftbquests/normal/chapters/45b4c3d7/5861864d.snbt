@@ -1,0 +1,13 @@
+{
+	title: "&bSound Filters",
+	disable_toast: true,
+	x: 3.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "13fb05b6",
+		type: "item",
+		items: [{
+			item: "minecraft:jukebox"
+		}]
+	}]
+}

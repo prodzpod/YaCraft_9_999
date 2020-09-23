@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"cf4d0ddc"
+	],
+	tasks: [{
+		uid: "80b0a61c",
+		type: "item",
+		items: [{
+			item: "mekanism:biofuel"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -0.5d,
+	y: 16.0d,
+	shape: "rsquare",
+	dependencies: [
+		"cae7742a",
+		"0c369ccb",
+		"bc6f806d"
+	],
+	tasks: [{
+		uid: "0f0d3bfd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_order"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	dependencies: [
+		"fbb1ee60"
+	],
+	tasks: [{
+		uid: "b208dc04",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_disenchanting_lens"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

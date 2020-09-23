@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "63085d39",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust"
+		}]
+	}]
+}

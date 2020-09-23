@@ -1,0 +1,27 @@
+{
+	title: "&aJEI&r를 배워보자 &7(하편)",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "guideapi:bloodmagic-guide"
+	},
+	x: 4.0d,
+	y: 2.0d,
+	text: [
+		"&7JEI 검색창에 여러 접두사를 써서 검색이 가능하다.",
+		"",
+		"&b@&7: 해당 모드 아이템을 검색 (@minecraft)",
+		"그 외에 &b#, $, %, ^, &&7가 있긴 한데 아무도 안 쓴다.",
+		"",
+		"또한 검색창에 &b|&7를 써서 두 가지를 동시에 검색할 수 있다. (grass | dirt => grass 또는 dirt)"
+	],
+	dependencies: [
+		"241fbb73"
+	],
+	tasks: [{
+		uid: "513f1cc6",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

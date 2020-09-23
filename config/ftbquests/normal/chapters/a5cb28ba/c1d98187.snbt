@@ -1,0 +1,15 @@
+{
+	x: -3.0d,
+	y: 15.0d,
+	shape: "rsquare",
+	dependencies: [
+		"2eeb22aa"
+	],
+	tasks: [{
+		uid: "d0e19fe2",
+		type: "item",
+		items: [{
+			item: "soot:signet_antimony"
+		}]
+	}]
+}

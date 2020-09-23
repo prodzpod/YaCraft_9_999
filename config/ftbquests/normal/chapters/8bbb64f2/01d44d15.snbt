@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 28.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "f28c9073",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:black_quartz_essence"
+		}]
+	}]
+}

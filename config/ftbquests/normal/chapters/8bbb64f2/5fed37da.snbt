@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "1a9ce13c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tier1_inferium_seeds"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 8.5d,
+	y: 13.0d,
+	dependencies: [
+		"57f862ce"
+	],
+	tasks: [{
+		uid: "91e9048e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "pvj:mystical_potato"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

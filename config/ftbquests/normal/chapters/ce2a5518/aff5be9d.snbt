@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 7.5d,
+	dependencies: [
+		"dbecd8dc"
+	],
+	tasks: [{
+		uid: "61c9ba1c",
+		type: "item",
+		items: [{
+			item: "planarartifice:alkimium_smeltery"
+		}]
+	}]
+}

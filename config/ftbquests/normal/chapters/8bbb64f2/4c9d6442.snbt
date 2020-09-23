@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	shape: "gear",
+	dependencies: [
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "d0964e47",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:stuff 1 69"
+		}]
+	}]
+}

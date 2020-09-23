@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	dependencies: [
+		"5a33b396"
+	],
+	tasks: [{
+		uid: "a930cd02",
+		type: "item",
+		items: [{
+			id: "draconicevolution:dislocator_advanced",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

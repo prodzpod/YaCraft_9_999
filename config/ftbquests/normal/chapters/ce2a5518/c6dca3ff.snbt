@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 9.0d,
+	shape: "rsquare",
+	dependencies: [
+		"8f3d8629"
+	],
+	tasks: [{
+		uid: "40811016",
+		type: "item",
+		items: [{
+			item: "planarartifice:condensed_crystal_cluster"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 31.0d,
+	y: 15.0d,
+	shape: "rsquare",
+	dependencies: [
+		"734c1d4f"
+	],
+	tasks: [{
+		uid: "cbf749ce",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:electromagnet_supercooler_idle"
+		}]
+	}]
+}

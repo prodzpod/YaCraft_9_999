@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"3660152d"
+	],
+	tasks: [{
+		uid: "e017a675",
+		type: "item",
+		items: [{
+			item: "tconstruct:ingots 1 1"
+		}]
+	}]
+}

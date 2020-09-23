@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: -6.0d,
+	dependencies: [
+		"ec4bbc78"
+	],
+	tasks: [{
+		uid: "efacaf68",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:retriever 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -7.5d,
+	y: -6.0d,
+	dependencies: [
+		"502d226f"
+	],
+	tasks: [{
+		uid: "1dacd28d",
+		type: "item",
+		items: [{
+			item: "industrialexpansion:coal_ball"
+		}]
+	}]
+}

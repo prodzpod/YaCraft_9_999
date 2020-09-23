@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 18.0d,
+	shape: "rsquare",
+	dependencies: [
+		"98ccf561"
+	],
+	tasks: [{
+		uid: "b68b66e8",
+		type: "item",
+		items: [{
+			item: "thaumadditions:zeith_fur"
+		}]
+	}]
+}

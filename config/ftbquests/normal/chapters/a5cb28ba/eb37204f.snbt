@@ -1,0 +1,14 @@
+{
+	x: -10.5d,
+	y: 13.5d,
+	dependencies: [
+		"2d169835"
+	],
+	tasks: [{
+		uid: "1b74dde5",
+		type: "item",
+		items: [{
+			item: "embers:explosion_pedestal"
+		}]
+	}]
+}

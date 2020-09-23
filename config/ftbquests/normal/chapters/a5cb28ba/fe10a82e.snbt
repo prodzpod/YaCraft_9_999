@@ -1,0 +1,15 @@
+{
+	x: -9.0d,
+	y: 1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"33f55e76"
+	],
+	tasks: [{
+		uid: "ad875ff2",
+		type: "item",
+		items: [{
+			item: "embers:flame_barrier"
+		}]
+	}]
+}

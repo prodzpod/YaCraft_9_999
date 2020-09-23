@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	dependencies: [
+		"4bf03822"
+	],
+	tasks: [{
+		uid: "c6315dd4",
+		type: "item",
+		items: [{
+			item: "mekanism:cardboardbox"
+		}]
+	}]
+}

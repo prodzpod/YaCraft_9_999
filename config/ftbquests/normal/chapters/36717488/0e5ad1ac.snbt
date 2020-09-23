@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"e738dedd"
+	],
+	tasks: [{
+		uid: "facb16b8",
+		type: "item",
+		items: [{
+			item: "draconicevolution:infused_obsidian"
+		}]
+	}]
+}

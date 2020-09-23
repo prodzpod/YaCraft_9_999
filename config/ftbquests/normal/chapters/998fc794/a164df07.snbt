@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 13.5d,
+	dependencies: [
+		"00a53099"
+	],
+	tasks: [{
+		uid: "76452629",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:potion_flask"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

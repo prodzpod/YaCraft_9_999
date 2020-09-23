@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "f08bb013",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}]
+}

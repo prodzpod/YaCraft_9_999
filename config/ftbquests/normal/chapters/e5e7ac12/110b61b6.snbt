@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"03790701"
+	],
+	tasks: [{
+		uid: "a61412e2",
+		type: "item",
+		items: [{
+			id: "agricraft:water_channel_normal",
+			tag: {
+				agri_material_meta: 9,
+				agri_material: "chisel:planks-oak"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

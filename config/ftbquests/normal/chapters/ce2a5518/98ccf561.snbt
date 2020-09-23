@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: 18.0d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"efbdbf31",
+		"e72a00e1"
+	],
+	tasks: [{
+		uid: "4404da3d",
+		type: "item",
+		items: [{
+			item: "thaumcraft:fabric"
+		}]
+	}]
+}

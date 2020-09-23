@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "d2c4e0e7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	}]
+}

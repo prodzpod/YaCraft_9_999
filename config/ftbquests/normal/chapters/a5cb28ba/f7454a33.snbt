@@ -1,0 +1,19 @@
+{
+	x: -4.5d,
+	y: 15.0d,
+	dependencies: [
+		"9680acfd"
+	],
+	tasks: [{
+		uid: "f4ff8e03",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:glimmer_lamp"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

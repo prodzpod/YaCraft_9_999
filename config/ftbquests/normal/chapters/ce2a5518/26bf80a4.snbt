@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 10.5d,
+	dependencies: [
+		"1adf5fdd"
+	],
+	tasks: [{
+		uid: "12ccba3a",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_siphon"
+		}]
+	}]
+}

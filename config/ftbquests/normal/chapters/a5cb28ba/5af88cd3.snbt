@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 4.5d,
+	dependencies: [
+		"97e380c5"
+	],
+	tasks: [{
+		uid: "da2fa0b8",
+		type: "item",
+		items: [{
+			item: "embers:mechanical_pump"
+		}]
+	}]
+}

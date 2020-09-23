@@ -1,0 +1,13 @@
+{
+	title: "&eControlling",
+	disable_toast: true,
+	x: -1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "15fcf833",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_tiny_torch"
+		}]
+	}]
+}

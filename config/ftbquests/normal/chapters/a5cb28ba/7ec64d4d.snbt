@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	dependencies: [
+		"97e380c5"
+	],
+	tasks: [{
+		uid: "df48779b",
+		type: "item",
+		items: [{
+			item: "embers:breaker"
+		}]
+	}]
+}

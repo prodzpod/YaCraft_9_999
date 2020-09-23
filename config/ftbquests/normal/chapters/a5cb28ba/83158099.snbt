@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 15.0d,
+	dependencies: [
+		"43ffb3f4"
+	],
+	tasks: [{
+		uid: "6164c123",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
+		}]
+	}]
+}

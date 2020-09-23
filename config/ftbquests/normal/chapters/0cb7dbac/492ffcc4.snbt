@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	dependencies: [
+		"85b6b92e"
+	],
+	tasks: [{
+		uid: "4387f8f7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:item_growth_ring",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

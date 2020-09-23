@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"4bf03822"
+	],
+	tasks: [{
+		uid: "eac17cf2",
+		type: "item",
+		items: [{
+			item: "mekanism:speedupgrade"
+		}]
+	}]
+}

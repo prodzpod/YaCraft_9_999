@@ -1,0 +1,13 @@
+{
+	title: "&cCrayfish's Furnitures",
+	disable_toast: true,
+	x: -0.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "bf426bb2",
+		type: "item",
+		items: [{
+			item: "cfm:chair_oak"
+		}]
+	}]
+}

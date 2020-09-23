@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"7b65e0cf",
+		"57952b4f"
+	],
+	tasks: [{
+		uid: "2728a620",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativesolid 1 3"
+		}]
+	}]
+}

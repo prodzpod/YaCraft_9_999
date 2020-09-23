@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"4bd8984d",
+		"bf83779d"
+	],
+	tasks: [{
+		uid: "8b2bbf39",
+		type: "item",
+		items: [{
+			item: "extrabotany:material 1 3"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 12.0d,
+	y: -4.5d,
+	shape: "gear",
+	dependencies: [
+		"b9f05723"
+	],
+	tasks: [{
+		uid: "b4a00a50",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanismgenerators:hohlraum"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

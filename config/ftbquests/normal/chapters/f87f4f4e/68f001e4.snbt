@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: -7.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c264229d"
+	],
+	tasks: [{
+		uid: "d535ad41",
+		type: "item",
+		items: [{
+			item: "contenttweaker:even_redder_dust"
+		}]
+	}]
+}

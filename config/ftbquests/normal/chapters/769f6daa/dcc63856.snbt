@@ -1,0 +1,14 @@
+{
+	x: -8.0d,
+	y: 2.0d,
+	dependencies: [
+		"65e21a69"
+	],
+	tasks: [{
+		uid: "bdff63de",
+		type: "item",
+		items: [{
+			item: "extrautils2:creativeharvest"
+		}]
+	}]
+}

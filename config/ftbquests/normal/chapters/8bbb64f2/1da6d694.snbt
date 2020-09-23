@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "fbe460bd",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:redstone_essence"
+		}]
+	}]
+}

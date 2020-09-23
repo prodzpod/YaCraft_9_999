@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 5.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "86788e6d",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:obsidian_essence"
+		}]
+	}]
+}

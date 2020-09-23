@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"46060c07"
+	],
+	tasks: [{
+		uid: "2bfd31c1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "agricraft:clipper"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

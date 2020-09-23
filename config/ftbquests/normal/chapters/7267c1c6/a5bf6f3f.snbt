@@ -1,0 +1,13 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	dependencies: [
+		"632de214"
+	],
+	tasks: [{
+		uid: "679eb2c8",
+		type: "advancement",
+		advancement: "immersiveengineering:main/multiblock_silo",
+		criterion: ""
+	}]
+}

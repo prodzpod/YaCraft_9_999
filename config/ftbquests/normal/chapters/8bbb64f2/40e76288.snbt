@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 9.0d,
+	dependencies: [
+		"51e7ec85"
+	],
+	tasks: [{
+		uid: "a9ee18b8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:enderium_essence"
+		}]
+	}]
+}

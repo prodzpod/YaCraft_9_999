@@ -1,0 +1,15 @@
+{
+	x: -11.0d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"33f55e76"
+	],
+	tasks: [{
+		uid: "a23fe430",
+		type: "item",
+		items: [{
+			item: "embers:focal_lens"
+		}]
+	}]
+}

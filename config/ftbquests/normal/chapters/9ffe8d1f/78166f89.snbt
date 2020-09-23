@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	dependencies: [
+		"11e1a674"
+	],
+	tasks: [{
+		uid: "3bfeb7e4",
+		type: "item",
+		items: [{
+			item: "bewitchment:golden_thread"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	dependencies: [
+		"7e91f4bd",
+		"11f9799b"
+	],
+	tasks: [{
+		uid: "a566eaaf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodarsenal:soul_pendant",
+			tag: {},
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}]
+}

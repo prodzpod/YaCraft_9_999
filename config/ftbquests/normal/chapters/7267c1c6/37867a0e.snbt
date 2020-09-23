@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"60092b70"
+	],
+	tasks: [{
+		uid: "226b17f2",
+		type: "advancement",
+		advancement: "immersiveengineering:main/multiblock_metalpress",
+		criterion: ""
+	}]
+}

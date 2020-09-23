@@ -1,0 +1,14 @@
+{
+	x: 10.5d,
+	y: 6.0d,
+	dependencies: [
+		"9c516b79"
+	],
+	tasks: [{
+		uid: "cfc9dc89",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_pylon"
+		}]
+	}]
+}

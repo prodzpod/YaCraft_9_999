@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"a191784a"
+	],
+	tasks: [{
+		uid: "a3288eca",
+		type: "item",
+		items: [{
+			item: "extrabotany:pedestal"
+		}]
+	}]
+}

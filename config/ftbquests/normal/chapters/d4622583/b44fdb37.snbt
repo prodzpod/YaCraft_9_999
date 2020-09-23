@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"2f7b64de"
+	],
+	tasks: [{
+		uid: "29714981",
+		type: "item",
+		items: [{
+			item: "extrautils2:opinium"
+		}]
+	}]
+}

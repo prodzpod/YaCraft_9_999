@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: 13.5d,
+	shape: "rsquare",
+	dependencies: [
+		"7e59ac6d"
+	],
+	tasks: [{
+		uid: "1fa49094",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:glimmer_shard"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

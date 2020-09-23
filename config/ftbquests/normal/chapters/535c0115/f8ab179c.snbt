@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: 10.0d,
+	dependencies: [
+		"e615cd1a"
+	],
+	tasks: [{
+		uid: "0c02859f",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "arcanerose"
+			}
+		}]
+	}]
+}

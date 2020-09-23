@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 18.5d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "f10e35bb",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:lumium_essence"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"2dbf3b0a",
+		"6c624a70"
+	],
+	tasks: [{
+		uid: "7217a01f",
+		type: "item",
+		items: [{
+			item: "bloodmagic:slate 1 4"
+		}]
+	}]
+}

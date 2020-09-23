@@ -1,0 +1,13 @@
+{
+	title: "&2Swing Through Grass",
+	disable_toast: true,
+	x: 2.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "7cf3342c",
+		type: "item",
+		items: [{
+			item: "minecraft:double_plant 1 2"
+		}]
+	}]
+}

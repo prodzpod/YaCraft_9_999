@@ -1,0 +1,11 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "38d46dee",
+		type: "item",
+		items: [{
+			item: "tconstruct:spaghetti"
+		}]
+	}]
+}

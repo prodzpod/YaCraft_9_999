@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: -13.0d,
+	dependencies: [
+		"9a190009"
+	],
+	tasks: [{
+		uid: "c99ed3b2",
+		type: "item",
+		items: [{
+			item: "minecraft:structure_void"
+		}]
+	}]
+}

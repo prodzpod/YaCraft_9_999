@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	dependencies: [
+		"75803d6a",
+		"c83cd35a"
+	],
+	tasks: [{
+		uid: "36f26d83",
+		type: "item",
+		items: [{
+			item: "bewitchment:wood_ash"
+		}]
+	}]
+}

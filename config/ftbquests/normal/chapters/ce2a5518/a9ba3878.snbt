@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	dependencies: [
+		"b21df215",
+		"9f846675"
+	],
+	tasks: [{
+		uid: "05c2ca20",
+		type: "item",
+		items: [{
+			item: "thaumicwands:item_wand_cap 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "7c93ab43",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:gold_essence"
+		}]
+	}]
+}

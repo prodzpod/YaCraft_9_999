@@ -1,0 +1,17 @@
+{
+	x: 9.5d,
+	y: -3.5d,
+	shape: "gear",
+	dependencies: [
+		"dc9437e4",
+		"17aaba7e"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "53c3f009",
+		type: "item",
+		items: [{
+			item: "extrautils2:teleporter 1 1"
+		}]
+	}]
+}

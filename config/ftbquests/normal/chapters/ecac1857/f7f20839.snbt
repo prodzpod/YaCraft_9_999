@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	dependencies: [
+		"91daffba"
+	],
+	tasks: [{
+		uid: "7dd6c3da",
+		type: "item",
+		items: [{
+			item: "rusticthaumaturgy:sconce_brass_aer"
+		}]
+	}]
+}

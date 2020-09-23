@@ -1,0 +1,27 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"efbdbf31"
+	],
+	tasks: [{
+		uid: "75c305fa",
+		type: "item",
+		items: [{
+			item: "thaumcraft:table_wood"
+		}]
+	},
+	{
+		uid: "95b6c896",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:scribing_tools"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

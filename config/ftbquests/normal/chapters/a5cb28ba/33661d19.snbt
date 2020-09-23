@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "6112eac5",
+		type: "item",
+		items: [{
+			item: "embers:brick_caminite"
+		}]
+	}]
+}

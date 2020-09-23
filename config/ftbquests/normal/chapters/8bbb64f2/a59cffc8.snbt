@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 14.5d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "728a8f9c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:mithril_essence"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -11.5d,
+	y: 5.5d,
+	dependencies: [
+		"3c53d7b4"
+	],
+	tasks: [{
+		uid: "f515d652",
+		type: "item",
+		items: [{
+			item: "thaumicenergistics:essentia_cell_creative"
+		}]
+	}]
+}

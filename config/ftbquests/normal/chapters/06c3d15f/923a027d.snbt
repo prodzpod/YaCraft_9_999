@@ -1,0 +1,18 @@
+{
+	title: "&6Better Builders Wands",
+	disable_toast: true,
+	x: 2.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "0d6b6816",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "betterbuilderswands:wandunbreakable",
+			Damage: 12s
+		}],
+		ignore_nbt: 1b
+	}]
+}

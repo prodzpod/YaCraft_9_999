@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 15.0d,
+	shape: "gear",
+	dependencies: [
+		"886560fc"
+	],
+	tasks: [{
+		uid: "2b5304ad",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:foursmore"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: -12.5d,
+	dependencies: [
+		"2dbf3b0a"
+	],
+	tasks: [{
+		uid: "5e9bebee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodarsenal:sigil_lightning"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

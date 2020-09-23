@@ -1,0 +1,15 @@
+{
+	x: 5.5d,
+	y: 9.0d,
+	shape: "rsquare",
+	dependencies: [
+		"85d2725e"
+	],
+	tasks: [{
+		uid: "0d4626dc",
+		type: "item",
+		items: [{
+			item: "botania:bifrostperm"
+		}]
+	}]
+}

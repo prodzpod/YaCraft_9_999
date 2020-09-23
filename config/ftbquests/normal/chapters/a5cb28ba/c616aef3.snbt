@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 7.5d,
+	dependencies: [
+		"785f00a6"
+	],
+	tasks: [{
+		uid: "59bb42da",
+		type: "item",
+		items: [{
+			item: "embers:ember_siphon"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 19.0d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "14fb34f1",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:marble_essence"
+		}]
+	}]
+}

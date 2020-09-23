@@ -1,0 +1,13 @@
+{
+	x: 10.0d,
+	y: 4.0d,
+	shape: "rsquare",
+	dependencies: [
+		"6a08532d"
+	],
+	tasks: [{
+		uid: "941d6d0c",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

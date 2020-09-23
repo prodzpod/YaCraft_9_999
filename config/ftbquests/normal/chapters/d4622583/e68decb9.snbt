@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	dependencies: [
+		"94c97121",
+		"38238da9",
+		"23732a1e",
+		"ebaaf97c"
+	],
+	tasks: [{
+		uid: "4711f05c",
+		type: "item",
+		items: [{
+			item: "extrautils2:passivegenerator 1 8"
+		}]
+	}]
+}

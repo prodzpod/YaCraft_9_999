@@ -1,0 +1,13 @@
+{
+	title: "&fOptifine",
+	disable_toast: true,
+	x: 2.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "33bc7a0f",
+		type: "item",
+		items: [{
+			item: "minecraft:web"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -7.5d,
+	y: 10.5d,
+	dependencies: [
+		"9c841730"
+	],
+	tasks: [{
+		uid: "2efb7589",
+		type: "item",
+		items: [{
+			id: "soot:essence",
+			tag: {
+				type: "chaos"
+			}
+		}]
+	}]
+}

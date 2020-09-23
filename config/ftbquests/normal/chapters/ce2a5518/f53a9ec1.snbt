@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	dependencies: [
+		"1f1d1167"
+	],
+	tasks: [{
+		uid: "81d6f585",
+		type: "item",
+		items: [{
+			item: "thaumcraft:essentia_input"
+		}]
+	}]
+}

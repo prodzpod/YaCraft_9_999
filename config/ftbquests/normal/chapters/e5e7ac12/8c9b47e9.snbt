@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"0127b873",
+		"253e724a"
+	],
+	tasks: [{
+		uid: "08f43e76",
+		type: "item",
+		items: [{
+			item: "minecraft:pumpkin_seeds"
+		}]
+	}]
+}

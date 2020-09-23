@@ -1,0 +1,31 @@
+{
+	title: "&d퀘스트&r 읽는법을 알아보자",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:itemknowledgeshare",
+		tag: {
+			astralsorcery: {
+				creativeKnowledge: 1b
+			}
+		}
+	},
+	x: -2.5d,
+	y: 2.0d,
+	text: [
+		"&7왼쪽에 &a\"카테고리\" &7선택 창이 있는데 그걸 누르면 각 티어가 보인다.",
+		"",
+		"&7퀘스트 아이콘 모양이 각자 다른데 &a동그라미&7는 선택적 퀘스트, &b네모&7는 필수적 퀘스트, &d톱니바퀴&7는 각 티어의 끝과 같은 중요한 퀘스트를 의미한다.",
+		"",
+		"&7카테고리에 있는 대괄호 숫자는 &e티어&7이며, &f+&7가 붙은 것은 &dD&5efinitive &eE&6dition&7에 추가된 &b엑스트라 컨텐츠&7."
+	],
+	dependencies: [
+		"a6862fcc"
+	],
+	tasks: [{
+		uid: "8c875b68",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

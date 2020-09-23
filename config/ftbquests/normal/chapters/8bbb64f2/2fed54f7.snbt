@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 12.5d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "f70f14d2",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:sulfur_essence"
+		}]
+	}]
+}

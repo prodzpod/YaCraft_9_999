@@ -1,0 +1,20 @@
+{
+	x: 7.5d,
+	y: -12.5d,
+	dependencies: [
+		"faabb87b",
+		"f638f9f1",
+		"698f78fd",
+		"fd665f9a",
+		"7363e214",
+		"d5588acf"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "fbe5abef",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:charm"
+		}]
+	}]
+}

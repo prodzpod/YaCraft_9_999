@@ -1,0 +1,45 @@
+{
+	x: 6.5d,
+	y: -3.5d,
+	shape: "rsquare",
+	dependencies: [
+		"906ae7ce"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "37103232",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2 1 1"
+		}]
+	},
+	{
+		uid: "abb38a4e",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock2 1 2"
+		}]
+	},
+	{
+		uid: "cf26b7fa",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 0
+			},
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "40a91260",
+		type: "item",
+		items: [{
+			id: "mekanism:basicblock2",
+			tag: {
+				tier: 0
+			},
+			Damage: 4s
+		}]
+	}]
+}

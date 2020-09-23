@@ -1,0 +1,18 @@
+{
+	title: "&bAkashic Tome",
+	disable_toast: true,
+	x: 0.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "8f80f775",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "akashictome:tome"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

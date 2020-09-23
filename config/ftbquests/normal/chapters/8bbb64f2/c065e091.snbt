@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: -1.5d,
+	dependencies: [
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "1a9376dc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:master_infusion_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

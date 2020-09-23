@@ -1,0 +1,14 @@
+{
+	x: -8.5d,
+	y: 5.5d,
+	dependencies: [
+		"7d42aa0d"
+	],
+	tasks: [{
+		uid: "36edfdfe",
+		type: "item",
+		items: [{
+			item: "minecraft:end_portal"
+		}]
+	}]
+}

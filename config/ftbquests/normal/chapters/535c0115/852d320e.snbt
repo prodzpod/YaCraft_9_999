@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: 6.5d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"693bdc12",
+		"800fd2f6",
+		"60ae19f5",
+		"cfe58890",
+		"e615cd1a",
+		"f7c8599f"
+	],
+	tasks: [{
+		uid: "f50aae10",
+		type: "item",
+		items: [{
+			item: "botania:terraplate"
+		}]
+	}]
+}

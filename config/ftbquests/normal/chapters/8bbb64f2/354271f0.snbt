@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "320e794a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:zombie_essence"
+		}]
+	}]
+}

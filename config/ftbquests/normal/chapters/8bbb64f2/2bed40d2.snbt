@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 39.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "c993b4ca",
+		type: "item",
+		items: [{
+			item: "jaopca:item_essenceancientdebris"
+		}]
+	}]
+}

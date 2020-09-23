@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 11.5d,
+	shape: "rsquare",
+	dependencies: [
+		"800fd2f6",
+		"60ae19f5"
+	],
+	tasks: [{
+		uid: "fab4b9e9",
+		type: "item",
+		items: [{
+			item: "botanicadds:rune_energy"
+		}]
+	}]
+}

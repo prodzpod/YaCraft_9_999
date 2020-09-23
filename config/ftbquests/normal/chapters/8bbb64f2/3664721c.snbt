@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 20.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "a3455b7c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:blitz_essence"
+		}]
+	}]
+}

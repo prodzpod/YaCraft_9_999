@@ -1,0 +1,13 @@
+{
+	title: "Minecraft",
+	disable_toast: true,
+	x: 0.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "37a4a321",
+		type: "item",
+		items: [{
+			item: "minecraft:dirt"
+		}]
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "&b[6]&r티어: 현대문명의 도래",
+	icon: "nuclearcraft:heat_exchanger_tube_hard_carbon",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

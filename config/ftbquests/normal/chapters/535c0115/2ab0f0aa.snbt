@@ -1,0 +1,19 @@
+{
+	x: 15.0d,
+	y: 4.5d,
+	dependencies: [
+		"e514c9e9"
+	],
+	tasks: [{
+		uid: "a0efce92",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:spearsubspace"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

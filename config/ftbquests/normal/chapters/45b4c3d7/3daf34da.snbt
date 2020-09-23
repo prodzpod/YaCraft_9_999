@@ -1,0 +1,13 @@
+{
+	title: "&2Journeymap",
+	disable_toast: true,
+	x: -1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "4d735409",
+		type: "item",
+		items: [{
+			item: "minecraft:map"
+		}]
+	}]
+}

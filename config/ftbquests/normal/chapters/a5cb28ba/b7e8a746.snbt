@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"fa110570"
+	],
+	tasks: [{
+		uid: "f4b3ff04",
+		type: "item",
+		items: [{
+			item: "embers:wildfire_core"
+		}]
+	}]
+}

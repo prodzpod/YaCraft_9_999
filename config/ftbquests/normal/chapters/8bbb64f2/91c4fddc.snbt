@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 7.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "e78d1a76",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:skeleton_essence"
+		}]
+	}]
+}

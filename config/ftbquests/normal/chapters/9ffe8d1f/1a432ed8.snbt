@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"c32eaea6"
+	],
+	tasks: [{
+		uid: "54521343",
+		type: "item",
+		items: [{
+			item: "bewitchment:empty_jar"
+		}]
+	}]
+}

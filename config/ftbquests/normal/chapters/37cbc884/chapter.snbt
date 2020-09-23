@@ -1,0 +1,12 @@
+{
+	title: "&7[-]&r 기타 모드",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "microblockcbe:saw_diamond"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

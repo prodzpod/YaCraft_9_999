@@ -1,0 +1,18 @@
+{
+	x: 9.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"48d66358"
+	],
+	tasks: [{
+		uid: "be138cff",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "dandelifeon"
+			}
+		}]
+	}]
+}

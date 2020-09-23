@@ -1,0 +1,24 @@
+{
+	x: 0.0d,
+	y: 6.5d,
+	dependencies: [
+		"5dd2c2b8",
+		"adfaaeb9"
+	],
+	tasks: [{
+		uid: "a4470fa9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "infinity_metal",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 17.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "f00db39f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:lead_essence"
+		}]
+	}]
+}

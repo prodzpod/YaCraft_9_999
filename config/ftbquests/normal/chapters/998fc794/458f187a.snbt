@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 2.5d,
+	dependencies: [
+		"0fef2c0a"
+	],
+	tasks: [{
+		uid: "c8cf1eff",
+		type: "item",
+		items: [{
+			item: "bloodmagic:decorative_brick"
+		}]
+	}]
+}

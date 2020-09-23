@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 7.5d,
+	shape: "gear",
+	dependencies: [
+		"c6398241"
+	],
+	tasks: [{
+		uid: "a5b73d33",
+		type: "item",
+		items: [{
+			item: "threng:material 1 14"
+		}]
+	}]
+}

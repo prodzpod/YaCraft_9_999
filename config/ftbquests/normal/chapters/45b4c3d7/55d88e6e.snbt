@@ -1,0 +1,13 @@
+{
+	title: "&2Fast Leaf Decay",
+	disable_toast: true,
+	x: 2.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "6cfdce23",
+		type: "item",
+		items: [{
+			item: "minecraft:leaves"
+		}]
+	}]
+}

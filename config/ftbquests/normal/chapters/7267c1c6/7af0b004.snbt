@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"ad8adf37"
+	],
+	tasks: [{
+		uid: "dba59a91",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:schematic"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

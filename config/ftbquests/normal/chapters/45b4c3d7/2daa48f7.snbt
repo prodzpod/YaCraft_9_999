@@ -1,0 +1,13 @@
+{
+	title: "&aDynamic Surroundings",
+	disable_toast: true,
+	x: 3.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "20d83fd5",
+		type: "item",
+		items: [{
+			item: "minecraft:waterlily"
+		}]
+	}]
+}

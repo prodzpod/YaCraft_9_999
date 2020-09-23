@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"efbdbf31"
+	],
+	tasks: [{
+		uid: "f45ef054",
+		type: "item",
+		items: [{
+			item: "thaumcraft:crucible"
+		}]
+	}]
+}

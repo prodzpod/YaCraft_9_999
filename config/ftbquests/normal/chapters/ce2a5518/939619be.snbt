@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: 22.5d,
+	dependencies: [
+		"54b737df"
+	],
+	tasks: [{
+		uid: "c68d7f63",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:mithminite_robe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

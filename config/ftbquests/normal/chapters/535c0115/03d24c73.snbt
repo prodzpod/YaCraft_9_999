@@ -1,0 +1,22 @@
+{
+	x: 2.25d,
+	y: 16.5d,
+	shape: "gear",
+	dependencies: [
+		"6b9fccef",
+		"c69281c0",
+		"28079833",
+		"31a8f75f",
+		"6ef6d4ea",
+		"cae7742a",
+		"0c369ccb"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "dfe78b4e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_the_universe"
+		}]
+	}]
+}

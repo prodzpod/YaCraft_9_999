@@ -1,0 +1,19 @@
+{
+	x: 10.5d,
+	y: 7.5d,
+	dependencies: [
+		"f2e40c50"
+	],
+	tasks: [{
+		uid: "bae4302a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:leonards_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

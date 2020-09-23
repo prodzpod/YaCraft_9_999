@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 12.0d,
+	dependencies: [
+		"51e7ec85"
+	],
+	tasks: [{
+		uid: "5af3d65c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:terrasteel_essence"
+		}]
+	}]
+}

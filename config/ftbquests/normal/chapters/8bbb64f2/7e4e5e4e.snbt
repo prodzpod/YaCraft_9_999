@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 0.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "7912eacc",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:tier3_inferium_seeds"
+		}]
+	}]
+}

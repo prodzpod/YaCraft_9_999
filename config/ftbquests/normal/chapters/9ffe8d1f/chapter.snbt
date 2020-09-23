@@ -1,0 +1,12 @@
+{
+	title: "&a[4&f+&a]&r: 비위치먼트",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "bewitchment:witches_hat"
+	},
+	always_invisible: false,
+	group: 1714937303,
+	default_quest_shape: ""
+}

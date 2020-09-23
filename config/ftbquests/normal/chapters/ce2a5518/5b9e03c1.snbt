@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"1cd6e492"
+	],
+	tasks: [{
+		uid: "dd3cc137",
+		type: "item",
+		items: [{
+			item: "thaumicwands:item_wand_rod 1 7"
+		}]
+	}]
+}

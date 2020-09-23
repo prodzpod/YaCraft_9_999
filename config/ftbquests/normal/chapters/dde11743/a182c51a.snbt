@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 14.5d,
+	shape: "gear",
+	dependencies: [
+		"12f8103c"
+	],
+	tasks: [{
+		uid: "abfeb3d8",
+		type: "item",
+		items: [{
+			item: "minecraft:glass_pane"
+		}]
+	}]
+}

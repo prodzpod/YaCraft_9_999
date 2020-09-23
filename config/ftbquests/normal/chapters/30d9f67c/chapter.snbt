@@ -1,0 +1,7 @@
+{
+	title: "&9[7]&r티어: 엔더리움의 시대",
+	icon: "thermalexpansion:frame 1 132",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

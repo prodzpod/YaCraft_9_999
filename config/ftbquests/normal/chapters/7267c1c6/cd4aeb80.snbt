@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"ebbcac3f"
+	],
+	tasks: [{
+		uid: "491697e6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "diesel",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

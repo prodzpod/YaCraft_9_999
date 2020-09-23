@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "5a809d49",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 1 48"
+		}]
+	}]
+}

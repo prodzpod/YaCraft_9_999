@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 1.0d,
+	dependencies: [
+		"eae45b44",
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "22f0aff3",
+		type: "item",
+		items: [{
+			item: "mysticaladaptations:insanium_apple"
+		}]
+	}]
+}

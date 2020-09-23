@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"cb40cc45",
+		"9a88c47f"
+	],
+	tasks: [{
+		uid: "dde19707",
+		type: "item",
+		items: [{
+			item: "extrabotany:dimensioncatalyst"
+		}]
+	}]
+}

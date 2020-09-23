@@ -1,0 +1,16 @@
+{
+	x: 13.5d,
+	y: 2.5d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"ab7a8c1e"
+	],
+	tasks: [{
+		uid: "d58ea744",
+		type: "item",
+		items: [{
+			item: "bloodarsenal:base_item 1 5"
+		}]
+	}]
+}

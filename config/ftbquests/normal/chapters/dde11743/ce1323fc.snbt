@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 3.75d,
+	shape: "rsquare",
+	dependencies: [
+		"3cb60d4e"
+	],
+	tasks: [{
+		uid: "e5996197",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:pressurizer_idle"
+		}]
+	}]
+}

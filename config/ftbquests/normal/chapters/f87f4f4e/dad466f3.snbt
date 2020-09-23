@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: -4.5d,
+	dependencies: [
+		"de93bf6a"
+	],
+	tasks: [{
+		uid: "71af6fdd",
+		type: "item",
+		items: [{
+			id: "thermaldynamics:cover",
+			tag: {
+				Meta: 0b,
+				Block: "minecraft:stone"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

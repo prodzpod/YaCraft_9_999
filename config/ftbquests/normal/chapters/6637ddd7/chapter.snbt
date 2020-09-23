@@ -1,0 +1,7 @@
+{
+	title: "&a[4]&r티어: 원래 없던 티어",
+	icon: "bewitchment:bottled_hellfire",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

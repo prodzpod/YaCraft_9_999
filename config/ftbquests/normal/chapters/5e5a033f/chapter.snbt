@@ -1,0 +1,7 @@
+{
+	title: "&7[-]&r: 상자 사이드퀘스트",
+	icon: "minecraft:ender_chest",
+	always_invisible: false,
+	group: -1752952294,
+	default_quest_shape: ""
+}

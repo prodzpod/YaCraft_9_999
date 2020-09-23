@@ -1,0 +1,13 @@
+{
+	title: "&bBetter Beacon Placement",
+	disable_toast: true,
+	x: 2.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "f350b14b",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}]
+}

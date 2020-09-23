@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"9c7f1bbf"
+	],
+	tasks: [{
+		uid: "80eb5d7d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:pestleandmortar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

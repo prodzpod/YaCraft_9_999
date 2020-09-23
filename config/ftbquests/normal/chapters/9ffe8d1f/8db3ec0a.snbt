@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 6.0d,
+	dependencies: [
+		"36e80cff"
+	],
+	tasks: [{
+		uid: "385b9c92",
+		type: "item",
+		items: [{
+			item: "bewitchment:box_of_sealed_evil"
+		}]
+	}]
+}

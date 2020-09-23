@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"12820814"
+	],
+	tasks: [{
+		uid: "6571c1a9",
+		type: "item",
+		items: [{
+			item: "bewitchment:distillery"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 10.5d,
+	y: -1.5d,
+	dependencies: [
+		"917d9f4c"
+	],
+	tasks: [{
+		uid: "4986853e",
+		type: "item",
+		items: [{
+			item: "bloodmagic:teleposer"
+		}]
+	}]
+}

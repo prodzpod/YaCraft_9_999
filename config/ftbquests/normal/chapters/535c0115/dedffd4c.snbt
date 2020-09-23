@@ -1,0 +1,19 @@
+{
+	x: 8.5d,
+	y: 8.5d,
+	dependencies: [
+		"d7087f54"
+	],
+	tasks: [{
+		uid: "8bd4c8b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:cosmetic",
+			Damage: 30s
+		}],
+		ignore_nbt: 1b
+	}]
+}

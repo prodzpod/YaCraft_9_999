@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	dependencies: [
+		"dbecd8dc",
+		"1f1d1167"
+	],
+	tasks: [{
+		uid: "06ee50f9",
+		type: "item",
+		items: [{
+			item: "planarartifice:smelter_vent"
+		}]
+	}]
+}

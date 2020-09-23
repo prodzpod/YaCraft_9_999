@@ -1,0 +1,19 @@
+{
+	title: "&b멀티플레이&r에 대해 알아보자",
+	icon: "botania_tweaks:compressed_tiny_potato_8",
+	x: 0.95670858092d,
+	y: 4.30969883127d,
+	text: [
+		"&7이번 모드팩은 개인적으로 &b마을&7을 만들어서 살고 싶다",
+		"",
+		"&7서로 따로 살되, 가깝게 살아 집을 짓고 도로를 연결하여 사는것이다. 얼마나 좋은가?"
+	],
+	dependencies: [
+		"a6862fcc"
+	],
+	tasks: [{
+		uid: "0c161583",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

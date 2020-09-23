@@ -1,0 +1,7 @@
+{
+	title: "&9[7]&r: 엑스트라 유틸리티",
+	icon: "extrautils2:ingredients 1 1",
+	always_invisible: false,
+	group: 819590780,
+	default_quest_shape: ""
+}

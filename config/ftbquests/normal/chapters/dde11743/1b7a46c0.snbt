@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 10.0d,
+	shape: "rsquare",
+	dependencies: [
+		"9157eee7"
+	],
+	tasks: [{
+		uid: "098641ee",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:salt_mixer_idle"
+		}]
+	}]
+}

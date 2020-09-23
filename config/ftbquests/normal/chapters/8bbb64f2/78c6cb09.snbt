@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 16.0d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "df175270",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:aluminum_brass_essence"
+		}]
+	}]
+}

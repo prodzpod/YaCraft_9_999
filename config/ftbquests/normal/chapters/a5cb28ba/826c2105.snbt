@@ -1,0 +1,29 @@
+{
+	x: -1.5d,
+	y: 9.0d,
+	shape: "rsquare",
+	dependencies: [
+		"25d7769c"
+	],
+	tasks: [{
+		uid: "e8ac111f",
+		type: "item",
+		items: [{
+			item: "embers:cinder_plinth"
+		}]
+	},
+	{
+		uid: "b860c860",
+		type: "item",
+		items: [{
+			item: "embers:aspectus_dawnstone"
+		}]
+	},
+	{
+		uid: "41d57284",
+		type: "item",
+		items: [{
+			item: "embers:beam_cannon"
+		}]
+	}]
+}

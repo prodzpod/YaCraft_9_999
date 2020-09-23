@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -6.0d,
+	dependencies: [
+		"7ed2458e"
+	],
+	tasks: [{
+		uid: "b9ee7a2f",
+		type: "item",
+		items: [{
+			item: "extrautils2:miner"
+		}]
+	}]
+}

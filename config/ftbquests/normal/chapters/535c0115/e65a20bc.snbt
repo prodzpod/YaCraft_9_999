@@ -1,0 +1,20 @@
+{
+	x: 18.0d,
+	y: 7.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"48d66358"
+	],
+	tasks: [{
+		uid: "9d5c5262",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {},
+				"thaumicaugmentation:elytra_harness_augment": {}
+			},
+			id: "botania:flighttiara"
+		}],
+		ignore_nbt: 1b
+	}]
+}

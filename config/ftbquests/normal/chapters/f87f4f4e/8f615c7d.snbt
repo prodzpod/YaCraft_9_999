@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -7.5d,
+	dependencies: [
+		"2cee7410"
+	],
+	tasks: [{
+		uid: "6ca7e011",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:filter 1 1"
+		}]
+	}]
+}

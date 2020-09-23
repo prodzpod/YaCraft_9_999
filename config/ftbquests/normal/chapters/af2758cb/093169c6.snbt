@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	shape: "gear",
+	dependencies: [
+		"a7e162ca"
+	],
+	tasks: [{
+		uid: "1ccb6cd3",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene 1 2"
+		}]
+	}]
+}

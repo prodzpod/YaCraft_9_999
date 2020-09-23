@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"19a51365"
+	],
+	tasks: [{
+		uid: "1d4dbb77",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 19"
+		}]
+	}]
+}

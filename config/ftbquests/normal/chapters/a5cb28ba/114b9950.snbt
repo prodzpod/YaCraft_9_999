@@ -1,0 +1,14 @@
+{
+	x: -5.5d,
+	y: 3.0d,
+	dependencies: [
+		"e058c7c0"
+	],
+	tasks: [{
+		uid: "a48d32b2",
+		type: "item",
+		items: [{
+			item: "embers:intelligent_apparatus"
+		}]
+	}]
+}

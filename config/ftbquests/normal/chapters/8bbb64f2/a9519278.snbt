@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 13.5d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "417a9e21",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:invar_essence"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: 17.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"a6dd780c"
+	],
+	tasks: [{
+		uid: "b3a21110",
+		type: "item",
+		items: [{
+			item: "quark:rune 1 9"
+		}]
+	}]
+}

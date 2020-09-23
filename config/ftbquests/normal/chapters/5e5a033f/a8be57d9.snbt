@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: 23.5d,
+	shape: "rsquare",
+	dependencies: [
+		"88b4cdce"
+	],
+	tasks: [{
+		uid: "c18936bc",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_chest"
+		}]
+	}]
+}

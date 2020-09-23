@@ -1,0 +1,13 @@
+{
+	title: "&eAdditional Lights",
+	disable_toast: true,
+	x: 1.75d,
+	y: 1.0d,
+	tasks: [{
+		uid: "cf7a56be",
+		type: "item",
+		items: [{
+			item: "additional_lights:standing_torch_l_stone_bricks"
+		}]
+	}]
+}

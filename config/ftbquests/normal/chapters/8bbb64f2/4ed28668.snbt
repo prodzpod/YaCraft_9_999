@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "d7de96f2",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:iron_essence"
+		}]
+	}]
+}

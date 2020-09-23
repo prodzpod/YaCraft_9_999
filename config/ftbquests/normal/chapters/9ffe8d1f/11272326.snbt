@@ -1,0 +1,24 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"a3494b2f",
+		"9016350d"
+	],
+	tasks: [{
+		uid: "09e83475",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "bewitchment:codex_infernalis"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

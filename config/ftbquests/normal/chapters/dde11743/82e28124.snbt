@@ -1,0 +1,15 @@
+{
+	x: 19.5d,
+	y: 6.5d,
+	shape: "rsquare",
+	dependencies: [
+		"bafda90e"
+	],
+	tasks: [{
+		uid: "0ba1c579",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:berkelium 1 1"
+		}]
+	}]
+}

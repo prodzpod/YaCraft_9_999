@@ -1,0 +1,12 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "0f233ee0",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:soulstone"
+		}]
+	}]
+}

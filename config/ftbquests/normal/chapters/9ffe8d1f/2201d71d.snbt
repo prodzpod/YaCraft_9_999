@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"36e80cff"
+	],
+	tasks: [{
+		uid: "2f7c92cf",
+		type: "item",
+		items: [{
+			item: "bewitchment:demon_heart"
+		}]
+	}]
+}

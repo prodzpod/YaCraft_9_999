@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"91daffba"
+	],
+	tasks: [{
+		uid: "7c2debf4",
+		type: "item",
+		items: [{
+			item: "rustic:chandelier"
+		}]
+	}]
+}

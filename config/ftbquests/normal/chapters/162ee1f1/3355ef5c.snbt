@@ -1,0 +1,34 @@
+{
+	title: "&c제작자들&r에 대해 알아보자",
+	icon: {
+		id: "minecraft:skull",
+		tag: {
+			SkullOwner: {
+				Id: "1b86a300-245c-43fb-be5f-c005a62f370e",
+				Properties: {
+					textures: [{
+						Signature: "wz/RqXQQgQVaGPdA0cFDmDXWRQCigk7CxBj4NzAVCBOOT4Xi/P+zngi5la/NOwgCpYgABvAlzvyV3gVSJWipTlVYSacXKkJ7VUSdUvDkxLmy1s/j0MfPODhqlcsAlGTn+ire/xYslLZQpfWLpa+uZJhglAU0V8ATnB9kQnHdFRTTbeWaHX7dHgDvHpvHd6y9jGrNMRdnom++VIot3ibBb30Dd8zoHC9yDR8ivmJqenErZbPAEN1Sg+Qly+L1vzHXZn1nwTnGTL2qM9wdF8ARLyCHiHmQMkQn9PucUjnTpBxAOUA6XM7Ot2PijowiZpeSquwyemORnSSnl8QG4opJ3UBaVmgAp7Ea6pHhbHS1KxuE4C+itvznIlUH/varTSwdaUhLydzW1e3MYpDZ/qnBc2CGQeojbqVxPw7md93G3hSOSK7hlRyJzMiz3Bk5OAICo+aWpnFXsNqGS3MRz8C/L5iDLFryqv8zmacZ6v8eMUQl9gp6X/mInv0cwTAxK2RU20ZAN2+s4HEn4MhXqFxdyMsNF1797yru/qdYHndxM3+qV4q8gVs3Zcaw5p36KkP1/7I6qQzuxlXe8WHShH5CwR1rgkVgrlDExGBDKcfa+FSFYMvfPNMvc6Xy1vpLQsPDLc2G4lL4BejH3Pq9Bqamk6nm6Ff3q6yC/wOJRwMlFkg=",
+						Value: "ewogICJ0aW1lc3RhbXAiIDogMTU5ODU0OTU1MjI2OCwKICAicHJvZmlsZUlkIiA6ICIxYjg2YTMwMDI0NWM0M2ZiYmU1ZmMwMDVhNjJmMzcwZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcm9kV2FzVGFrZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQzZWE2ZDA1NjEwOTMwNmI0NWFlZGVhNzI4ODYwYmRiMTEyZTNkMmViNDIzN2YwOTExM2Q3YmEyMGZiNzg3MSIKICAgIH0KICB9Cn0="
+					}]
+				},
+				Name: "prodWasTaken"
+			}
+		},
+		Damage: 3s
+	},
+	x: 0.0d,
+	y: 4.5d,
+	text: [
+		"&ap&2ro&ad&2z&ap&2o&ad&7: 팩 제작자, 일 다 한 사람, 대부분의 ChorusPlus 텍스쳐팩 제작자",
+		"&dC&5houx&8_&da&8_&dla&8_&dC&freme&7: 사움크래프트 (+애드온) 텍스쳐 (1.13+) 업데이트 및 한글화",
+		"&7N&fitro&6uni&7: 보타니아/엑스트라보타니 부분 한글화"
+	],
+	dependencies: [
+		"a6862fcc"
+	],
+	tasks: [{
+		uid: "6815c31b",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

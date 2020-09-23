@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "3eea72d0",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:experience_essence"
+		}]
+	}]
+}

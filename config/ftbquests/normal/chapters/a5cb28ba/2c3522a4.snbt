@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 1.5d,
+	dependencies: [
+		"6cb91ebe"
+	],
+	tasks: [{
+		uid: "ff9af6cf",
+		type: "item",
+		items: [{
+			item: "soot:ember_burst"
+		}]
+	}]
+}

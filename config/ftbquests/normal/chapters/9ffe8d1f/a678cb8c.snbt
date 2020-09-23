@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "b6ae7e1f",
+		type: "item",
+		items: [{
+			item: "bewitchment:taglock"
+		}]
+	}]
+}

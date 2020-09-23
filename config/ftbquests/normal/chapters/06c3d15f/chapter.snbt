@@ -1,0 +1,8 @@
+{
+	title: "&7[-]&r: 건축모드들",
+	icon: "unlimitedchiselworks:chisel_planks_oak_immersiveengineering_treated_wood_0 1 12",
+	disable_toast: true,
+	always_invisible: false,
+	group: 936102020,
+	default_quest_shape: ""
+}

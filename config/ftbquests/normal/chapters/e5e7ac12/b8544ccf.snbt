@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"e881f761",
+		"8c9b47e9"
+	],
+	tasks: [{
+		uid: "f8b9212b",
+		type: "item",
+		items: [{
+			id: "agricraft:agri_seed",
+			tag: {
+				agri_analyzed: 0b,
+				agri_strength: 1b,
+				agri_gain: 1b,
+				agri_seed: "vanilla:dandelion_plant",
+				agri_growth: 1b
+			}
+		}]
+	}]
+}

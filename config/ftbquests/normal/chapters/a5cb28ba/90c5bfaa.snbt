@@ -1,0 +1,14 @@
+{
+	x: -7.5d,
+	y: 12.0d,
+	dependencies: [
+		"fa110570"
+	],
+	tasks: [{
+		uid: "23778d4d",
+		type: "item",
+		items: [{
+			item: "embers:field_chart"
+		}]
+	}]
+}

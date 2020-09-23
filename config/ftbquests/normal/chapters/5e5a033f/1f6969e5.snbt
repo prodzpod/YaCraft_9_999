@@ -1,0 +1,15 @@
+{
+	x: 9.5d,
+	y: 17.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b3d1875b"
+	],
+	tasks: [{
+		uid: "4719f2e9",
+		type: "item",
+		items: [{
+			item: "ironchest:iron_chest 1 6"
+		}]
+	}]
+}

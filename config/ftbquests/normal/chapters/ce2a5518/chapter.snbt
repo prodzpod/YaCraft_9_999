@@ -1,0 +1,12 @@
+{
+	title: "&2[5]&r: 사움크래프트",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumcraft:goggles"
+	},
+	always_invisible: false,
+	group: -895453667,
+	default_quest_shape: ""
+}

@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"614cc6bc",
+		"d86494b7"
+	],
+	tasks: [{
+		uid: "1f64dd72",
+		type: "item",
+		items: [{
+			item: "mekanism:controlcircuit 1 3"
+		}]
+	}]
+}

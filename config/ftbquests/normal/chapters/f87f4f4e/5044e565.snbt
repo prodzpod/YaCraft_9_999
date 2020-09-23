@@ -1,0 +1,29 @@
+{
+	x: -1.5d,
+	y: 6.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"82a4a255"
+	],
+	tasks: [{
+		uid: "f1fd753b",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 4s
+		}]
+	}]
+}

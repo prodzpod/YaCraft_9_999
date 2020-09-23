@@ -1,0 +1,14 @@
+{
+	x: -10.5d,
+	y: 1.5d,
+	dependencies: [
+		"92eb02fd"
+	],
+	tasks: [{
+		uid: "c2e0f980",
+		type: "item",
+		items: [{
+			item: "flyringbaublemod:flyingring 1 1"
+		}]
+	}]
+}

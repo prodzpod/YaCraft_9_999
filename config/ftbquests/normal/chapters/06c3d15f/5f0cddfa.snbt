@@ -1,0 +1,13 @@
+{
+	title: "&6Immersive Engineering",
+	disable_toast: true,
+	x: 3.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "58d70fd2",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:wooden_device1 1 3"
+		}]
+	}]
+}

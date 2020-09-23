@@ -1,0 +1,19 @@
+{
+	x: -8.0d,
+	y: -2.5d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"46530adf"
+	],
+	tasks: [{
+		uid: "a459c8ab",
+		type: "item",
+		items: [{
+			id: "extrautils2:machine",
+			tag: {
+				Type: "extrautils2:generator_tnt"
+			}
+		}]
+	}]
+}

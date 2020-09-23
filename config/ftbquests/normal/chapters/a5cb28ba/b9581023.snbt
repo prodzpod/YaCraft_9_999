@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 10.5d,
+	dependencies: [
+		"8eefe035"
+	],
+	tasks: [{
+		uid: "83d67ecd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:ashen_cloak_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

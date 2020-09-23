@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 9.0d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"7622b2a2"
+	],
+	tasks: [{
+		uid: "b66b7260",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:infuser_idle"
+		}]
+	}]
+}

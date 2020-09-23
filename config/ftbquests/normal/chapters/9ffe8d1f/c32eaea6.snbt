@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "2359fee0",
+		type: "item",
+		items: [{
+			item: "bewitchment:unfired_jar"
+		}]
+	}]
+}

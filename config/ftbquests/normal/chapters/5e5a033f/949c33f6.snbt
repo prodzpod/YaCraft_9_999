@@ -1,0 +1,14 @@
+{
+	x: 13.0d,
+	y: 10.0d,
+	dependencies: [
+		"ac0e8d8d"
+	],
+	tasks: [{
+		uid: "5f7b024c",
+		type: "item",
+		items: [{
+			item: "thaumadditions:chester"
+		}]
+	}]
+}

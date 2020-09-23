@@ -1,0 +1,14 @@
+{
+	x: -8.0d,
+	y: 8.0d,
+	dependencies: [
+		"7d42aa0d"
+	],
+	tasks: [{
+		uid: "9b79a183",
+		type: "item",
+		items: [{
+			item: "draconicevolution:portal"
+		}]
+	}]
+}

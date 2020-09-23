@@ -1,0 +1,25 @@
+{
+	title: "&6프로그레션&r에 대해 알아보자",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:dice"
+	},
+	x: 1.76776695298d,
+	y: 3.76776695298d,
+	text: [
+		"&7이 모드팩의 컨텐츠는 여러 &e\"티어\"&7로 나뉘어져 있다.",
+		"각 티어에 진입해야 시작이 가능한 모드가 몇 개씩 있으며, 진입 방법은 점점 더 힘들어지고 어려워진다.",
+		"",
+		"이 팩에서 &e\"승리\"&7하려면 결국 모든 &d\"메인 모드\"&7를 해야 할 것이다."
+	],
+	dependencies: [
+		"a6862fcc"
+	],
+	tasks: [{
+		uid: "7bd2081d",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

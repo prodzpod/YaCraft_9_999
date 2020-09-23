@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	dependencies: [
+		"9a16796b"
+	],
+	tasks: [{
+		uid: "ff9f4757",
+		type: "item",
+		items: [{
+			item: "bewitchment:cold_iron_ingot"
+		}]
+	}]
+}

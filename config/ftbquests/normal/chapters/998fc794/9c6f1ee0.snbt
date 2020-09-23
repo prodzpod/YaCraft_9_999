@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: -10.0d,
+	dependencies: [
+		"2dbf3b0a"
+	],
+	tasks: [{
+		uid: "aea60efe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sigil_phantom_bridge",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

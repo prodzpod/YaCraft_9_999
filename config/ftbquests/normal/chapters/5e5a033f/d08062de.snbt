@@ -1,0 +1,18 @@
+{
+	x: 14.5d,
+	y: 7.0d,
+	dependencies: [
+		"afa5797f"
+	],
+	tasks: [{
+		uid: "54ca02a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "charm:crate_sealed"
+		}],
+		ignore_nbt: 1b
+	}]
+}

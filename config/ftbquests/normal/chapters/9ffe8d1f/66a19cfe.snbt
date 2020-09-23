@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: -1.5d,
+	dependencies: [
+		"a6b41026",
+		"78166f89"
+	],
+	tasks: [{
+		uid: "3f78ce9b",
+		type: "item",
+		items: [{
+			item: "bewitchment:spirit_string"
+		}]
+	}]
+}

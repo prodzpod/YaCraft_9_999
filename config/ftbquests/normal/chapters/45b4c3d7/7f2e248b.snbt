@@ -1,0 +1,13 @@
+{
+	title: "&7F5 Fix",
+	disable_toast: true,
+	x: 2.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "b512d69d",
+		type: "item",
+		items: [{
+			item: "minecraft:tallgrass 1 1"
+		}]
+	}]
+}

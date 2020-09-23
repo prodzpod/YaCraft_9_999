@@ -1,0 +1,15 @@
+{
+	x: 25.5d,
+	y: 8.5d,
+	shape: "rsquare",
+	dependencies: [
+		"69bbda5a"
+	],
+	tasks: [{
+		uid: "334abd98",
+		type: "item",
+		items: [{
+			item: "contenttweaker:naquadah_253_oxide"
+		}]
+	}]
+}

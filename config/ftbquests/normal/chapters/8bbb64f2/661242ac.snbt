@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	dependencies: [
+		"51e7ec85"
+	],
+	tasks: [{
+		uid: "da138a5a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:diamond_essence"
+		}]
+	}]
+}

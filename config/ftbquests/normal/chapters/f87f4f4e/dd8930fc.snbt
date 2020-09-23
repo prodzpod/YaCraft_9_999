@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -10.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"de528c53"
+	],
+	tasks: [{
+		uid: "443e316d",
+		type: "item",
+		items: [{
+			item: "thermaldynamics:relay"
+		}]
+	}]
+}

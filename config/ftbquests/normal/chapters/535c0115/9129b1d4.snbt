@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7543aaf7"
+	],
+	tasks: [{
+		uid: "940a4aad",
+		type: "item",
+		items: [{
+			item: "botanicadds:mana_lapis"
+		}]
+	}]
+}

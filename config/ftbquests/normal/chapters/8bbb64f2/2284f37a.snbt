@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 34.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "c65271b0",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:certus_quartz_essence"
+		}]
+	}]
+}

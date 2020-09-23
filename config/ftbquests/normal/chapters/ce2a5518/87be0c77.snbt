@@ -1,0 +1,20 @@
+{
+	x: 4.5d,
+	y: 18.0d,
+	shape: "rsquare",
+	dependencies: [
+		"91ae75f4"
+	],
+	tasks: [{
+		uid: "f4cdba02",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumadditions:disenchant_fabric"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

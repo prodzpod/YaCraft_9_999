@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 9.0d,
+	dependencies: [
+		"fb8a0766"
+	],
+	tasks: [{
+		uid: "4095523d",
+		type: "item",
+		items: [{
+			item: "embers:catalytic_plug"
+		}]
+	}]
+}

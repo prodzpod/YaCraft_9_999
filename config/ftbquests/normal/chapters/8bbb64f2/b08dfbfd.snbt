@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 19.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "bdaa8552",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:blizz_essence"
+		}]
+	}]
+}

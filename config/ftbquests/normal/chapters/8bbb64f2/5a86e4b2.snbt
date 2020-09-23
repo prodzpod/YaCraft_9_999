@@ -1,0 +1,22 @@
+{
+	x: 0.5d,
+	y: -7.5d,
+	dependencies: [
+		"a64ec95d"
+	],
+	tasks: [{
+		uid: "94e2f8db",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:inferium_seed_extractor",
+			tag: {
+				tier: 1
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

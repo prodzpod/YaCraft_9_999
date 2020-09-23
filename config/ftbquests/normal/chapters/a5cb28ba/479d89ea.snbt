@@ -1,0 +1,16 @@
+{
+	x: -11.0d,
+	y: 2.0d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"33f55e76"
+	],
+	tasks: [{
+		uid: "93a7a45f",
+		type: "item",
+		items: [{
+			item: "embers:shifting_scales"
+		}]
+	}]
+}

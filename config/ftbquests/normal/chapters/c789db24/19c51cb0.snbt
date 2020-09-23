@@ -1,0 +1,23 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"ad9e2073",
+		"b57baf56"
+	],
+	tasks: [{
+		uid: "94f2dd32",
+		type: "item",
+		title: "Any obsidian",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "obsidian",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

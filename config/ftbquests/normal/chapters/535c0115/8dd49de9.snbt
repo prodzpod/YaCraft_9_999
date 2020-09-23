@@ -1,0 +1,21 @@
+{
+	x: 16.5d,
+	y: 7.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"69565e0c",
+		"e65a20bc"
+	],
+	tasks: [{
+		uid: "a923eeca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flugeleye"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

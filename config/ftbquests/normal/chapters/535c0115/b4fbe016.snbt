@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"a191784a"
+	],
+	tasks: [{
+		uid: "22eeba68",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:walkingcane"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

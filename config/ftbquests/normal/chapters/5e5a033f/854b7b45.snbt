@@ -1,0 +1,19 @@
+{
+	x: 11.5d,
+	y: 5.5d,
+	dependencies: [
+		"a5917baf"
+	],
+	tasks: [{
+		uid: "51abaa5a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spiceoflife:lunchbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

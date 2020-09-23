@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	dependencies: [
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "347564a2",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:awakened_draconium_essence"
+		}]
+	}]
+}

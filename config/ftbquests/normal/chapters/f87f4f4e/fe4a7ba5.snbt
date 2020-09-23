@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	dependencies: [
+		"68c213a3"
+	],
+	tasks: [{
+		uid: "d6513c5d",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:florb"
+		}]
+	},
+	{
+		uid: "38318fdd",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:morb"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9a88c47f"
+	],
+	tasks: [{
+		uid: "ff98646e",
+		type: "item",
+		items: [{
+			item: "extrabotany:spiritfuel"
+		}]
+	}]
+}

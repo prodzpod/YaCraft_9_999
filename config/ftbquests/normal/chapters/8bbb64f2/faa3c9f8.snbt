@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "24ee873c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:dye_essence"
+		}]
+	}]
+}

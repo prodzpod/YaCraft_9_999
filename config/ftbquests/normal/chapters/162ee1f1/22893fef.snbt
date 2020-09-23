@@ -1,0 +1,27 @@
+{
+	title: "옛날 옛적에...",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thaumicaugmentation:research_notes"
+	},
+	x: 0.0d,
+	y: -0.5d,
+	shape: "rsquare",
+	description: "&bY&ea&ac&eraft&r라는 모드팩이 있었다...",
+	text: [
+		"&7디테일은 &8조잡&7하고 &8러프&7했지만...",
+		"&e놀랍게도 유연한 프로그레션&7으로 많은 이들의 사랑을 받았다...",
+		"",
+		"&7그 일이 있었는 지 벌써 &a1년&7...",
+		"&7모드에 관한 &a지식&7은 늘었고, 모드팩에 대한 &b견문&7도 높아진 지금...",
+		"",
+		"&b\"9.999가 2020년 팩이었다면?\""
+	],
+	tasks: [{
+		uid: "399ec334",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

@@ -1,0 +1,179 @@
+{
+    "images":
+    {
+        "black":
+        {
+            "image" : "prod:blacktransparent.png",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 200,
+            "height" : 2000,
+            "alignment" : "top_left"
+        },
+        "title":
+        {
+            "image" : "prod:logo.png",
+            "posX" : -150,
+            "posY" : 0,
+            "width" : 300,
+            "height" : 100,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 60,
+            "posY" : 0,
+            "width" : 180,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 60,
+            "posY" : 25,
+            "width" : 180,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 60,
+            "posY" : 50,
+            "width" : 180,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 85,
+            "posY" : 75,
+            "width" : 62,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 152,
+            "posY" : 75,
+            "width" : 62,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 220,
+            "posY" : 75,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "left_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 60,
+            "posY" : 75,
+            "width" : 20,
+            "height" : 20,
+            "alignment" : "left_center",
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {        
+        "modcounts":
+        {
+            "text" : "\u00A7d#modsloaded#\u00A7r Mods loaded, \u00A7b#modsactive#\u00A7r Mods active.",
+            "posX" : 2,
+            "posY" : -12,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        "modversion":
+        {
+            "text" : "\u00A7eYa\u00A7bc\u00A7araft \u00A7rSeason \u00A769.999 \u00A7r|| Version \u00A7b2.0.0",
+            "posX" : 2,
+            "posY" : -36,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        },
+        "modlink":
+        {
+            "text" : "pack by \u00A7eprod\u00A7r, \u00A7abit.ly/yacpack9999",
+            "posX" : 2,
+            "posY" : -24,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 140,
+            "posY" : 80,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:prod:splash.txt"
+        },
+        
+        "panorama":
+        {
+            "images" : "prod:panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : true
+        }
+    }
+}

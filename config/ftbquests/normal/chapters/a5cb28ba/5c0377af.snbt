@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: 1.5d,
+	shape: "gear",
+	dependencies: [
+		"a503c347",
+		"625c9f03",
+		"114b9950"
+	],
+	tasks: [{
+		uid: "e2f25b49",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ancient_construct"
+		}]
+	}]
+}

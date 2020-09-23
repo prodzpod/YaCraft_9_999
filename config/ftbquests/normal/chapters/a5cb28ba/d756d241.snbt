@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 9.0d,
+	dependencies: [
+		"13cb7f15"
+	],
+	tasks: [{
+		uid: "1d43c3d7",
+		type: "item",
+		items: [{
+			item: "soot:distillation_pipe"
+		}]
+	}]
+}

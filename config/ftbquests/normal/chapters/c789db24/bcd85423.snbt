@@ -1,0 +1,18 @@
+{
+	x: 4.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "14d6c0c4",
+		type: "item",
+		title: "Any blockSlimeCongealed",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "blockSlimeCongealed",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

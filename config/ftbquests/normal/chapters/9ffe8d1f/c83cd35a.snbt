@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"12820814"
+	],
+	tasks: [{
+		uid: "3d588beb",
+		type: "item",
+		items: [{
+			item: "bewitchment:witches_oven"
+		}]
+	}]
+}

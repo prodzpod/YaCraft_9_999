@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	dependencies: [
+		"d0630740"
+	],
+	tasks: [{
+		uid: "40f0008d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "agricraft:journal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

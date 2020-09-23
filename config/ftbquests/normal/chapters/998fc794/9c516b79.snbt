@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"12584459"
+	],
+	tasks: [{
+		uid: "f2fd7f04",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crucible"
+		}]
+	}]
+}

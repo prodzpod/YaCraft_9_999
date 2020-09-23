@@ -1,0 +1,13 @@
+{
+	title: "&eLarge Ore Deposits",
+	disable_toast: true,
+	x: 1.5d,
+	y: 3.5d,
+	tasks: [{
+		uid: "d3de2e65",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:ore 1 2"
+		}]
+	}]
+}

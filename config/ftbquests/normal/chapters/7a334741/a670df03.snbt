@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 0.5d,
+	shape: "gear",
+	dependencies: [
+		"6133c2af"
+	],
+	tasks: [{
+		uid: "c05d6133",
+		type: "item",
+		items: [{
+			item: "botanicadds:gaiasteel_ingot"
+		}]
+	}]
+}

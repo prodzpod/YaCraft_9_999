@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "e4c012ef",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:dirt_essence"
+		}]
+	}]
+}

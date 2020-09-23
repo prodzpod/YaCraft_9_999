@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 29.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "c4244834",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:aquamarine_essence"
+		}]
+	}]
+}

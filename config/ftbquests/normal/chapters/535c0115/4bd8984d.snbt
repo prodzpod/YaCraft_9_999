@@ -1,0 +1,21 @@
+{
+	x: 13.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"010ccd6f"
+	],
+	tasks: [{
+		uid: "ae389237",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:natureorb",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

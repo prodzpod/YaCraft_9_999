@@ -1,0 +1,7 @@
+{
+	title: "&7[0] &f프롤로그 + 정보",
+	icon: "tconstruct:slime_dirt",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,20 @@
+{
+	x: 14.5d,
+	y: 13.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"253ae74b"
+	],
+	tasks: [{
+		uid: "22d2adf5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:elvenking"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

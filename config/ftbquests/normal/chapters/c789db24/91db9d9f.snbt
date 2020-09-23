@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -9.0d,
+	dependencies: [
+		"9dfea909"
+	],
+	tasks: [{
+		uid: "a392baf7",
+		type: "item",
+		items: [{
+			item: "tconstruct:edible 1 34"
+		}]
+	}]
+}

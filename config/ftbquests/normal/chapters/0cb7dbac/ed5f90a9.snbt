@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"7b575188"
+	],
+	tasks: [{
+		uid: "41e839e6",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 7"
+		}]
+	}]
+}

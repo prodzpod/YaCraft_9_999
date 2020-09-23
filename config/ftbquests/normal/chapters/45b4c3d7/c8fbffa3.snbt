@@ -1,0 +1,13 @@
+{
+	title: "&cAppleskin",
+	disable_toast: true,
+	x: -1.5d,
+	y: 6.5d,
+	tasks: [{
+		uid: "770e1045",
+		type: "item",
+		items: [{
+			item: "minecraft:apple"
+		}]
+	}]
+}

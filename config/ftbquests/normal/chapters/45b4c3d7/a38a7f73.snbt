@@ -1,0 +1,13 @@
+{
+	title: "&9Mouse Tweaks",
+	disable_toast: true,
+	x: -1.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "6eb1a416",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
+	}]
+}

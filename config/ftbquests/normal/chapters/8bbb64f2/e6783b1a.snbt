@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 15.0d,
+	dependencies: [
+		"51e7ec85"
+	],
+	tasks: [{
+		uid: "b242290a",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:starmetal_essence"
+		}]
+	}]
+}

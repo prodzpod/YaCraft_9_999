@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 2.5d,
+	dependencies: [
+		"ad1a1f71"
+	],
+	tasks: [{
+		uid: "faa4fad2",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:connector 1 7"
+		}]
+	}]
+}

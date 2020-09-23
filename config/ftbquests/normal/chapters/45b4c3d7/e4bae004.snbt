@@ -1,0 +1,13 @@
+{
+	title: "&aItemPhysic",
+	disable_toast: true,
+	x: 3.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "b47fa2aa",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}]
+	}]
+}

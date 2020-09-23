@@ -1,0 +1,20 @@
+{
+	x: -8.5d,
+	y: -4.0d,
+	dependencies: [
+		"917dea07"
+	],
+	tasks: [{
+		uid: "ddbfe363",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "of:battery_creative",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

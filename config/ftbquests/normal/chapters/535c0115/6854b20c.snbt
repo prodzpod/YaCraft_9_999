@@ -1,0 +1,14 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"a191784a"
+	],
+	tasks: [{
+		uid: "7f001b04",
+		type: "item",
+		items: [{
+			item: "extrabotany:flyingboat"
+		}]
+	}]
+}

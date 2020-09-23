@@ -1,0 +1,15 @@
+{
+	x: -3.0d,
+	y: 10.5d,
+	shape: "rsquare",
+	dependencies: [
+		"7e59ac6d"
+	],
+	tasks: [{
+		uid: "6a99afae",
+		type: "item",
+		items: [{
+			item: "embers:isolated_materia"
+		}]
+	}]
+}

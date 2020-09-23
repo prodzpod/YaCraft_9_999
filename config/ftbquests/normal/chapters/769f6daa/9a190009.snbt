@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: -11.0d,
+	dependencies: [
+		"c89bab6c"
+	],
+	tasks: [{
+		uid: "9dd7e287",
+		type: "item",
+		items: [{
+			item: "minecraft:barrier"
+		}]
+	}]
+}

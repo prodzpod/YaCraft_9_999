@@ -1,0 +1,14 @@
+{
+	x: -4.0d,
+	y: 5.5d,
+	dependencies: [
+		"2290045a"
+	],
+	tasks: [{
+		uid: "3e71b49d",
+		type: "item",
+		items: [{
+			item: "bewitchment:blessed_stone"
+		}]
+	}]
+}

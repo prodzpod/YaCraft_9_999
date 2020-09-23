@@ -1,0 +1,20 @@
+{
+	x: 8.5d,
+	y: 10.0d,
+	dependencies: [
+		"714edaef"
+	],
+	tasks: [{
+		uid: "7ff88ab4",
+		type: "item",
+		items: [{
+			id: "soot:mug",
+			tag: {
+				Fluid: {
+					FluidName: "boiling_potato_juice",
+					Amount: 250
+				}
+			}
+		}]
+	}]
+}

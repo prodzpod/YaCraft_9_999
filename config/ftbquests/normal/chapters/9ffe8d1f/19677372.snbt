@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 6.0d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"75803d6a",
+		"1288cae6",
+		"7f538f65"
+	],
+	tasks: [{
+		uid: "256d5a0c",
+		type: "item",
+		items: [{
+			item: "bewitchment:dragons_blood_resin"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: 13.0d,
+	dependencies: [
+		"c54acfc8"
+	],
+	tasks: [{
+		uid: "ea3688f8",
+		type: "item",
+		items: [{
+			item: "extrautils2:playerchest"
+		}]
+	}]
+}

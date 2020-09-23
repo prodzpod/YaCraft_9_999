@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	dependencies: [
+		"6e4142b1"
+	],
+	tasks: [{
+		uid: "501bbe9d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:portableteleporter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

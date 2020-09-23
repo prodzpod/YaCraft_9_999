@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"756ce8a9"
+	],
+	tasks: [{
+		uid: "8ef55829",
+		type: "item",
+		items: [{
+			item: "draconicevolution:mob_soul"
+		}]
+	}]
+}

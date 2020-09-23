@@ -1,0 +1,29 @@
+{
+	x: 3.0d,
+	y: -6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"805e11ad"
+	],
+	tasks: [{
+		uid: "a562397e",
+		type: "item",
+		items: [{
+			item: "tcomplement:high_oven_io"
+		}]
+	},
+	{
+		uid: "06809501",
+		type: "item",
+		items: [{
+			item: "tcomplement:scorched_faucet"
+		}]
+	},
+	{
+		uid: "c1e03044",
+		type: "item",
+		items: [{
+			item: "tcomplement:high_oven_controller"
+		}]
+	}]
+}

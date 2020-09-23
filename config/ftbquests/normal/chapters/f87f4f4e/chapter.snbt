@@ -1,0 +1,23 @@
+{
+	title: "&9[7]&r: 서멀 익스펜션",
+	icon: {
+		id: "thermalexpansion:device",
+		tag: {
+			RSControl: 0b,
+			Facing: 3b,
+			Energy: 0,
+			SideCache: [B;
+				0b,
+				1b,
+				1b,
+				1b,
+				1b,
+				1b
+			]
+		},
+		Damage: 1s
+	},
+	always_invisible: false,
+	group: 819590780,
+	default_quest_shape: ""
+}

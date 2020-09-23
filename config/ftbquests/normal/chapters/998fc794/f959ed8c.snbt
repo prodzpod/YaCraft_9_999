@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9b8285bb"
+	],
+	tasks: [{
+		uid: "d702ae38",
+		type: "item",
+		items: [{
+			item: "bloodmagic:ritual_controller 1 1"
+		}]
+	}]
+}

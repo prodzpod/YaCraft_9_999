@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	dependencies: [
+		"a678cb8c"
+	],
+	tasks: [{
+		uid: "17ab30ab",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:poppet_flameprotection"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

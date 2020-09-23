@@ -1,0 +1,13 @@
+{
+	title: "&2JEI",
+	disable_toast: true,
+	x: -1.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "a0cc8071",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	}]
+}

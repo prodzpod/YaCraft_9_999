@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	dependencies: [
+		"1f42f7ef",
+		"cd952480"
+	],
+	tasks: [{
+		uid: "eeb8f8e3",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_furnace"
+		}]
+	}]
+}

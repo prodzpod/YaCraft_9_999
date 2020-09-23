@@ -1,0 +1,13 @@
+{
+	title: "&dCoral Reef",
+	disable_toast: true,
+	x: 2.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "d8d2bbea",
+		type: "item",
+		items: [{
+			item: "coralreef:coral 1 4"
+		}]
+	}]
+}

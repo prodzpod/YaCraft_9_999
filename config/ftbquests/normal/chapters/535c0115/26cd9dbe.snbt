@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"48d66358",
+		"a191784a"
+	],
+	tasks: [{
+		uid: "c408a492",
+		type: "item",
+		items: [{
+			item: "botanicadds:terra_catalyst"
+		}]
+	}]
+}

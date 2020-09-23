@@ -1,0 +1,26 @@
+{
+	title: "&aJEI&r를 배워보자 &6(번외편)",
+	x: 4.0d,
+	y: 0.5d,
+	text: [
+		"&7원재료 계산을 도와줄 계산기다.",
+		"",
+		"&7JEI에서 원하는 아이템을 좌클릭하고, \"조합\"하듯이 +를 누르면 계산기에 입력되는데, 이를 반복해서 원재료가 얼마나 드는지를 보여준다.",
+		"",
+		"&7왜 조합법을 직접 입력해야 하는지에 대해 의문감이 들겠지만, 후반 가면 이게 더 편하다."
+	],
+	dependencies: [
+		"f6d87fda"
+	],
+	tasks: [{
+		uid: "23bd00c5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "jecalculation:item_calculator"
+		}],
+		ignore_nbt: 1b
+	}]
+}

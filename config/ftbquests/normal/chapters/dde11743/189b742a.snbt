@@ -1,0 +1,17 @@
+{
+	x: 31.0d,
+	y: 7.5d,
+	shape: "gear",
+	dependencies: [
+		"d5213ec0",
+		"41d2b180"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "8e687fb3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:darmstadtium"
+		}]
+	}]
+}

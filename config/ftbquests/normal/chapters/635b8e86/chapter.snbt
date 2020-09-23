@@ -1,0 +1,7 @@
+{
+	title: "&c[1]&r: 부싯돌모드",
+	icon: "minecraft:flint",
+	always_invisible: false,
+	group: -1725867569,
+	default_quest_shape: ""
+}

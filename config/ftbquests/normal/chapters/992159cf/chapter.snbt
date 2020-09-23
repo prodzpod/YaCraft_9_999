@@ -1,0 +1,7 @@
+{
+	title: "&c[1]&7~&e[3]&r티어: 전(前)기계시대",
+	icon: "minecraft:cobblestone",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

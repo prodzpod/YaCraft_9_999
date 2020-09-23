@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	dependencies: [
+		"ed5f90a9"
+	],
+	tasks: [{
+		uid: "0bc88f62",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_battery_box"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"33f55e76"
+	],
+	tasks: [{
+		uid: "9445d1ef",
+		type: "item",
+		items: [{
+			item: "embers:archaic_circuit"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	dependencies: [
+		"7fc0a4f1"
+	],
+	tasks: [{
+		uid: "ae64273d",
+		type: "item",
+		items: [{
+			item: "tcomplement:materials 1 6"
+		}]
+	}]
+}

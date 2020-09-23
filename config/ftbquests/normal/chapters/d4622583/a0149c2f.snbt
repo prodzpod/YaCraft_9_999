@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: -3.0d,
+	dependencies: [
+		"60a6c3e5"
+	],
+	tasks: [{
+		uid: "81a7d96e",
+		type: "item",
+		items: [{
+			item: "extrautils2:soundmuffler"
+		}]
+	}]
+}

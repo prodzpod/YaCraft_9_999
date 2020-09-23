@@ -1,0 +1,13 @@
+{
+	x: -6.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "fcb571a6",
+		type: "item",
+		items: [{
+			item: "embers:golems_eye"
+		}],
+		consume_items: true
+	}]
+}

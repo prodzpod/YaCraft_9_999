@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	dependencies: [
+		"9b19a21d"
+	],
+	tasks: [{
+		uid: "f92f3731",
+		type: "item",
+		items: [{
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "paper"
+			}
+		}]
+	}]
+}

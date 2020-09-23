@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: -2.5d,
+	dependencies: [
+		"4ea09543"
+	],
+	tasks: [{
+		uid: "87b726df",
+		type: "item",
+		items: [{
+			item: "draconicevolution:creative_rf_source"
+		}]
+	}]
+}

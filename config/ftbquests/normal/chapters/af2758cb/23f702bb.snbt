@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: -1.5d,
+	dependencies: [
+		"906ae7ce"
+	],
+	tasks: [{
+		uid: "d0eabace",
+		type: "item",
+		items: [{
+			item: "algane:laser_workbench 1 1"
+		}]
+	}]
+}

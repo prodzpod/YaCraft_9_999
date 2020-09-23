@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 11.25d,
+	shape: "rsquare",
+	dependencies: [
+		"9157eee7"
+	],
+	tasks: [{
+		uid: "163843c5",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:melter_idle"
+		}]
+	}]
+}

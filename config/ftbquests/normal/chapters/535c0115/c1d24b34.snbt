@@ -1,0 +1,19 @@
+{
+	x: 7.5d,
+	y: -1.5d,
+	dependencies: [
+		"bc4c6998"
+	],
+	tasks: [{
+		uid: "49e75e60",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:terrasteelhammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

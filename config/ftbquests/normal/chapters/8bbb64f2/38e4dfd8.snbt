@@ -1,0 +1,14 @@
+{
+	x: 7.5d,
+	y: 2.5d,
+	dependencies: [
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "62f5cea0",
+		type: "item",
+		items: [{
+			item: "mysticalagradditions:nether_star_essence"
+		}]
+	}]
+}

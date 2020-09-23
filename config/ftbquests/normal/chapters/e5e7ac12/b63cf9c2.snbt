@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"d0630740"
+	],
+	tasks: [{
+		uid: "0e6cd79f",
+		type: "item",
+		items: [{
+			item: "agricraft:seed_analyzer"
+		}]
+	}]
+}

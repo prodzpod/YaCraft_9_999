@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 24.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "e20ffaca",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:manasteel_essence"
+		}]
+	}]
+}

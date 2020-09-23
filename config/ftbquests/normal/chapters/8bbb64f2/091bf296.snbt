@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "8b44e5f5",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:stone_essence"
+		}]
+	}]
+}

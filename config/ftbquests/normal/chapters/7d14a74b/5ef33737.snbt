@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"d9caa48d"
+	],
+	tasks: [{
+		uid: "c884f496",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "astralsorcery.liquidstarlight",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

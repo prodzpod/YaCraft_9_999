@@ -1,0 +1,14 @@
+{
+	x: 14.5d,
+	y: 10.0d,
+	dependencies: [
+		"11a2913d"
+	],
+	tasks: [{
+		uid: "91fa56ad",
+		type: "item",
+		items: [{
+			item: "botania_tweaks:compressed_tiny_potato_5"
+		}]
+	}]
+}

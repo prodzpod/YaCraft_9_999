@@ -1,0 +1,16 @@
+{
+	x: -4.5d,
+	y: -5.0d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"29b27fe5"
+	],
+	tasks: [{
+		uid: "b7e689fe",
+		type: "item",
+		items: [{
+			item: "contenttweaker:red_dust"
+		}]
+	}]
+}

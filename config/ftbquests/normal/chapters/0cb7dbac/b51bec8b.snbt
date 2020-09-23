@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -4.5d,
+	dependencies: [
+		"e67e256a"
+	],
+	tasks: [{
+		uid: "ae671d0f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "actuallyadditions:potion_ring_advanced_bauble",
+			Damage: 8s
+		}],
+		ignore_nbt: 1b
+	}]
+}

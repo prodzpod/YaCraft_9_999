@@ -1,0 +1,29 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"4a8e1515"
+	],
+	tasks: [{
+		uid: "c908bab6",
+		type: "item",
+		items: [{
+			item: "embers:stamper"
+		}]
+	},
+	{
+		uid: "81415840",
+		type: "item",
+		items: [{
+			item: "embers:block_furnace"
+		}]
+	},
+	{
+		uid: "4014eb4d",
+		type: "item",
+		items: [{
+			item: "embers:stamper_base"
+		}]
+	}]
+}

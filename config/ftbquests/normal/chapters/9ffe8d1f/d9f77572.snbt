@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	dependencies: [
+		"19677372"
+	],
+	tasks: [{
+		uid: "65880685",
+		type: "item",
+		items: [{
+			item: "bewitchment:flower_siphoning_allium"
+		}]
+	}]
+}

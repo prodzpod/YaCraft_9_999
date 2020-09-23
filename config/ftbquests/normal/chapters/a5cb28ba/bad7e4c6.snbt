@@ -1,0 +1,21 @@
+{
+	x: -7.5d,
+	y: 7.5d,
+	dependencies: [
+		"b7e8a746"
+	],
+	tasks: [{
+		uid: "8951b953",
+		type: "item",
+		items: [{
+			item: "embers:combustor"
+		}]
+	},
+	{
+		uid: "61400bfc",
+		type: "item",
+		items: [{
+			item: "embers:catalyzer"
+		}]
+	}]
+}

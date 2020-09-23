@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 33.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "72d27688",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:sky_stone_essence"
+		}]
+	}]
+}

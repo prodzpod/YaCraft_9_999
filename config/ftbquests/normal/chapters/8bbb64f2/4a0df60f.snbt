@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: -0.5d,
+	dependencies: [
+		"1cd04834",
+		"1cb6c624"
+	],
+	tasks: [{
+		uid: "0bdc07a6",
+		type: "item",
+		items: [{
+			item: "mysticaladaptations:insanium_furnace"
+		}]
+	}]
+}

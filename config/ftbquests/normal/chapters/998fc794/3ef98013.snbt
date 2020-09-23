@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9b8285bb",
+		"a5f7d979"
+	],
+	tasks: [{
+		uid: "c9101c0d",
+		type: "item",
+		items: [{
+			item: "bloodmagic:blood_rune"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	dependencies: [
+		"9e73e583"
+	],
+	tasks: [{
+		uid: "a289169a",
+		type: "advancement",
+		advancement: "immersiveengineering:main/multiblock_dieselgenerator",
+		criterion: ""
+	}]
+}

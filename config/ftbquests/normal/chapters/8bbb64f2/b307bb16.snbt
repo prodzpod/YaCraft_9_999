@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 10.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "2e58362c",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:rabbit_essence"
+		}]
+	}]
+}

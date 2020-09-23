@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b9127ddd"
+	],
+	tasks: [{
+		uid: "9e37a11a",
+		type: "item",
+		items: [{
+			item: "thaumicrestoration:block_infuser"
+		}]
+	}]
+}

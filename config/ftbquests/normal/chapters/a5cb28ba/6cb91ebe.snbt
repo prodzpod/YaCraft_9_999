@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 3.0d,
+	dependencies: [
+		"bb290414"
+	],
+	tasks: [{
+		uid: "95094279",
+		type: "item",
+		items: [{
+			item: "embers:beam_splitter"
+		}]
+	}]
+}

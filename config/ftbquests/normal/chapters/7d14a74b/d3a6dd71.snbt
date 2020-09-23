@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"ff680cf3"
+	],
+	tasks: [{
+		uid: "d3a85c19",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmachine 1 1"
+		}]
+	}]
+}

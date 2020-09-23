@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: 5.5d,
+	shape: "gear",
+	dependencies: [
+		"45f2d8bc"
+	],
+	tasks: [{
+		uid: "fb5b6ad8",
+		type: "item",
+		items: [{
+			item: "extrautils2:decorativesolid 1 8"
+		}]
+	}]
+}

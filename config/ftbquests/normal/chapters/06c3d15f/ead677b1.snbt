@@ -1,0 +1,13 @@
+{
+	title: "&cBlockcraftery",
+	disable_toast: true,
+	x: 2.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "8b14b808",
+		type: "item",
+		items: [{
+			item: "blockcraftery:editable_block"
+		}]
+	}]
+}

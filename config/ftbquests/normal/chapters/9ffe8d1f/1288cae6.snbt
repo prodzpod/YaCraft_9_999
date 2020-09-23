@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "26db41a7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:athame"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

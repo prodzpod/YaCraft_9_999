@@ -1,0 +1,19 @@
+{
+	x: 10.5d,
+	y: -6.0d,
+	dependencies: [
+		"2f32dd2b"
+	],
+	tasks: [{
+		uid: "755a1b98",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodarsenal:sigil_sentience"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

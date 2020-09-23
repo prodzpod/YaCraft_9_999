@@ -1,0 +1,20 @@
+{
+	x: 10.5d,
+	y: 9.5d,
+	shape: "rsquare",
+	dependencies: [
+		"0c7a800b"
+	],
+	tasks: [{
+		uid: "9dca4e8d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:ritual_reader"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

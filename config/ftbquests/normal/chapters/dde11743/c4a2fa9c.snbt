@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 15.0d,
+	shape: "rsquare",
+	dependencies: [
+		"d86be182"
+	],
+	tasks: [{
+		uid: "48ca2c82",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fusion_core"
+		}]
+	}]
+}

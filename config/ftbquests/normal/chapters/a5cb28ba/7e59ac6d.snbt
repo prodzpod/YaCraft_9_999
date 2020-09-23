@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: 12.0d,
+	shape: "rsquare",
+	dependencies: [
+		"fb8a0766"
+	],
+	tasks: [{
+		uid: "eaffbeea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "embers:alchemic_waste"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

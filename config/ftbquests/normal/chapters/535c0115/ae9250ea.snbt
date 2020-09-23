@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"403a7c81"
+	],
+	tasks: [{
+		uid: "c381354c",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}]
+	}]
+}

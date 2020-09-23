@@ -1,0 +1,13 @@
+{
+	title: "&5Macaw's Windows",
+	disable_toast: true,
+	x: 4.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "bca957ff",
+		type: "item",
+		items: [{
+			item: "mcwwindows:window_base"
+		}]
+	}]
+}

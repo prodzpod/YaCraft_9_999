@@ -1,0 +1,16 @@
+{
+	x: -4.5d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"6397b14b",
+		"b7e8a746"
+	],
+	tasks: [{
+		uid: "180a1b1a",
+		type: "item",
+		items: [{
+			item: "embers:auto_hammer"
+		}]
+	}]
+}

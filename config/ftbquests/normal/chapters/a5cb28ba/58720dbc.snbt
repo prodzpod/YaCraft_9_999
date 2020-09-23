@@ -1,0 +1,15 @@
+{
+	x: -10.0d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"33f55e76"
+	],
+	tasks: [{
+		uid: "82a25e5c",
+		type: "item",
+		items: [{
+			item: "embers:resonating_bell"
+		}]
+	}]
+}

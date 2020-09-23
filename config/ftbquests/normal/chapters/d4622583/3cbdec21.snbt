@@ -1,0 +1,16 @@
+{
+	x: -10.5d,
+	y: -3.0d,
+	shape: "gear",
+	dependencies: [
+		"10691aa0",
+		"dce296f4"
+	],
+	tasks: [{
+		uid: "ef63e77b",
+		type: "item",
+		items: [{
+			item: "extrautils2:rainbowgenerator"
+		}]
+	}]
+}

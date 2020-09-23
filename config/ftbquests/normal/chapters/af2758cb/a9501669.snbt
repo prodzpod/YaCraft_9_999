@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	dependencies: [
+		"4bf03822"
+	],
+	tasks: [{
+		uid: "d947ef9c",
+		type: "item",
+		items: [{
+			item: "mekanism:gasupgrade"
+		}]
+	}]
+}

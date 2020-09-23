@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	shape: "gear",
+	dependencies: [
+		"46060c07",
+		"b63cf9c2"
+	],
+	tasks: [{
+		uid: "5e885fc0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "agricraft:magnifying_glass"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

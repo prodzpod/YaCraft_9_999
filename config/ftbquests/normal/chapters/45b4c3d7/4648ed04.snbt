@@ -1,0 +1,12 @@
+{
+	title: "&6Random Portals",
+	x: -1.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "dc7b8359",
+		type: "item",
+		items: [{
+			item: "minecraft:end_portal_frame"
+		}]
+	}]
+}

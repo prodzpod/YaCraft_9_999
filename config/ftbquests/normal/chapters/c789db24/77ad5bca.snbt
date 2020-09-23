@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	tasks: [{
+		uid: "a70eb34e",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "3b10892e",
+		type: "item",
+		item: "tconstruct:soil",
+		count: 192
+	}]
+}

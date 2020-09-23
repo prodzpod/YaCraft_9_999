@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 29.5d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "41a1995f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:fluix_essence"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 1.5d,
+	y: 9.0d,
+	dependencies: [
+		"39009dd7"
+	],
+	tasks: [{
+		uid: "b3622275",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "planarartifice:alkimium_goggles"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

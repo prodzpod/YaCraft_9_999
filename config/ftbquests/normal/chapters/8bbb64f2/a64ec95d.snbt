@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: -7.0d,
+	dependencies: [
+		"4ffdc1bf"
+	],
+	tasks: [{
+		uid: "8a59f16b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticalagriculture:inferium_sickle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

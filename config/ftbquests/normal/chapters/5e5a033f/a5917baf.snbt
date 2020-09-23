@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: 5.5d,
+	shape: "rsquare",
+	dependencies: [
+		"b205c592"
+	],
+	tasks: [{
+		uid: "3f22c565",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	}]
+}

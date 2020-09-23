@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 2.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "531070cd",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:nether_quartz_essence"
+		}]
+	}]
+}

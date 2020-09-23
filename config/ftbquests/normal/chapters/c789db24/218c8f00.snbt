@@ -1,0 +1,68 @@
+{
+	x: 11.0d,
+	y: 4.5d,
+	dependencies: [
+		"d98975de"
+	],
+	tasks: [{
+		uid: "7b2c9798",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:bolt",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 266,
+					HarvestLevel: 4,
+					Attack: 9.75f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					Accuracy: 1.0f,
+					MiningSpeed: 13.0f,
+					FreeModifiers: 3,
+					Durability: 266,
+					HarvestLevel: 4,
+					Attack: 9.75f
+				},
+				Special: {
+					Categories: [
+						"no_melee",
+						"tool",
+						"projectile"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"wood",
+						"xu_evil_metal",
+						"feather"
+					],
+					Modifiers: []
+				},
+				Modifiers: [{
+					identifier: "ecological",
+					color: -7444965,
+					level: 1
+				},
+				{
+					identifier: "xu_withering",
+					color: -131160,
+					level: 1
+				}],
+				Traits: [
+					"ecological",
+					"xu_withering"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

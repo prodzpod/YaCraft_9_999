@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 10.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9157eee7"
+	],
+	tasks: [{
+		uid: "fb1e29e2",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fission_controller_new_fixed"
+		}]
+	}]
+}

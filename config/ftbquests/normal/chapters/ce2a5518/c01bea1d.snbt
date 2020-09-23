@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 15.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c31338db",
+		"a733c40d"
+	],
+	tasks: [{
+		uid: "99915ed8",
+		type: "item",
+		items: [{
+			item: "thaumicwonders:coalescence_matrix_precursor"
+		}]
+	}]
+}

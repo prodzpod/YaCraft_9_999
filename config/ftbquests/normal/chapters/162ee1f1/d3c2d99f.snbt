@@ -1,0 +1,19 @@
+{
+	title: "&a건강한 식단&r에 대해 알아보자",
+	icon: "minecraft:carrot",
+	x: 2.30969883127d,
+	y: 1.04329141908d,
+	text: [
+		"&eSpice of Life&7 모드의 영향으로 &a골고루 밥을 먹어야 한다.",
+		"",
+		"&7최근 5번에 먹은 음식을 먹으면 &6포만감&7이 줄고 &a섭취속도&7가 느려진다."
+	],
+	dependencies: [
+		"a6862fcc"
+	],
+	tasks: [{
+		uid: "e4360b91",
+		type: "checkmark",
+		title: "눌러서 진행"
+	}]
+}

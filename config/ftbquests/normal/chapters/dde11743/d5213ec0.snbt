@@ -1,0 +1,16 @@
+{
+	x: 31.0d,
+	y: 13.5d,
+	shape: "rsquare",
+	dependencies: [
+		"a76b5772",
+		"195c6037"
+	],
+	tasks: [{
+		uid: "91368ba7",
+		type: "item",
+		items: [{
+			item: "minecraft:glass_pane"
+		}]
+	}]
+}

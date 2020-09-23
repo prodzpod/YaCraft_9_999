@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: 1.5d,
+	shape: "gear",
+	dependencies: [
+		"8cdfa157"
+	],
+	tasks: [{
+		uid: "8a9e8c93",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_dust"
+		}]
+	}]
+}

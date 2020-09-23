@@ -1,0 +1,20 @@
+{
+	x: -3.0d,
+	y: -1.5d,
+	dependencies: [
+		"03790701"
+	],
+	tasks: [{
+		uid: "e080f463",
+		type: "item",
+		items: [{
+			id: "agricraft:water_tank",
+			tag: {
+				agri_material_meta: 9,
+				agri_material: "chisel:planks-oak"
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

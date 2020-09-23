@@ -1,0 +1,13 @@
+{
+	title: "&eUseful Interior",
+	disable_toast: true,
+	x: 1.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "81cd86af",
+		type: "item",
+		items: [{
+			item: "of:shelf_oak"
+		}]
+	}]
+}

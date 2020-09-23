@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: -6.5d,
+	dependencies: [
+		"5fbf3c86",
+		"99cc5ad6",
+		"2701b42e",
+		"731824b7"
+	],
+	tasks: [{
+		uid: "907f3fea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:enchanted_placeholder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

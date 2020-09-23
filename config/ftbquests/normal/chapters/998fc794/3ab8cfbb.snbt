@@ -1,0 +1,25 @@
+{
+	x: 10.5d,
+	y: 4.5d,
+	shape: "rsquare",
+	dependencies: [
+		"658ac6df",
+		"f66f867c"
+	],
+	tasks: [{
+		uid: "d3701741",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {
+				souls: 4096.0d,
+				demonWillType: "vengeful"
+			},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

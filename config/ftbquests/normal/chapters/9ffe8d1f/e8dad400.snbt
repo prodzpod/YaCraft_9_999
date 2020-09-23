@@ -1,0 +1,14 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"d3be85b6"
+	],
+	tasks: [{
+		uid: "20c0f21e",
+		type: "item",
+		items: [{
+			item: "bewitchment:sanguine_cloth"
+		}]
+	}]
+}

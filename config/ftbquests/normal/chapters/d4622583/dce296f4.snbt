@@ -1,0 +1,22 @@
+{
+	x: -10.0d,
+	y: -2.0d,
+	shape: "rsquare",
+	dependencies: [
+		"2c8dd2dd",
+		"608b969b",
+		"35d3cb81",
+		"13fc7ce9",
+		"01e230b5",
+		"b83a7832",
+		"61e8bc33",
+		"20e65929"
+	],
+	tasks: [{
+		uid: "7a42ac3d",
+		type: "item",
+		items: [{
+			item: "extrautils2:rainbowgenerator 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	dependencies: [
+		"883350c8",
+		"8e6a6a65"
+	],
+	tasks: [{
+		uid: "010c658a",
+		type: "item",
+		items: [{
+			item: "draconicevolution:magnet 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"a3901410",
+		"dede1bc5"
+	],
+	tasks: [{
+		uid: "84742e86",
+		type: "item",
+		items: [{
+			item: "rustic:dust_tiny_iron"
+		}]
+	}]
+}

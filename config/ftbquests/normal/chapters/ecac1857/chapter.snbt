@@ -1,0 +1,7 @@
+{
+	title: "&a[4&f+&a]&r: 러스틱",
+	icon: "rustic:brewing_barrel",
+	always_invisible: false,
+	group: 1714937303,
+	default_quest_shape: ""
+}

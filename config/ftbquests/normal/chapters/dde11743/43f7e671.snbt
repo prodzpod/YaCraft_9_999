@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"f9a0d980",
+		"d4b5016b"
+	],
+	tasks: [{
+		uid: "ec23ac70",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_reprocessor_idle"
+		}]
+	}]
+}

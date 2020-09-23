@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"48815f9e"
+	],
+	tasks: [{
+		uid: "1a31e3c3",
+		type: "item",
+		title: "Any stoneMarble",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "stoneMarble",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

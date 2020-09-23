@@ -1,0 +1,17 @@
+{
+	title: "&4Nether Backport",
+	x: 0.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "c530eb3c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "netherbackport:soulsoilandscrap"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

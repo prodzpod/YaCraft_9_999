@@ -1,0 +1,13 @@
+{
+	title: "&cMulti Hotbar",
+	disable_toast: true,
+	x: -3.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "41568a5f",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}]
+}

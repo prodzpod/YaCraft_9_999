@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 33.0d,
+	dependencies: [
+		"b593c4cb"
+	],
+	tasks: [{
+		uid: "f684ea34",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:thorium_essence"
+		}]
+	}]
+}

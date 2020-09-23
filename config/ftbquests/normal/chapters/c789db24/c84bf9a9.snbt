@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: -1.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"914e727e",
+		"b57baf56"
+	],
+	tasks: [{
+		uid: "8755c957",
+		type: "item",
+		items: [{
+			item: "tconstruct:spaghetti 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 6.0d,
+	y: -7.5d,
+	dependencies: [
+		"bcd85423"
+	],
+	tasks: [{
+		uid: "3dd259fe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tconstruct:slimesling"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

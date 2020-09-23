@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: -0.5d,
+	shape: "gear",
+	dependencies: [
+		"afea515d"
+	],
+	tasks: [{
+		uid: "f397f552",
+		type: "item",
+		items: [{
+			item: "thaumcraft:salis_mundus"
+		}]
+	}]
+}

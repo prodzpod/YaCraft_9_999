@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"19677372"
+	],
+	tasks: [{
+		uid: "69a14ecf",
+		type: "item",
+		items: [{
+			item: "bewitchment:sigil_table"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 15.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "bcaca37e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:brass_essence"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	dependencies: [
+		"0752ffc8"
+	],
+	tasks: [{
+		uid: "5cb66cd6",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:wood_essence"
+		}]
+	}]
+}

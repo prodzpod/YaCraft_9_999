@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	dependencies: [
+		"c60285c3"
+	],
+	tasks: [{
+		uid: "b80bf09c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bewitchment:waystone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

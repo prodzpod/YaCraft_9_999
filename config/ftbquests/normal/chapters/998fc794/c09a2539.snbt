@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 7.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9c9c9514",
+		"658ac6df"
+	],
+	tasks: [{
+		uid: "6d058a55",
+		type: "item",
+		items: [{
+			item: "bloodmagic:demon_crystal"
+		}]
+	}]
+}

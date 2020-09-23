@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: -3.5d,
+	shape: "gear",
+	dependencies: [
+		"e3752f8e"
+	],
+	tasks: [{
+		uid: "a518cdb7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ancient_construct"
+		}]
+	}]
+}

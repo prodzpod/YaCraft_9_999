@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 3.5d,
+	dependencies: [
+		"1f42f7ef"
+	],
+	tasks: [{
+		uid: "944b3626",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:nether_essence"
+		}]
+	}]
+}

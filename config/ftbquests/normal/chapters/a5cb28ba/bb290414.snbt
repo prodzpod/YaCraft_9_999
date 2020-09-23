@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 4.5d,
+	dependencies: [
+		"f1089c68"
+	],
+	tasks: [{
+		uid: "44dd9cff",
+		type: "item",
+		items: [{
+			item: "embers:ember_pulser"
+		}]
+	}]
+}

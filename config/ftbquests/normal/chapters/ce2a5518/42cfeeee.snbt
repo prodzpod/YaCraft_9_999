@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 16.5d,
+	shape: "rsquare",
+	dependencies: [
+		"c01bea1d"
+	],
+	tasks: [{
+		uid: "2b2287aa",
+		type: "kill",
+		entity: "thaumicwonders:corruption_avatar",
+		value: 1L
+	}]
+}

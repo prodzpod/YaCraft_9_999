@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	shape: "rsquare",
+	dependencies: [
+		"537c6c55"
+	],
+	tasks: [{
+		uid: "177b3559",
+		type: "item",
+		items: [{
+			item: "rustic:brewing_barrel"
+		}]
+	}]
+}

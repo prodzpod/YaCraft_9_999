@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 16.5d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "9553840f",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:silver_essence"
+		}]
+	}]
+}

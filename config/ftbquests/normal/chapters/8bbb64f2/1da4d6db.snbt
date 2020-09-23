@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 38.0d,
+	dependencies: [
+		"cecf143b"
+	],
+	tasks: [{
+		uid: "f8e24ec6",
+		type: "item",
+		items: [{
+			item: "jaopca:item_essencesalt"
+		}]
+	}]
+}

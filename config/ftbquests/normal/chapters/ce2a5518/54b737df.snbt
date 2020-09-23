@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: 21.0d,
+	shape: "rsquare",
+	dependencies: [
+		"145fa057",
+		"8eab5a36",
+		"81280501"
+	],
+	tasks: [{
+		uid: "dcd80ae4",
+		type: "item",
+		items: [{
+			item: "thaumadditions:mithminite_fabric"
+		}]
+	}]
+}

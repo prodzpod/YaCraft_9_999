@@ -1,0 +1,18 @@
+{
+	title: "&aCosmetic Armor",
+	disable_toast: true,
+	x: -3.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "e4c90a1d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:iron_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

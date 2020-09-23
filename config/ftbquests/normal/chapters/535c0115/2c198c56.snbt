@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 10.0d,
+	dependencies: [
+		"143e2bcc"
+	],
+	tasks: [{
+		uid: "ac14fe54",
+		type: "item",
+		items: [{
+			id: "soot:mug",
+			tag: {
+				Fluid: {
+					FluidName: "vodka",
+					Amount: 250
+				}
+			}
+		}]
+	}]
+}

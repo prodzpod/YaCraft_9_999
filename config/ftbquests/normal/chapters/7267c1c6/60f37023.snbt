@@ -1,0 +1,23 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	dependencies: [
+		"53bf0341"
+	],
+	tasks: [{
+		uid: "8c26badb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 4,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "immersivepetroleum:speedboat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

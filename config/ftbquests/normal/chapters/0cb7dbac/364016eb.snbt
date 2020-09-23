@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"5aded4b5"
+	],
+	tasks: [{
+		uid: "351a42e8",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_item_viewer"
+		}]
+	}]
+}

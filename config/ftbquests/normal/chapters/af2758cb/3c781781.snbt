@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 4.5d,
+	dependencies: [
+		"093169c6"
+	],
+	tasks: [{
+		uid: "019e154e",
+		type: "item",
+		items: [{
+			item: "mekanism:plasticblock 1 15"
+		}]
+	}]
+}

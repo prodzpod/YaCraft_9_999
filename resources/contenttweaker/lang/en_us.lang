@@ -1,0 +1,62 @@
+item.contenttweaker.aethoria.name=Aethoria Ingot
+item.contenttweaker.aethoria_plate.name=Aethoria Plate
+item.contenttweaker.aethoria_gear.name=Aethoria Gear
+item.contenttweaker.aethoria_dust.name=Pulverized Aethoria
+tile.contenttweaker.block_of_aethoria.name=Block of Aethoria
+item.contenttweaker.aethoria_rod.name=Aethoria Rod
+item.contenttweaker.aethoria_nugget.name=Aethoria Nugget
+
+item.contenttweaker.inert_aethoria.name=Inert Aethoria Ingot
+item.contenttweaker.inert_aethoria_plate.name=Inert Aethoria Plate
+item.contenttweaker.inert_aethoria_gear.name=Inert Aethoria Gear
+item.contenttweaker.inert_aethoria_dust.name=Pulverized Inert Aethoria
+tile.contenttweaker.block_of_inert_aethoria.name=Block of Inert Aethoria
+item.contenttweaker.inert_aethoria_rod.name=Inert Aethoria Rod
+item.contenttweaker.inert_aethoria_nugget.name=Inert Aethoria Nugget
+
+item.contenttweaker.charged_aethoria.name=Charged Aethoria Ingot
+item.contenttweaker.charged_aethoria_plate.name=Charged Aethoria Plate
+item.contenttweaker.charged_aethoria_gear.name=Charged Aethoria Gear
+item.contenttweaker.charged_aethoria_dust.name=Pulverized Charged Aethoria
+tile.contenttweaker.block_of_charged_aethoria.name=Block of Charged Aethoria
+item.contenttweaker.charged_aethoria_rod.name=Charged Aethoria Rod
+item.contenttweaker.charged_aethoria_nugget.name=Charged Aethoria Nugget
+
+item.contenttweaker.astralite.name=Astralite Ingot
+item.contenttweaker.astralite_plate.name=Astralite Plate
+item.contenttweaker.astralite_gear.name=Astralite Gear
+item.contenttweaker.astralite_dust.name=Pulverized Astralite
+tile.contenttweaker.block_of_astralite.name=Block of Astralite
+item.contenttweaker.astralite_rod.name=Astralite Rod
+item.contenttweaker.astralite_nugget.name=Astralite Nugget
+
+item.contenttweaker.clay_cast.name=Blank Clay Cast
+item.contenttweaker.clay_cast_ingot.name=Ingot Clay Cast
+item.contenttweaker.clay_cast_gem.name=Gem Clay Cast
+item.contenttweaker.clay_cast_nugget.name=Nugget Clay Cast
+item.contenttweaker.clay_cast_plate.name=Plate Clay Cast
+item.contenttweaker.clay_cast_gear.name=Gear Clay Cast
+
+item.contenttweaker.netherite_nugget.name=Netherite Nugget
+item.contenttweaker.netherite_dust.name=Netherite Dust
+item.contenttweaker.netherite_plate.name=Netherite Plate
+item.contenttweaker.netherite_gear.name=Netherite Gear
+item.contenttweaker.netherite_rod.name=Netherite Rod
+
+item.contenttweaker.photonium_nugget.name=Photonium Nugget
+item.contenttweaker.shadowium_nugget.name=Shadowium Nugget
+item.contenttweaker.orichalcos_nugget.name=Orichalcos Nugget
+
+fluid.red_essence=Red Essence
+fluid.redder_essence=Redder Essence
+fluid.even_redder_essence=Even Redder Essence
+fluid.reddest_essence=Reddest Essence
+item.contenttweaker.red_dust.name=Red Dust
+item.contenttweaker.redder_dust.name=Redder Dust
+item.contenttweaker.even_redder_dust.name=Even Redder Dust
+item.contenttweaker.reddest_dust.name=Reddest Dust
+tile.contenttweaker.reddest_stone.name=Reddest Stone
+tile.contenttweaker.compressed_bone_block.name=Compressed Bone Block
+tile.contenttweaker.compressed_amber1.name=Compressed Amber
+tile.contenttweaker.compressed_amber2.name=2x Compressed Amber
+tile.contenttweaker.compressed_amber3.name=3x Compressed Amber

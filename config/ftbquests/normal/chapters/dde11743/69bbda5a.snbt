@@ -1,0 +1,15 @@
+{
+	x: 24.0d,
+	y: 8.5d,
+	dependencies: [
+		"abf261e4",
+		"4a475db0"
+	],
+	tasks: [{
+		uid: "660e2554",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:fuel_californium 1 7"
+		}]
+	}]
+}
