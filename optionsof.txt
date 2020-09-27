@@ -30,7 +30,7 @@ ofRainSplash:true
 ofLagometer:true
 ofShowFps:true
 ofAutoSaveTicks:7200
-ofBetterGrass:2
+ofBetterGrass:1
 ofConnectedTextures:2
 ofWeather:true
 ofSky:true
