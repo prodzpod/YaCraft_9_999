@@ -96,7 +96,7 @@ mods.botania.Lexicon.addConjurationPage("prod.page.manaConjurationCustom", "bota
 //////////////////////////////////////////////////////
 /////////////////// RUNECRAFTING /////////////////////
 //////////////////////////////////////////////////////
-function addRune(tier as int, page as int, outputs as IItemStack[], inputs as IIngredient[][], mana as int[]) {
+function addRune(tier as string, page as int, outputs as IItemStack[], inputs as IIngredient[][], mana as int[]) {
     for j in 0 .. outputs.length {
         val i = outputs.length - j - 1;
         mods.botania.RuneAltar.removeRecipe(outputs[i]);
@@ -171,7 +171,7 @@ addText('0', 0, 2);
  */
 /******************  Tier 1 ********************/
 addEntry('1', <botania:rune>, "minecraft"); // manasteel
-addRune('1', 3, [<botania:rune:8> * 2], 
+addRune('1', 3, [<botania:rune:8>], 
 [[<botania:manaresource:1>, <botania:manaresource>, <thaumcraft:fabric>, <contenttweaker:blank_rune>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <contenttweaker:inert_aethoria_dust>]], [5200]);
 addText('1', 2, 1); // explaining lore
 addRune('1', 1, [<botania:rune> * 2, <botania:rune:1> * 2, <botania:rune:2> * 2, <botania:rune:3> * 2], [
@@ -190,13 +190,13 @@ addRune('2', 3, [<botania:rune:4>, <botania:rune:5>, <botania:rune:6>, <botania:
     [<botania:rune:3>, <contenttweaker:attuned_rune_1>, <botania:manaresource:2>, <harvestcraft:redvelvetcakeitem>, <bewitchment:perpetual_ice>, <bewitchment:frostflower>, <futuremc:blue_ice>]  // winter
 ], [8000, 8000, 8000, 8000]);
 addText('2', 2, 1);
-var inputsAttuned = [] as IIngredient[];
 var outputsAttuned = [] as IItemStack[];
+var inputsAttuned = [] as IIngredient[];
 var manaAttuned = [] as int[];
-for item in 0 .. 16 {
-    mods.botania.ManaInfusion.addInfusion(itemUtils.getItem("conenttweaker:attuned_rune_" ~ item), itemUtils.getItem("botania:rune", item), 1000);
-    inputsAttuned += itemUtils.getItem("botania:rune", item);
-    outputsAttuned += itemUtils.getItem("conenttweaker:attuned_rune_" ~ item);
+for i in 0 .. 16 {
+    mods.botania.ManaInfusion.addInfusion(itemUtils.getItem("contenttweaker:attuned_rune_" ~ i), itemUtils.getItem("botania:rune", i), 1000);
+    outputsAttuned += itemUtils.getItem("contenttweaker:attuned_rune_" ~ i);
+    inputsAttuned += itemUtils.getItem("botania:rune", i);
     manaAttuned += 1000;
 }
 mods.botania.Lexicon.addInfusionPage("prod.page.rune2Tier1", "prod.entry.rune2Tier", 0, outputsAttuned, inputsAttuned, manaAttuned);
@@ -255,7 +255,10 @@ addText('7', 0, 4);
 /************  Extras (quark runes) ************/
 addEntry('E', <quark:rune:16>, "alfheim"); // elementium
 addRune('E', 2, [<quark:rune:16>], [
-    []
+    [<quark:rune:0>, <quark:rune:1>, <quark:rune:2>, <quark:rune:3>,
+    <quark:rune:4>, <quark:rune:5>, <quark:rune:6>, <quark:rune:7>,
+    <quark:rune:8>, <quark:rune:9>, <quark:rune:10>, <quark:rune:11>,
+    <quark:rune:12>, <quark:rune:13>, <quark:rune:14>, <quark:rune:15>]
 ], [100000]);
 val colors = ["White", "Orange", "Magenta", "LightBlue", "Yellow", "Lime", "Pink", "Gray", "LightGray", "Cyan", "Purple", "Blue", "Brown", "Green", "Red", "Black"] as string[];
 var outputsColors = [] as IItemStack[];
@@ -266,7 +269,9 @@ for i in 0 .. 16 {
     inputsColors += [oreDict["dye" ~ colors[i]], <contenttweaker:blank_rune_bifrost>, <tconstruct:pattern>, <flintmod:tool_part_flint>] as IIngredient[];
     manaColors += 1000;
 }
-mods.botania.RuneAltar.addRecipe(outputsColors, inputsColors, manaColors);
+for k in 0 .. outputsColors.length {
+    mods.botania.RuneAltar.addRecipe(outputsColors[k], inputsColors[k], manaColors[k]);
+}
 mods.botania.Lexicon.addRunePage("prod.page.runeETier1", "prod.entry.runeETier", 0, outputsColors, inputsColors, manaColors);
 addText('E', 0, 1);
 /******************  Tier 8 ********************/
