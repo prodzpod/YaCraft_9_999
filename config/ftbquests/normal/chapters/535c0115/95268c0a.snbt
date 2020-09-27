@@ -3,6 +3,7 @@
 	y: 11.5d,
 	shape: "rsquare",
 	dependencies: [
+		"693bdc12",
 		"e615cd1a"
 	],
 	tasks: [{

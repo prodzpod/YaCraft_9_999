@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: 21.0d,
+	shape: "rsquare",
+	dependencies: [
+		"403bf3d5",
+		"1ff8d12f"
+	],
+	tasks: [{
+		uid: "ea8a82df",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_sacrifice",
+			tag: {
+				"Quark:RuneColor": 10,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

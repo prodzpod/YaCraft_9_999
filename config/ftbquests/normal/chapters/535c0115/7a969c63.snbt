@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 18.5d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"7f3a1e32",
+		"fcea9a03",
+		"99e01f43",
+		"07faf669"
+	],
+	tasks: [{
+		uid: "6f2ba347",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_seasons"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 1.25d,
+	y: 14.75d,
+	shape: "rsquare",
+	dependencies: [
+		"95268c0a",
+		"fcea9a03"
+	],
+	tasks: [{
+		uid: "a77b64a4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_guilt"
+		}]
+	}]
+}

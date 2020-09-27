@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 16.5d,
+	shape: "rsquare",
+	dependencies: [
+		"2859648d",
+		"1c29c03c",
+		"bd665bc0",
+		"caa4e33a"
+	],
+	tasks: [{
+		uid: "d6574eba",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_famine"
+		}]
+	}]
+}

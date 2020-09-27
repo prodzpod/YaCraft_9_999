@@ -41,9 +41,13 @@ scripts.Base.setHarvest(<thaumicaugmentation:capstone:2>, "pickaxe", 4);
 scripts.Base.setHarvest(<thaumicaugmentation:capstone:3>, "pickaxe", 4);
 
 scripts.Base.registerPlate(<contenttweaker:aura_infused_thaumium_plate>, <contenttweaker:aura_infused_thaumium>);
+scripts.Base.registerPlate(<contenttweaker:hue_infused_thaumium_plate>, <contenttweaker:hue_infused_thaumium>);
 recipes.removeByRegex("immersiveengineering:material/plate_.*");
 scripts.Base.registerMelting(<liquid:water> * 1000, <minecraft:ice>);
 scripts.Base.registerMelting(<liquid:water> * 9000, <minecraft:packed_ice>);
 scripts.Base.registerMelting(<liquid:water> * 81000, <futuremc:blue_ice>);
+
+scripts.Base.registerDust(<appliedenergistics2:material:45>, <appliedenergistics2:sky_stone_block>);
+scripts.Base.registerDust(<soot:sulfur_clump>, <thermalfoundation:material:771>);
 
 recipes.removeByRecipeName("botanicadds:mana_tesseract_bind");

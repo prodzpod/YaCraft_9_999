@@ -1,0 +1,20 @@
+{
+	x: 1.5d,
+	y: 21.0d,
+	shape: "rsquare",
+	dependencies: [
+		"f664f244",
+		"97a9c9aa"
+	],
+	tasks: [{
+		uid: "7a9df2ec",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_magic",
+			tag: {
+				"Quark:RuneColor": 6,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

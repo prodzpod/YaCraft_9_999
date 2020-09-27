@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: 21.0d,
+	shape: "rsquare",
+	dependencies: [
+		"f664f244",
+		"7a969c63"
+	],
+	tasks: [{
+		uid: "9f92def9",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_stars",
+			tag: {
+				"Quark:RuneColor": 9,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

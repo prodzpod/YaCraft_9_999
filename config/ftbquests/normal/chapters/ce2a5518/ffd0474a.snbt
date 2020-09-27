@@ -9,10 +9,7 @@
 		uid: "2d4b0011",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "planarartifice:dimensional_curiosity"
+			item: "planarartifice:dimensional_curiosity"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

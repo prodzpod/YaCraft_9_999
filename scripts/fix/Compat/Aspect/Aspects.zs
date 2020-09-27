@@ -12,7 +12,7 @@ function registerAspects(baseAspect as CTAspectStack[], block as IItemStack, nug
     print("[Aspects.zs] Checking for compat");
     if (!isNull(block)) {
         print("[Aspects.zs] gave " ~ block.name ~ " aspects for thaumcraft");
-        block .setAspects(arrayScale(baseAspect, 9.0 * REDUCTION, [<aspect:Spatio> * 5])); 
+        block .setAspects(arrayScale(baseAspect, 9.0 * REDUCTION, [<aspect:spatio> * 5])); 
     } if (!isNull(nugget)) {
         print("[Aspects.zs] gave " ~ nugget.name ~ " aspects for thaumcraft");
         nugget.setAspects(arrayScale(baseAspect, REDUCTION / 9.0, [] as CTAspectStack[]));
@@ -108,9 +108,9 @@ setIngotAspects("Photonium", [<aspect:lux>], false);
 setIngotAspects("Uranium", [<aspect:potentia>, <aspect:mortuus>], false);
 setIngotAspects("Photonium", [<aspect:lux>], false);
 setIngotAspects("Alkimium", [<aspect:alkimia>], false);
-setIngotAspects("Bismuth", [<aspect:Tinctura>], false);
-setIngotAspects("Cobalt", [<aspect:Tempus>], false);
-setIngotAspects("Ardite", [<aspect:Spatio>], false);
+setIngotAspects("Bismuth", [<aspect:tinctura>], false);
+setIngotAspects("Cobalt", [<aspect:tempus>], false);
+setIngotAspects("Ardite", [<aspect:spatio>], false);
 setIngotAspects("Manyullyn", [<aspect:diabolus>], false);
 setIngotAspects("Constantan", [<aspect:sonus>], false);
 setIngotAspects("Signalum", [<aspect:fluctus>, <aspect:desiderium>], false);
@@ -119,7 +119,7 @@ setIngotAspects("Alubrass", [<aspect:visum>], false);
 setIngotAspects("Knightslime", [<aspect:aversio>, <aspect:praemunio>], false);
 setIngotAspects("Pigiron", [<aspect:bestia>], false);
 setIngotAspects("InertAethoria", [<aspect:fabrico>, <aspect:vitreus>, <aspect:luna>], false);
-setIngotAspects("Aethoria", [<aspect:instrumentum>, <aspect:desiderium>, <aspect:Tinctura>], false);
+setIngotAspects("Aethoria", [<aspect:instrumentum>, <aspect:desiderium>, <aspect:tinctura>], false);
 setIngotAspects("ChargedAethoria", [<aspect:machina>, <aspect:caeles>, <aspect:sol>], false);
 setIngotAspects("Astralite", [<aspect:praecantatio>, <aspect:desiderium>, <aspect:stellae>], false);
 setIngotAspects("Osmium", [<aspect:ventus>], false);

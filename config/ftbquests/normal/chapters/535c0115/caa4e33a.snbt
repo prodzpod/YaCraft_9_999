@@ -1,0 +1,17 @@
+{
+	x: -1.0d,
+	y: 16.0d,
+	shape: "rsquare",
+	dependencies: [
+		"cfe58890",
+		"bc6f806d",
+		"e615cd1a"
+	],
+	tasks: [{
+		uid: "abbadfc6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_time"
+		}]
+	}]
+}

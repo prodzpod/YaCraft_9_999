@@ -1,6 +1,7 @@
 {
 	x: -5.5d,
 	y: -7.0d,
+	shape: "rsquare",
 	dependencies: [
 		"dddb0960"
 	],

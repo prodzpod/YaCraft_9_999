@@ -1,0 +1,22 @@
+{
+	x: 4.0d,
+	y: 19.5d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"4e1bc14a",
+		"15e71a45",
+		"f24ea4ec",
+		"016892cb",
+		"2859648d",
+		"a18cfceb",
+		"f1e8e634"
+	],
+	tasks: [{
+		uid: "dfbafdc2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_humanity"
+		}]
+	}]
+}

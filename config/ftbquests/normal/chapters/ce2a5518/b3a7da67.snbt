@@ -6,10 +6,10 @@
 		"b9127ddd"
 	],
 	tasks: [{
-		uid: "9e37a11a",
+		uid: "efbafc74",
 		type: "item",
 		items: [{
-			item: "thaumicrestoration:block_infuser"
+			item: "thaumicrestoration:item_ingot 1 5"
 		}]
 	}]
 }

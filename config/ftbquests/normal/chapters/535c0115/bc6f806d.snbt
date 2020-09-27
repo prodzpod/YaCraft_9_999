@@ -4,7 +4,7 @@
 	shape: "rsquare",
 	dependencies: [
 		"800fd2f6",
-		"60ae19f5"
+		"e615cd1a"
 	],
 	tasks: [{
 		uid: "fab4b9e9",

@@ -1,0 +1,16 @@
+{
+	x: 2.25d,
+	y: 19.5d,
+	shape: "rsquare",
+	dependencies: [
+		"726670ef",
+		"1ff8d12f"
+	],
+	tasks: [{
+		uid: "787ac5fa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_will"
+		}]
+	}]
+}

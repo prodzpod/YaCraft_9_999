@@ -3,6 +3,9 @@
 	y: -9.0d,
 	shape: "gear",
 	dependencies: [
+		"d7490c0b",
+		"d4848711",
+		"90a8b0dd",
 		"41e151fe"
 	],
 	tasks: [{

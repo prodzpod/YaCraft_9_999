@@ -1,0 +1,18 @@
+{
+	x: 2.25d,
+	y: 18.0d,
+	shape: "rsquare",
+	dependencies: [
+		"f84907a1",
+		"a24935dc",
+		"4f6fd53a",
+		"57225ccd"
+	],
+	tasks: [{
+		uid: "926f0243",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_apocalypse"
+		}]
+	}]
+}

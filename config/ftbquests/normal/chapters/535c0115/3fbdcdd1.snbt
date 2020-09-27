@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: 22.0d,
+	shape: "rsquare",
+	dependencies: [
+		"257d3ae0",
+		"32451092"
+	],
+	tasks: [{
+		uid: "abf8a2e1",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_bifrost",
+			tag: {
+				"Quark:RuneColor": 16,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

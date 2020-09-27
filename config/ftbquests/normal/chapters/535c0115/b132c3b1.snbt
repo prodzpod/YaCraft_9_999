@@ -1,0 +1,20 @@
+{
+	x: 5.5d,
+	y: 21.0d,
+	shape: "rsquare",
+	dependencies: [
+		"f664f244",
+		"403bf3d5"
+	],
+	tasks: [{
+		uid: "2a0cf080",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_crafting",
+			tag: {
+				"Quark:RuneColor": 3,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

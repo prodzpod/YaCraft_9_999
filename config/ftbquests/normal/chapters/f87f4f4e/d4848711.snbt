@@ -1,14 +1,15 @@
 {
 	x: -7.5d,
 	y: -9.0d,
+	shape: "rsquare",
 	dependencies: [
 		"88638e6e"
 	],
 	tasks: [{
-		uid: "377881f3",
+		uid: "4776a84f",
 		type: "item",
 		items: [{
-			item: "minecraft:diamond"
+			item: "contenttweaker:industrial_diamond"
 		}]
 	}]
 }

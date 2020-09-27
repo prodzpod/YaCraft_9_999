@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: 16.5d,
+	shape: "rsquare",
+	dependencies: [
+		"15e71a45",
+		"f24ea4ec",
+		"1c29c03c",
+		"caa4e33a"
+	],
+	tasks: [{
+		uid: "e8977eeb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_death"
+		}]
+	}]
+}

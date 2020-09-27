@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 18.5d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"bc6f806d",
+		"95268c0a",
+		"1c29c03c",
+		"caa4e33a",
+		"e615cd1a"
+	],
+	tasks: [{
+		uid: "1272faca",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_power"
+		}]
+	}]
+}

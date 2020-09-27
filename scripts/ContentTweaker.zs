@@ -134,15 +134,55 @@ registerItem("ancient_construct", "UNCOMMON");
 registerItem("heart_of_all_seeds", "COMMON");
 registerItem("aura_infused_thaumium", "COMMON");
 registerItem("aura_infused_thaumium_plate", "COMMON");
+registerItem("hue_infused_thaumium", "COMMON");
+registerItem("hue_infused_thaumium_plate", "COMMON");
 registerFluid("gaiasteel", 0x0, true);
 
-registerItem("rune_of_elements", "UNCOMMON");
+registerItem("blank_rune", "COMMON");
+registerItem("blank_rune_darkened", "COMMON");
+registerItem("blank_rune_bifrost", "UNCOMMON"); // {"Quark:RuneColor": 16, "Quark:RuneAttached": 1b}
+registerItem("blank_rune_advanced_crude", "COMMON");
+registerItem("blank_rune_advanced", "RARE");
+
+for item in 0 .. 16 {
+    registerItem("attuned_rune_" ~ item, "COMMON");
+}
+
+registerItem("rune_of_guilt", "COMMON");
 registerItem("rune_of_time", "UNCOMMON");
-registerItem("rune_of_seasons", "UNCOMMON");
-registerItem("rune_of_humanity", "UNCOMMON");
-registerItem("rune_of_chaos", "RARE");
-registerItem("rune_of_order", "RARE");
-registerItem("rune_of_the_universe", "EPIC");
+registerItem("rune_of_space", "UNCOMMON");
+
+registerItem("rune_of_conquest", "UNCOMMON");
+registerItem("rune_of_famine", "UNCOMMON");
+registerItem("rune_of_war", "UNCOMMON");
+registerItem("rune_of_death", "UNCOMMON");
+
+registerItem("rune_of_elements", "RARE");
+registerItem("rune_of_power", "RARE");
+registerItem("rune_of_seasons", "RARE");
+registerItem("rune_of_humanity", "RARE");
+registerItem("rune_of_apocalypse", "RARE");
+registerItem("rune_of_will", "EPIC");
+
+registerItem("rune_of_blood", "EPIC"); // {"Quark:RuneColor": 14, "Quark:RuneAttached": 1b}
+registerItem("rune_of_sacrifice", "EPIC"); // {"Quark:RuneColor": 10, "Quark:RuneAttached": 1b}
+registerItem("rune_of_chaos", "EPIC"); // {"Quark:RuneColor": 7, "Quark:RuneAttached": 1b}
+
+registerItem("rune_of_crafting", "EPIC"); // {"Quark:RuneColor": 13, "Quark:RuneAttached": 1b}
+registerItem("rune_of_stars", "EPIC"); // {"Quark:RuneColor": 9, "Quark:RuneAttached": 1b}
+registerItem("rune_of_order", "EPIC"); // {"Quark:RuneColor": 0, "Quark:RuneAttached": 1b}
+
+registerItem("rune_of_life", "EPIC"); // {"Quark:RuneColor": 2, "Quark:RuneAttached": 1b}
+registerItem("rune_of_magic", "EPIC"); // {"Quark:RuneColor": 6, "Quark:RuneAttached": 1b}
+registerItem("rune_of_souls", "EPIC"); // {"Quark:RuneColor": 12, "Quark:RuneAttached": 1b}
+
+registerItem("rune_of_colors", "EPIC"); // {"Quark:RuneColor": 16, "Quark:RuneAttached": 1b}
+registerItem("rune_of_worlds", "EPIC"); // {"Quark:RuneColor": 5, "Quark:RuneAttached": 1b}
+registerItem("rune_of_bifrost", "EPIC"); // {"Quark:RuneColor": 16, "Quark:RuneAttached": 1b}
+
+registerItem("rune_of_awakening", "EPIC"); // {"Quark:RuneColor": 1, "Quark:RuneAttached": 1b}
+registerItem("rune_of_ascension", "EPIC"); // {"Quark:RuneColor": 4, "Quark:RuneAttached": 1b}
+registerItem("rune_of_the_universe", "EPIC"); // {"Quark:RuneColor": 11, "Quark:RuneAttached": 1b}
 
 registerItem("fabric_of_the_cosmos", "EPIC");
 
@@ -197,10 +237,7 @@ registerItem("hard_carbon_nugget", "COMMON");
 registerItem("boron_nitride_nugget", "COMMON");
 
 registerItem("industrial_diamond", "UNCOMMON");
-registerItem("pure_parchment", "UNCOMMON");
-registerItem("blank_rune", "COMMON");
-registerItem("blank_rune_darkened", "COMMON");
-registerItem("blank_rune_bifrost", "COMMON");
+registerItem("pure_parchment", "EPIC"); // {"Quark:RuneColor": 0, "Quark:RuneAttached": 1b}
 
 // function buildCoral(prefix as string, type as string) {
 //     var suffix = "_" ~ type;

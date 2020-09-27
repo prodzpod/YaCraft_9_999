@@ -1,0 +1,23 @@
+{
+	x: 4.5d,
+	y: 24.0d,
+	shape: "rsquare",
+	dependencies: [
+		"1949257b",
+		"86d38e97",
+		"3fbdcdd1",
+		"6bad1470"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "33146a9c",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_ascension",
+			tag: {
+				"Quark:RuneColor": 4,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

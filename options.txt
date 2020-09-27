@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:1.0
 gamma:0.52112675
 saturation:0.0
-renderDistance:8
+renderDistance:2
 guiScale:3
 particles:0
 bobView:true
@@ -13,7 +13,7 @@ maxFps:120
 fboEnable:true
 difficulty:2
 fancyGraphics:true
-ao:2
+ao:0
 renderClouds:true
 resourcePacks:["Silent_Nether_Portals.zip","ctp_1.2_MCv3.zip","Rustic_CTM_1.0.0.zip","Modernity-format3-v3.3.2.zip","Jeffy\u0027s+Natural+Animations+MC1.12.zip","clearwater.zip","ChorusPlus","danipack","[1.15+]+Mo\u0027s+Improved+Leaves++Foliage+v1.0","BotaniaRetexture.zip","AA+Pack.zip","Lich\u0027s+3D+Wands.zip","random_slimes_mralinoe_1.12.2.zip","MinecraftFont.zip","NumberedHotbar.zip","Quark+Trapdoor+Retexture.zip","Retextured+Better+Builders+Wands.zip","Sonomagy+TC6+v1.4.zip","IE+Breaker+Switch+Sound.zip","JAFF+Clear+Glass.zip","Glazed+Terracotta+Fix+1.12.zip"]
 incompatibleResourcePacks:["clearwater.zip","[1.15+]+Mo\u0027s+Improved+Leaves++Foliage+v1.0","Retextured+Better+Builders+Wands.zip"]
@@ -89,7 +89,6 @@ key_of.key.zoom:56
 key_Change Caster Focus:58
 key_Misc Caster Toggle:50
 key_keybind.baublesinventory:19
-key_quark.keybind.toggleAutojump:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -99,6 +98,7 @@ key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
 key_quark.keybind.lockBuilding:0
+key_quark.keybind.toggleAutojump:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0

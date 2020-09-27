@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 22.0d,
+	shape: "rsquare",
+	dependencies: [
+		"ea20a77a",
+		"fae38aac"
+	],
+	tasks: [{
+		uid: "4abf4f8e",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_souls",
+			tag: {
+				"Quark:RuneColor": 12,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

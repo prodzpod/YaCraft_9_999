@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 21.0d,
+	shape: "rsquare",
+	dependencies: [
+		"1ff8d12f",
+		"6709c1da"
+	],
+	tasks: [{
+		uid: "18bf0442",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_blood",
+			tag: {
+				"Quark:RuneColor": 14,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

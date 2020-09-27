@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: 22.0d,
+	shape: "rsquare",
+	dependencies: [
+		"5c0dc229",
+		"b132c3b1"
+	],
+	tasks: [{
+		uid: "1fcc63f3",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_order",
+			tag: {
+				"Quark:RuneColor": 0,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

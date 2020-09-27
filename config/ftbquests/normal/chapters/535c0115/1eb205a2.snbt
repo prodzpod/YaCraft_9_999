@@ -1,6 +1,7 @@
 {
 	x: 11.5d,
 	y: 8.5d,
+	shape: "rsquare",
 	dependencies: [
 		"493a2427"
 	],

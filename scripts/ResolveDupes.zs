@@ -436,3 +436,5 @@ addChisel("perpetual_ice", [<bewitchment:perpetual_ice>, <bewitchment:embittered
 mods.chisel.Carving.addGroup("terracotta");
 addChisel("terracotta", [<minecraft:hardened_clay>, <tconstruct:dried_clay>]);
 // stonecutter recipes ?????????????????????????????? do them if you have no life
+mods.chisel.Carving.removeGroup("sky_stone");
+addChisel("appliedenergistics2:sky_stone_brick_0", [<appliedenergistics2:smooth_sky_stone_block>, <appliedenergistics2:sky_stone_brick>, <appliedenergistics2:sky_stone_small_brick>]);

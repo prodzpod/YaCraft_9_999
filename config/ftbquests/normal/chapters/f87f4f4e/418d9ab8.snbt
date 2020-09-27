@@ -1,6 +1,7 @@
 {
 	x: -6.5d,
 	y: -5.0d,
+	shape: "rsquare",
 	hide_dependency_lines: true,
 	dependencies: [
 		"de528c53"

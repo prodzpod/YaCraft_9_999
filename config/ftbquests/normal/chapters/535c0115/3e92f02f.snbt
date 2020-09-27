@@ -1,0 +1,21 @@
+{
+	x: 2.25d,
+	y: 26.5d,
+	shape: "gear",
+	dependencies: [
+		"12df4cb7",
+		"ad4711ba"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "2eeb4f40",
+		type: "item",
+		items: [{
+			id: "contenttweaker:rune_of_the_universe",
+			tag: {
+				"Quark:RuneColor": 11,
+				"Quark:RuneAttached": 1b
+			}
+		}]
+	}]
+}

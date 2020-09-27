@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: 16.5d,
+	shape: "rsquare",
+	dependencies: [
+		"f1e8e634",
+		"1c29c03c",
+		"caa4e33a",
+		"a18cfceb"
+	],
+	tasks: [{
+		uid: "1d9e51e0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_conquest"
+		}]
+	}]
+}

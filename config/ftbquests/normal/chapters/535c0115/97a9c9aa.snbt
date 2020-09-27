@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: 19.5d,
+	shape: "rsquare",
+	hide_dependency_lines: true,
+	dependencies: [
+		"693bdc12",
+		"800fd2f6",
+		"60ae19f5",
+		"cfe58890"
+	],
+	tasks: [{
+		uid: "ba196b1c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rune_of_elements"
+		}]
+	}]
+}
